@@ -1,0 +1,305 @@
+AI Deployment and Orchestration Basket: Initial Investment Decision, 2026-08-19
+
+Date: 2026-08-19
+Action: Virtual BUY
+Reference portfolio: USD 1,000,000
+Total allocation: USD 50,000
+Portfolio weight: 5.0%
+
+Company	Ticker	Allocation	Weight
+ServiceNow	NOW	USD 12,500	1.25%
+SAP SE	SAP	USD 12,500	1.25%
+Salesforce	CRM	USD 12,500	1.25%
+UiPath	PATH	USD 12,500	1.25%
+Total		USD 50,000	5.0%
+
+The four positions start at the same size. This is not a claim that they have the same quality or expected return. I am buying exposure to one structural thesis first. I will decide the relative weights later after more company-specific work.
+
+There is no predetermined holding period.
+
+Why I am investing
+
+My thesis is that AI deployment will become both more important and more industrialized.
+
+The basic problem is simple.
+
+Model capability can improve much faster than companies can turn that capability into real economic work.
+
+A model may be able to reason, write code, search, use tools or plan tasks. That does not mean a large company can immediately let it operate inside finance, customer support, manufacturing, IT, sales or procurement.
+
+Between capability and economic output sit data, permissions, workflows, integrations, evaluation, governance and execution.
+
+So the real chain is closer to:
+
+Capability -> Discovery -> Deployment -> Execution -> Outcome
+
+I think the middle of that chain becomes much more valuable if model capability keeps improving.
+
+The first reason is that deployment itself can now begin to use AI.
+
+A large company may have thousands of internal processes and no clear idea which ones should actually use AI. Traditionally, people would have to inspect those processes, find possible use cases, build integrations and test them one by one.
+
+Increasingly, AI can participate in that search.
+
+It can analyze processes, identify candidates, generate prototypes, run evaluations, compare alternatives and help determine which systems are worth putting into production.
+
+That changes deployment.
+
+AI is no longer only the thing being deployed. It can increasingly help discover where AI should be deployed.
+
+If that works, deployment starts moving away from individual manual projects and toward a repeatable process.
+
+I do not think it becomes frictionless. I think the amount of deployment that can be produced with the same amount of human effort can rise substantially.
+
+That is what I mean by industrialization.
+
+Why this matters to the larger AI cycle
+
+There is another reason I think this layer has to grow.
+
+If AI capability keeps improving but deployment remains slow, deployment becomes the bottleneck.
+
+The larger loop is:
+
+Capability -> Deployment -> Usage -> Data -> Better Systems -> More Deployment
+
+Without deployment, model improvement does not automatically turn into persistent economic demand.
+
+This matters beyond enterprise software.
+
+Successful deployment creates new AI workloads. Those workloads create more model usage, more data, more experimentation and eventually more demand for compute and infrastructure.
+
+Deployment is therefore one of the mechanisms that translates technical capability into actual AI demand.
+
+That also creates a second-order effect.
+
+Normally we would say:
+
+AI demand -> demand for deployment
+
+But better deployment can also create more AI demand.
+
+If a useful AI process produces $10 of value but costs $15 to discover, integrate and maintain, it probably never gets deployed.
+
+If better deployment infrastructure cuts the total cost to $5, the same process becomes economically attractive.
+
+So:
+
+Lower deployment cost -> more viable use cases -> more deployment -> more AI demand
+
+Deployment can expand the market it serves.
+
+Friction data
+
+The other part of this thesis is what happens after deployment.
+
+Real systems fail in ways that benchmarks do not show.
+
+They encounter missing data, bad permissions, strange exceptions, broken integrations, unexpected user behavior and cases where a human has to intervene.
+
+Those failures produce information.
+
+A company can learn:
+
+what kinds of agents fail,
+
+where context is missing,
+
+which workflows are difficult,
+
+which mistakes are expensive,
+
+which interventions fix the problem,
+
+and which AI use cases looked good in theory but produced little economic value.
+
+I think this kind of friction data can become valuable.
+
+The loop is:
+
+Deployment -> Friction -> Learning -> Better Deployment -> More Deployment
+
+A competitor can copy a visible product feature. It cannot instantly copy years of operational failure history.
+
+The important question is whether companies such as ServiceNow, SAP, Salesforce or UiPath can turn that experience into reusable institutional knowledge rather than leaving it inside individual employees and consulting projects.
+
+If they can, deployment experience itself becomes part of the moat.
+
+The search for deployment also consumes resources
+
+There is one additional idea I want recorded now because it could become important later.
+
+The search for useful deployment may itself become a major computational activity.
+
+Before a company finds 100 production use cases, it may analyze 10,000 processes, identify 2,000 candidates, prototype hundreds and run large numbers of evaluations and experiments.
+
+Most may fail.
+
+Compute was still used.
+
+And the failures may still produce useful information.
+
+So there may be two different sources of demand:
+
+production deployment
+
+and
+
+search for deployment
+
+The second one is easier to miss.
+
+The chain could become:
+
+Capability -> Search for Deployment -> Experiments -> Evaluation -> Production -> Operational Data -> Better Search
+
+This could strengthen the wider compute and energy thesis because companies may consume significant resources before a production workload even exists.
+
+But this is not automatically bullish.
+
+If deployment discovery requires enormous amounts of compute, energy or human supervision, that could also slow adoption.
+
+I do not yet know the size of this effect.
+
+It needs separate analysis.
+
+Why these four companies
+
+I am not trying to predict one winner today.
+
+The four positions represent different ways of owning the same shift.
+
+ServiceNow
+
+ServiceNow is probably the strongest current fit.
+
+If enterprises run more autonomous agents, they still need context, permissions, workflow state, governance and controlled execution.
+
+ServiceNow does not need to build the best foundation model for this thesis to work.
+
+It can benefit if many different models become capable enough to act inside real companies and all require an operational layer around them.
+
+The main question is how much of that value ServiceNow can actually capture.
+
+SAP
+
+SAP has a different advantage.
+
+It already sits inside many of the processes that actually run large companies.
+
+Finance, procurement, manufacturing and supply chains contain real operational state.
+
+If AI increasingly acts inside those processes, that state can become more valuable.
+
+The risk is that SAP remains the backend while another company owns the higher-value orchestration layer.
+
+Salesforce
+
+Salesforce has a narrower position, but a valuable one.
+
+It already contains customer relationships, sales processes, service histories and commercial context.
+
+If large amounts of customer-facing work become agentic, Salesforce is in a strong position to participate.
+
+The open question is whether Agentforce creates a genuinely larger platform or mostly becomes another way to monetize the existing Salesforce customer base.
+
+UiPath
+
+UiPath is the highest-risk position.
+
+It is also the most direct bet on orchestration.
+
+The company came from robotic process automation. The much larger opportunity is to become the layer coordinating AI agents, software robots, humans and enterprise applications.
+
+If that happens, RPA was only the first version of the business.
+
+If future models become good enough to operate software directly and remove much of the need for UiPath, the opposite can happen.
+
+That is why PATH starts at the same small weight as the others instead of receiving a large position based on upside alone.
+
+What I am not claiming
+
+I do not know how large this industry becomes.
+
+I do not know whether deployment and orchestration become one clearly defined software category.
+
+I do not know whether the winners will be existing enterprise software companies, new specialized companies, foundation-model providers or internal enterprise systems.
+
+I also do not know how much of deployment can eventually be automated.
+
+Those are open questions.
+
+My current belief is narrower:
+
+AI capability is improving enough that the bottleneck increasingly moves from producing intelligence to getting that intelligence into real systems.
+
+The ability to discover useful deployments, integrate them, control them, evaluate them and learn from their failures should therefore become more economically important.
+
+I think enough of that process can be industrialized to justify owning companies already positioned near enterprise workflows, state and execution.
+
+That is the reason for the initial investment.
+
+It is not yet the reason for a much larger one.
+
+What I will analyze next
+
+The first question is how large deployment and orchestration can actually become.
+
+That includes the direct industry itself, but also the amount of economic activity created by searching for deployments.
+
+I also want to understand how quickly model capability continues improving. The recent capability trend is strong, but I do not want to simply assume that exponential-looking progress continues indefinitely.
+
+After that, the important question becomes company-specific:
+
+Which of these companies actually captures the value?
+
+Which one turns deployment experience into reusable learning?
+
+Which one has the strongest position if orchestration becomes a major enterprise layer?
+
+And which one is already priced as if that future is guaranteed?
+
+Those answers will determine future sizing.
+
+What would weaken the thesis
+
+The thesis becomes materially weaker if model capability stops improving enough to keep expanding the set of useful enterprise tasks.
+
+It also weakens if deployment remains permanently dependent on large amounts of bespoke human work, if AI cannot materially reduce the cost of discovering useful deployments, or if enterprises can easily build the entire orchestration layer themselves.
+
+Another risk is that the industry thesis is right but these companies are wrong.
+
+Deployment could become extremely important while most of the economics go to another company.
+
+That distinction matters and will be preserved in later postmortems.
+
+Portfolio decision
+
+I am therefore allocating USD 50,000, equal to 5.0% of the reference portfolio, to this thesis on 2026-08-19.
+
+Initial positions:
+
+NOW: USD 12,500
+SAP: USD 12,500
+CRM: USD 12,500
+PATH: USD 12,500
+
+These are starter positions.
+
+The equal weights are not intended to remain permanent.
+
+Later adds, reductions or exits will be recorded as new dated decisions instead of changing this record after the fact.
+
+Reference execution prices and resulting virtual share counts can be recorded separately using the chosen August 19 reference prices.
+
+Current thesis
+
+AI capability is improving faster than organizations can reliably translate it into real economic work. I believe this makes deployment an increasingly important bottleneck. AI can now begin helping with the search for useful deployment itself, which creates the possibility that deployment becomes more systematic and less dependent on bespoke human work. Lower deployment costs can make more AI use cases economically viable, while real deployment produces friction data that can improve future systems. I do not yet know how large this industry becomes or which architecture ultimately wins. I am investing now because I think the direction of the shift is sufficiently strong to justify an initial position while those questions remain open.
+
+Record status
+
+This decision is recorded on 2026-08-19 and remains part of the Pre-Framework Research and Pilot Period.
+
+The formal Institutional Track Record begins on 2026-09-01.
+
+The original decision, allocation and stated uncertainties will remain historically recoverable.
