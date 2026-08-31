@@ -30,6 +30,14 @@ At that point I treated that thesis mostly as a distant optionality layer.
 
 I did not think I had enough evidence to pay for it.
 
+That hesitation was not just theoretical. I deliberately stayed out despite liking the company, and the stock subsequently fell from the USD 278.09 level at which I rejected it to roughly USD 260.97 when I opened this position, a decline of about 6%.
+
+I do not treat that short-term price move as proof that the August 11 valuation judgment was fundamentally correct. A few weeks of stock movement cannot validate a long-duration thesis.
+
+But the sequence matters for the record. I did not chase Amazon simply because I thought the company was strategically impressive. I waited because I thought the expected return at the earlier price did not compensate me enough for the uncertainty. I am now entering at a lower price while also having a better-developed model of where the upside could come from.
+
+So the change is not merely that Amazon became cheaper. It is that **price moved in my favor while my understanding of the opportunity improved**.
+
 I am now opening a USD 3,000 starter position because my model of what has to happen has changed.
 
 The company does not need to suddenly transform into a fully generalized economic machine for the thesis to begin creating value.
@@ -372,9 +380,13 @@ The old decision remains part of the record because it reflected what I believed
 
 The new decision records a genuine update:
 
-- the price is lower,
+- I hesitated and stayed out at USD 278.09 despite liking the company,
+- the stock then fell to roughly USD 260.97 before my entry,
+- the price is therefore lower,
 - the ordinary AWS demand thesis remains strong,
 - and my model of the larger Amazon opportunity has changed from a distant binary transformation to a sequence of smaller, testable and potentially reinforcing mechanisms.
+
+The roughly 6% decline since my rejection is not treated as proof that I was right about Amazon's long-term value. It is simply part of the prospective record: waiting has so far produced a better entry price rather than forcing me to chase the stock higher.
 
 The largest unresolved question remains marginal ROIC.
 
