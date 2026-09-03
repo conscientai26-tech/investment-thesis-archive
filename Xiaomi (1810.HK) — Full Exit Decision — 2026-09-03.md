@@ -6,171 +6,203 @@
 **Entry reference price:** HKD 27.76  
 **Exit date:** 2026-09-03  
 **Exit reference price:** HKD 27.44 (HKEX close)  
-**Position status after this record:** CLOSED — 0% remaining
+**Position status:** CLOSED — 0% remaining
 
-Approximate position return from the reference prices: **-1.15%** before fees/FX effects. On the $15,000 virtual allocation this corresponds to roughly **-$173**.
+Approximate return from the recorded reference prices: **-1.15%** before fees and FX effects, or roughly **-$173** on the $15,000 virtual position.
 
 ---
 
-# Why I am exiting
+# Why I sold
 
-The original Xiaomi thesis was not simply that Xiaomi sells smartphones. The thesis was that Xiaomi could use its historically strong price-performance position to acquire a very large global user base, deepen that base through IoT, HyperOS, cars and other devices, and eventually turn the resulting Human × Car × Home graph into an interconnected AI ecosystem.
+My original Xiaomi thesis was straightforward.
 
-The original causal chain was roughly:
+Xiaomi had built a huge global user base by offering unusually good hardware for the price. The long-term idea was that this cheap and capable hardware would pull more people into Xiaomi, those users would gradually own more Xiaomi devices, and Xiaomi could eventually turn that installed base into a connected Phone + Home + Car ecosystem with AI sitting across all of it.
+
+The chain was roughly:
 
 **strong price/performance → high device volume → large installed base → more Xiaomi devices per user → deeper ecosystem → AI integration → switching costs / monetization → long-term value capture**
 
-The new research did not prove that the final ecosystem thesis is wrong. In fact, the number of users with 5+ connected Xiaomi devices continues to grow strongly, and the Human × Car × Home / AI direction remains strategically credible.
+I still think the last part of that chain is possible. Xiaomi's connected-device ecosystem is real, users with 5+ devices are still growing strongly, and Human × Car × Home is not just marketing language. There is a credible technological path there.
 
-The problem is that I had not sufficiently analysed the durability of the *first link* in the chain: the competitive advantage that originally brings users into Xiaomi.
+The problem is that I had not looked closely enough at the first link in the chain: **why Xiaomi wins the customer in the first place, and what has to remain true for that advantage to keep working.**
+
+That changed the way I see the position.
 
 ---
 
-# The principle extracted from this case
+# Principle I took from this
 
-## Dynamic Competitive Advantage / Advantage Migration
+## A moat is not a static label
 
-A moat should not be treated as a static company attribute.
+It is not enough to say a company has a moat.
 
-The correct sequence is:
+The better sequence is:
 
-**What does the company currently win on relative to competitors?**  
-→ **What enables that advantage?**  
-→ **What external and internal conditions does the advantage depend on?**  
-→ **Are those conditions becoming stronger or weaker?**  
-→ **Can the company preserve the advantage, or migrate it into a new one before the old advantage erodes?**
+**What does the company win on relative to competitors?**  
+→ **Why can it offer that?**  
+→ **What does that advantage depend on?**  
+→ **Are those dependencies getting stronger or weaker?**  
+→ **If the old advantage weakens, can the company move the customer relationship into a new advantage before it matters?**
 
 In compact form:
 
-**Current Advantage → Underlying Enablers → Dependencies → Durability → Advantage Migration / Expansion**
+**Current Advantage → Enablers → Dependencies → Durability → Advantage Migration / Expansion**
 
-This matters because an apparently strong moat can be fragile if the conditions producing it change. Conversely, a company can survive the decline of an old moat if it successfully transfers the economic relationship with the customer into a new technological layer.
+This matters because a strong-looking moat can still be fragile if the conditions underneath it change.
 
-The key investment question is therefore not only:
+The reverse is also true. A company can lose the old form of its moat and still become stronger if it successfully transfers the customer relationship into a new layer.
+
+Microsoft moving from on-premise software into cloud is the kind of transition I mean. Nokia failing to move from hardware leadership into the smartphone ecosystem is the opposite.
+
+So the question is not just:
 
 > How strong is the moat today?
 
 It is:
 
-> What must remain true for this moat to continue to exist, and can the company migrate the advantage if those conditions change?
+> What has to remain true for this moat to keep existing, and what happens if those conditions change?
 
-A particularly important alpha setup can exist when the market sees erosion of an old advantage but underestimates the formation of a stronger new advantage. The opposite is also possible: the market may assume successful migration before the new advantage is economically proven.
-
----
-
-# New bottleneck-cycle lesson extracted from Xiaomi
-
-## Low-price moats are dangerous during fast, chaotic bottleneck cycles
-
-Companies whose primary moat is **low price / extreme price-performance** can be unusually vulnerable during periods in which bottlenecks migrate quickly and input costs become chaotic.
-
-Why:
-
-A low-price moat often depends on several cost variables remaining sufficiently abundant and predictable.
-
-For Xiaomi, one important dependency is inexpensive mobile memory and other smartphone components.
-
-When an input suddenly becomes scarce:
-
-**bottleneck forms → component cost rises → low-price economics compress**
-
-The company then has only a few broad responses:
-
-1. **Keep the low price and sacrifice margin** → the business economics deteriorate.
-2. **Reduce specifications / quality** → the price-performance advantage deteriorates.
-3. **Raise prices / move the mix upward** → the relative price advantage deteriorates and customers are pushed closer to premium competitors.
-
-In all three cases, the bottleneck attacks the *mechanism of the moat itself*.
-
-This is different from a company whose moat is software switching costs, network effects, proprietary data, regulation, or a scarce technological capability. For those firms, a commodity input shock may reduce profits temporarily without directly destroying the reason customers choose the company.
-
-Therefore:
-
-> **The faster and more chaotic the bottleneck cycle, the more dangerous a moat based primarily on cheap prices becomes, because the cost structure supporting the moat can change faster than the company can reposition the customer value proposition.**
-
-This does not mean every low-cost company is bad. A low-cost moat is much stronger when the low cost comes from a structurally superior production process, proprietary technology, scale, vertical integration, or a cost curve competitors cannot reproduce. It is more fragile when it depends heavily on external commodity/component abundance.
+That is now a core part of how I want to analyse companies.
 
 ---
 
-# Xiaomi-specific bottleneck
+# Second principle: low-price moats are dangerous in fast bottleneck cycles
 
-The immediate physical bottleneck is **mobile memory and related component economics**.
+This Xiaomi case also gave me a more specific rule.
 
-The economically relevant bottleneck for Xiaomi is broader:
+> **Companies whose moat depends heavily on being cheap are unusually exposed when bottlenecks move quickly and input costs become chaotic.**
 
-> **the ability to deliver unusually good hardware at a low consumer price while still retaining acceptable margins.**
+A low-price moat often works only because certain inputs remain abundant and predictable enough.
 
-The AI infrastructure boom has pushed memory suppliers toward high-value server/HBM demand and raised mobile DRAM/NAND costs. This disproportionately hurts low-ASP phones because the same absolute component-cost increase represents a much larger percentage of the device price and margin.
+In Xiaomi's case, one of those inputs is mobile memory and other smartphone components.
 
-This matters more for Xiaomi than for a premium vendor because Xiaomi historically generated customer acquisition through unusually aggressive price-performance.
+When one of those inputs suddenly becomes scarce or much more expensive, the company gets boxed in.
 
-If the bottleneck were clearly temporary and Xiaomi intended to preserve the same winning strategy until costs normalized, this would be easier to hold through.
+It can keep prices low and accept worse margins.
 
-The problem is that Xiaomi is simultaneously pursuing a longer-term premiumization strategy: reducing some low/mid-end volume, increasing its product mix, and trying to move customers upward.
+It can cut specs and weaken the price-performance advantage.
 
-Therefore the current change cannot be treated purely as a short-term cost shock.
+Or it can raise prices and move customers closer to competitors that already have stronger premium brands.
+
+None of those options is automatically fatal. But unlike a normal cost shock, this kind of shock can reach directly into the reason the customer chose the company in the first place.
+
+That is the important distinction.
+
+A company whose moat comes from switching costs, proprietary data, regulation, network effects or a unique technical capability can often absorb a commodity shock without changing the customer value proposition very much.
+
+A company whose moat is mostly **"you get more for less money"** has less room.
+
+This does not mean low-cost companies are bad investments. A low-cost moat can be extremely strong when the cost advantage itself comes from something structural: superior manufacturing, proprietary technology, scale, vertical integration or a cost curve competitors cannot match.
+
+It is much more fragile when it depends on external components simply staying cheap.
 
 ---
 
-# The strategic transition risk
+# The Xiaomi bottleneck
 
-Xiaomi is effectively attempting an Advantage Migration:
+The immediate external shock is **memory and component cost pressure**.
 
-**Old proven advantage:** extreme hardware price-performance / affordable technology  
+The more important Xiaomi-specific problem is:
+
+> **Can Xiaomi continue offering unusually good hardware at a low price while still earning acceptable margins?**
+
+That is the economic bottleneck.
+
+AI infrastructure demand has pulled memory supply and capital toward higher-value server and HBM products. Mobile DRAM and NAND became much more expensive. That hurts every smartphone maker, but it hurts low-ASP phones more because the same absolute increase in component cost is a much larger percentage of the device price and margin.
+
+This is where I originally oversimplified the situation.
+
+If this were only a temporary memory shock and Xiaomi planned to keep the same strategy until costs normalized, I would be much more willing to hold through it.
+
+But Xiaomi is also pursuing premiumization as a longer-term strategy. That did not start with the current memory shock. The shock may be accelerating it, but it did not create it.
+
+Those two things need to stay separate:
+
+**Memory/component inflation = current external pressure.**  
+**Premiumization = longer-term strategic direction.**
+
+The concern is not that Xiaomi has already lost its price-performance advantage. I do not think the evidence is strong enough to say that.
+
+The concern is that the advantage is under pressure at the same time Xiaomi is deliberately changing the product mix that historically helped build its user base.
+
+That makes the future path harder to underwrite.
+
+---
+
+# The transition I would now have to bet on
+
+Xiaomi may be moving from one advantage to another:
+
+**Old proven advantage:** strong hardware price-performance / affordable technology  
 ↓  
-**Transition:** premiumization + deeper ecosystem + higher value per user  
+**Transition:** higher product mix + premiumization + deeper ecosystem + higher value per user  
 ↓  
 **Possible new advantage:** Human × Car × Home + HyperOS + MiMo + interconnected AI + switching costs
 
-The possible new moat could be much stronger than the old one.
+The new advantage could end up being much stronger than the old one.
 
-However, it is not yet economically proven strongly enough for me to underwrite the transition with the current position.
+If Xiaomi turns hundreds of millions of users into households with phones, wearables, appliances, cars and an AI layer that works across all of them, the company could become far more defensible than a business that mainly wins by offering better specs for the money.
 
-The current evidence is mixed:
+But I do not think the economic proof is there yet.
 
-- Smartphone shipments and market share have weakened sharply.
-- Average selling price has risen substantially, partly because Xiaomi deliberately reduced lower-end mix.
-- The existing ecosystem continues to deepen; users with 5+ Xiaomi devices are still growing strongly.
-- Xiaomi's connected-device base exceeds one billion devices.
-- The AI / Human × Car × Home strategic direction is credible.
-- But the monetization/value-capture layer has not yet accelerated enough to prove that the new ecosystem moat can replace the old acquisition moat.
+The evidence is mixed:
 
-This creates a dangerous sequence:
+- smartphone shipments and market share have weakened sharply;
+- average selling price has risen a lot, partly because Xiaomi deliberately sold fewer lower-end devices;
+- the existing ecosystem is still getting deeper;
+- users with 5+ Xiaomi devices continue to grow strongly;
+- the connected-device base is now above one billion devices;
+- the Human × Car × Home / AI direction is credible;
+- but I still do not see enough evidence that monetization, retention and profit per user are improving fast enough to prove that the new moat can replace any weakening in the old acquisition engine.
 
-**old acquisition advantage weakens before the new monetization/retention advantage is fully proven.**
+That last point is what matters most to me.
 
-A large existing installed base can hide this problem for years because users acquired under the old value proposition remain active until their next upgrade cycle. Shipments and market share can weaken first; installed-base growth and MAU can deteriorate later.
+The risk is not simply "Xiaomi is getting worse."
 
----
+The risk is:
 
-# Why this is a full exit rather than a trim
+> **The old customer-acquisition advantage comes under pressure before the new retention and monetization advantage is fully proven.**
 
-The thesis has become more dependent on a successful transition than I originally understood.
+A large installed base can hide that for a while. People who bought Xiaomi under the old value proposition remain active users until their next upgrade cycle. Shipments and market share can weaken first. Installed-base growth and MAU can react much later.
 
-I am no longer underwriting a simple continuation of an already-proven competitive advantage. I would now be underwriting three uncertain things simultaneously:
-
-- preservation or reconstruction of Xiaomi's price-performance edge under a higher component-cost regime;
-- successful premiumization against Huawei, Samsung and Apple;
-- successful economic conversion of Xiaomi's growing interconnected ecosystem into higher retention, ARPU, margins and cash flow.
-
-That is too much unproven dependency for the current position.
-
-The AI / interconnected-device thesis may still ultimately be correct. The sell decision reflects insufficient stability of the *company-specific path to capturing that value*, not rejection of the technological direction itself.
+So I do not want to treat current MAU growth as proof that the acquisition engine is fine.
 
 ---
 
-# What would justify a future re-entry
+# Why I exited fully instead of trimming
 
-A later Xiaomi re-entry becomes materially more attractive if evidence shows several of the following:
+The thesis now depends on more things going right than I originally understood.
 
-- memory/component pressure normalizes and Xiaomi restores clearly superior price-performance without sacrificing margins;
+To keep the position, I would effectively be betting on all three of these:
+
+- Xiaomi preserves or rebuilds a clear price-performance advantage under a more difficult component-cost environment;
+- premiumization works well enough that higher prices do not simply push too many customers toward Huawei, Samsung or Apple;
+- the growing connected ecosystem turns into materially better retention, ARPU, margins and cash flow.
+
+All three are plausible.
+
+None is proven enough for me to want the position today.
+
+The important point is that I am not selling because I think the interconnected-AI thesis is dead. I am selling because the **company-specific path from that technological thesis to durable economic value has become less stable than I originally thought.**
+
+That is enough for me to close the position.
+
+---
+
+# What would make me buy Xiaomi again
+
+I would reconsider Xiaomi if the evidence becomes cleaner.
+
+Things I would want to see:
+
+- memory/component pressure eases and Xiaomi still offers clearly superior price-performance without destroying margins;
 - smartphone market share stabilizes after the current bottleneck;
-- Xiaomi proves that higher-priced devices retain strong demand and do not simply push customers toward Huawei, Samsung or Apple;
-- 5+ device users continue compounding strongly;
-- service revenue / gross profit / ARPU begins to grow faster with ecosystem depth;
-- HyperOS/MiMo produces measurable retention, cross-selling or switching-cost improvements;
+- higher-priced Xiaomi devices show durable demand rather than simply losing customers to Huawei, Samsung or Apple;
+- users with 5+ devices keep compounding strongly;
+- services revenue, gross profit or ARPU begin to accelerate with ecosystem depth;
+- HyperOS/MiMo leads to measurable retention, cross-selling or switching-cost improvements;
 - EV/AI economics improve materially;
-- Xiaomi demonstrates that its future moat is not merely a weaker version of its old low-price advantage but a stronger ecosystem advantage;
-- the market continues pricing Xiaomi as a low-margin hardware company after the new value-capture economics become observable.
+- Xiaomi proves that the new ecosystem moat is stronger than the old low-price moat rather than just a weaker replacement for it;
+- the market still values Xiaomi like a low-margin hardware company after those new economics become visible.
 
-Until then, the position is closed.
+Until then, the position stays closed.
