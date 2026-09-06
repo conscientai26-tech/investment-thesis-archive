@@ -1,401 +1,1665 @@
-# Fünf AI-Investmentthesen für die nächste Phase des Zyklus
+# Die fünf starken AI-Investmentthesen – Framework und Zustandsanalyse September 2026
 
-Die meisten AI-Investmentthesen sind zu flach. „AI braucht mehr Chips“, „AI braucht mehr Strom“, „Cloud wächst“ oder „Software wird produktiver“ kann alles stimmen und trotzdem kein gutes Investment ergeben. Sobald ein Mechanismus offensichtlich ist, kann er im Kurs längst vollständig oder sogar übertrieben enthalten sein.
+Die meisten AI-Investmentthesen sind zu flach. „AI braucht mehr Chips“, „AI braucht mehr Strom“, „Cloud wächst“ oder „Software wird produktiver“ kann alles richtig sein und trotzdem zu einem schlechten Investment führen.
 
-Deshalb reicht es nicht, eine technologische Zukunft richtig vorherzusagen. Man muss verstehen, wo in dieser Zukunft tatsächlich wirtschaftlicher Wert entsteht, wer ihn abschöpft, wie lange dieser Vorteil hält, wie viel Kapital dafür eingesetzt werden muss und welche Zukunft der aktuelle Kurs schon voraussetzt.
+Der Grund ist einfach: Eine technologische Wahrheit ist noch keine Investmentthese. Wenn jeder weiß, dass AI mehr GPUs benötigt, kann Nvidia trotzdem zu teuer sein. Wenn jeder weiß, dass Datacenter mehr Strom brauchen, kann ein Stromproduzent trotzdem kaum zusätzliche ökonomische Rente abschöpfen. Wenn AI professionelle Software wertvoller macht, kann der Anbieter trotzdem Marktwert verlieren, weil Investoren erwarten, dass ein Foundation-Model künftig die Kundenschnittstelle übernimmt.
 
-Aus unserer bisherigen Arbeit ergeben sich fünf Thesis-Familien, die zusammen ein ziemlich vollständiges Bild der nächsten AI-Phase geben: Scarce-Core Expansion Machines, Catch-up Giants, Bottleneck Asymmetry, Deep bzw. Railway Bottlenecks und Bottleneck Migration. Keine davon funktioniert isoliert. Über allen fünf liegen dieselben harten Investmentfragen: Capital Conversion, Value Capture, Erwartungsniveau, Fragilität und Portfolio-Korrelation.
+Die eigentliche Investmentfrage besteht deshalb aus mindestens vier Ebenen:
 
-## 1. Abundance verschiebt Knappheit
+Was verändert AI real im Wirtschaftssystem?
 
-Der wichtigste Ausgangspunkt ist simpel: AI beseitigt Knappheit nicht. Sie verschiebt sie.
+Wo entsteht dadurch neue Knappheit oder neue wirtschaftliche Macht?
 
-Wenn Analyse, Coding, Recherche, Planung und Teile professioneller Wissensarbeit billiger werden, steigt der relative Wert von Dingen, die nicht im selben Tempo skalieren. Auf der physischen Seite sind das etwa HBM, Networking, Optics, Power, Cooling, Land, Netzanschlüsse, Transmission und Baukapazität. Auf der Software- und Institutionsebene sind es Unternehmenszustand, Berechtigungen, geprüfte Daten, Compliance, Provenance, Transaktionsrechte und echte Execution.
+Wer kann diesen Wert tatsächlich abschöpfen?
 
-Mehr Compute macht also nicht einfach „Compute wichtiger“. Es erzeugt eine Kette: mehr Compute braucht mehr Networking; größere Cluster erhöhen den Wert von Optics; mehr installierte Leistung erhöht Rack Density; Rack Density verschärft Power- und Cooling-Probleme; mehr Datacenter drücken irgendwann gegen Grid- und Transmission-Grenzen.
+Wie viel davon ist im Aktienkurs bereits enthalten?
 
-Genau deshalb ist die interessantere Frage nicht „Was ist heute knapp?“, sondern: Welche heutige Capacity-Erweiterung löst den aktuellen Engpass, und welcher neue Engpass wird dadurch als Nächstes bindend?
+Aus unserer bisherigen Arbeit ergeben sich fünf besonders starke Thesis-Familien:
 
-## 2. Der Bottleneck Cycle
+Scarce-Core Expansion Machines
 
-Ein Engpass ist selten dauerhaft derselbe. Er durchläuft einen Zyklus.
+Catch-up Giants
 
-Zuerst entsteht Abundance. Eine neue Technologie macht einen Input billiger oder leistungsfähiger. Dann wird ein Komplement knapp. Der knappe Input bekommt Pricing Power, Backlogs steigen, Kunden reservieren Capacity und teilweise finanzieren sie den Ausbau sogar direkt.
+Bottleneck Asymmetry
 
-Genau in dieser Phase entsteht aber auch die Gegenreaktion. Je wichtiger und teurer ein Bottleneck wird, desto größer wird der Anreiz der Kunden, ihn zu umgehen. Hyperscaler bauen eigene Chips, entwickeln alternative Architekturen, sichern langfristige Lieferverträge, investieren in Lieferanten oder versuchen bestimmte Teile der Infrastruktur selbst zu kontrollieren.
+Deep / Railway Bottlenecks
 
-Gleichzeitig reagiert der Bottleneck-Anbieter selbst. Hohe Margen und starke Nachfrage finanzieren CapEx, R&D und neue Capacity. Das heißt: Ein Engpass erzeugt die Mittel und die Motivation für seine eigene spätere Abschwächung.
+Bottleneck Migration / Next-Bottleneck Investing
 
-Wenn diese beiden Reaktionen erfolgreich sind, entspannt sich der alte Bottleneck. Das Gesamtsystem kann stärker wachsen. Genau dieses Wachstum erzeugt den nächsten Engpass.
+Diese fünf Thesen beschreiben nicht fünf voneinander getrennte Branchen. Sie beschreiben fünf unterschiedliche Wege, auf denen ökonomischer Wert während des AI-Ausbaus entstehen und wandern kann.
 
-Das ist der Kern des Bottleneck-Migrationszyklus:
+Der interessanteste Teil beginnt inzwischen allerdings dort, wo die Theorie auf den heutigen Markt trifft.
 
-Abundance -> neuer Engpass -> Scarcity Rent -> Gegenreaktion -> Capacity-Ausbau -> Entspannung -> Systemexpansion -> nächster Engpass.
+Denn im September 2026 sehen wir bereits drei völlig unterschiedliche Zustände.
 
-Für Investing ist die Konsequenz wichtig: Der beste Einstieg liegt nicht zwingend dort, wo die Knappheit heute maximal sichtbar ist. Oft ist der interessantere Trade der nächste Bottleneck, bevor er Konsens wird.
+Bei manchen Thesen hat der Markt die Entwicklung längst erkannt. TSMC, Arista, Vertiv, KLA, ASML oder Coherent sind keine unbekannten AI-Infrastrukturgeschichten mehr.
 
-## 3. Breakthrough Pressure und Vertical Integration Frontier
+Bei anderen Unternehmen ist die fundamentale Entwicklung sehr stark, während der Kurs erstaunlich wenig davon reflektiert. Broadcom, Cadence oder Synopsys fallen teilweise in diese Kategorie.
 
-Je höher die Rente eines Bottlenecks und je strategischer die Abhängigkeit, desto größer wird der ökonomische Wert einer Alternative. Aber nicht jeder Engpass lässt sich gleich leicht internalisieren.
+Und bei einer dritten Gruppe hat der Markt die Aktie bewusst abgestraft, weil er die eigentliche These infrage stellt. Das ist bei SAP, RELX und Wolters Kluwer besonders interessant. Hier besteht der mögliche Alpha nicht darin, dass der Markt AI „übersehen“ hat. Der Markt sieht AI sehr deutlich – er könnte aber die Richtung des Effekts falsch einschätzen.
 
-Bei AI-Accelerators gibt es viele technische Wege: GPUs, TPUs, ASICs, Custom Silicon, Quantisierung, Sparsity oder spezialisierte Inference-Chips. Dazu kommt, dass Microsoft, Google, Amazon oder Meta riesige eigene Workloads besitzen. Sie können eine zunächst schwächere interne Lösung einsetzen, daraus lernen und über mehrere Generationen verbessern.
+Das ist eine wesentlich interessantere Situation.
 
-Bei EUV-Lithography sieht das anders aus. Ein Kunde kann enorme Motivation und Kapital besitzen, aber kein kurzfristig plausibler Alternativpfad existiert. Kapital kann Maschinen finanzieren, aber nicht sofort Jahrzehnte an Engineering, Lieferkettenwissen und Prozesslernen replizieren.
+---
 
-Das erzeugt eine Vertical Integration Frontier. Oberhalb davon kann ein sehr großer Kunde einen Bottleneck irgendwann internalisieren. Unterhalb davon wird Eigenbau zunehmend unrealistisch.
+## I. Die Ausgangsidee: AI erzeugt keine grenzenlose Abundance
 
-Relativ gut internalisierbar sind Software, Modelle und bestimmte Chipdesigns. Schwieriger werden Optics, Cooling und Power Systems. Sehr tief liegen Grid Interconnection, Leading-edge Foundry, Yield Learning und Process Control. EUV ist noch einmal eine eigene Kategorie.
+AI macht bestimmte Fähigkeiten dramatisch billiger.
 
-Die attraktivsten Deep Bottlenecks sind daher nicht einfach die profitabelsten Engpässe. Es sind die Engpässe, die Kunden sehr gerne umgehen würden, bei denen sie es aber trotz enormer Motivation kaum schaffen.
+Coding wird billiger. Recherche wird billiger. Textproduktion wird billiger. Analyse wird billiger. Teile von Design, Support, Planning und Wissensarbeit werden billiger.
 
-## 4. Integration Deterrence
+Aber wenn ein Input billiger wird, steigt normalerweise die Nachfrage nach seinen Komplementen.
 
-Maximale Knappheit ist nicht automatisch optimal. Ein Lieferant, der seine Kunden zu stark auspresst oder ständig Capacity knapp hält, kann seine größten Kunden geradezu zwingen, Alternativen zu bauen.
+Mehr günstige Rechenleistung erzeugt mehr Anwendungen.
 
-Das bessere Gleichgewicht ist: genug Knappheit für Pricing Power, aber gleichzeitig genug Produktivitätsfortschritt und Capacity-Ausbau, dass Eigenbau für den Kunden unattraktiv bleibt.
+Mehr Anwendungen brauchen mehr Daten.
 
-Das ist ein Integration-Deterrence-Moat.
+Mehr Compute erzeugt größere Cluster.
 
-Broadcom ist dafür ein gutes Beispiel. Hyperscaler versuchen, Nvidia-Abhängigkeit zu reduzieren. Das muss Broadcom nicht schaden. Im Gegenteil: Wenn Broadcom zum Co-Designer der Custom-Silicon-Strategie wird, profitiert es gerade von der Verticalisierung des Kunden. Der Kunde internalisiert einen Teil des Systems, aber braucht dafür einen anderen hochspezialisierten Partner.
+Größere Cluster brauchen mehr Netzwerkbandbreite.
 
-Diese Second-Order-Struktur ist interessanter als ein gewöhnlicher Zulieferer, dessen Wert nur daran hängt, dass die bisherige Knappheit unverändert bestehen bleibt.
+Mehr Netzwerkbandbreite benötigt mehr Optics.
 
-# These 1: Scarce-Core Expansion Machines
+Mehr Compute pro Rack erhöht die Leistungsdichte.
 
-Die erste Thesis-Familie beginnt nicht bei AI, sondern bei einem bereits vorhandenen Asset, das schwer replizierbar ist. Das kann ein System of Record, proprietäre Daten, regulatorischer Zugang, Clearing-Infrastruktur, ein Marktplatz, ein tiefer Workflow-State, Transaktionsrechte, mission-critical Vertical Software oder jahrzehntelang aufgebaute Distribution sein.
+Mehr Leistungsdichte benötigt komplexere Stromverteilung und Cooling.
 
-AI erzeugt diesen Core nicht. AI kann aber seine wirtschaftliche Oberfläche vergrößern.
+Mehr Datacenter erhöhen den Strombedarf.
 
-Wenn Foundation Models besser und billiger werden, verschiebt sich der knappe Wert oft zu den Dingen, die ein Modell benötigt, um wirtschaftlich relevante Aktionen auszuführen. Ein Enterprise Agent braucht nicht nur Intelligenz. Er braucht echten State, aktuelle Daten, Berechtigungen, Compliance, Auditability und Zugriff auf reale Systeme.
+Mehr Strombedarf drückt gegen Generation, Interconnection und Transmission.
 
-### SAP
+Auf der Softwareseite passiert dasselbe.
 
-SAP ist dafür der klarste Fall. Ein allgemeines Modell kann hervorragend analysieren, aber wenn ein Agent wissen muss, ob eine Rechnung bezahlt wurde, welcher Bestand existiert, welche Bestellung autorisiert wurde oder welche Person welche Rechte besitzt, braucht er Zugriff auf den tatsächlichen Unternehmenszustand.
+Wenn ein Modell problemlos eine Analyse schreiben kann, wird die Analyse selbst weniger knapp. Wertvoller werden dagegen die Dinge, die das Modell nicht einfach erfinden darf:
 
-Die mögliche Expansion lautet: ERP -> Data -> Analytics -> AI -> Agents -> automatisierte Geschäftsprozesse.
+der tatsächliche Kontostand,
 
-Der alte Core bleibt derselbe, aber seine Anschlussfläche wächst.
+der aktuelle Lagerbestand,
 
-### RELX und Wolters Kluwer
+die Zugriffsrechte eines Mitarbeiters,
 
-Bei RELX und Wolters Kluwer liegt der Core weniger in klassischer Software als in strukturierter professioneller Information, Provenance, Fachwissen, Workflow und Trust. Generische AI kann Search und Synthesis stark commoditisieren. In Legal, Tax, Health oder Risk bleibt aber die Frage bestehen, ob eine Antwort belastbar, aktuell, auditierbar und rechtlich oder professionell verantwortbar ist.
+der verbindliche Vertrag,
 
-Gerade hier kann AI den Wert geprüfter Quellen und eingebetteter Workflows erhöhen.
+der geltende Steuersatz,
 
-### Anschlussfläche
+die echte Patientenakte,
 
-Ein Scarce Core allein reicht nicht. Ein hervorragender Core kann eine Sackgasse sein. Entscheidend ist, wie viele neue Produkte und Workflows aus demselben Kern entstehen können.
+der regulatorisch belastbare Datensatz,
 
-Eine starke Expansion Surface sieht zum Beispiel so aus: Data -> Analytics -> Decision Support -> Workflow -> Automation -> Transaction.
+der momentane Zustand eines Unternehmensprozesses,
 
-Je größer die Anschlussfläche und je geringer der zusätzliche Kapitalbedarf, desto interessanter wird der Core.
+die Berechtigung, tatsächlich eine Transaktion auszuführen.
 
-### Non-Bypassability reicht nicht
+AI macht deshalb nicht alles abundant.
 
-Die WKL-Analyse hat eine wichtige Korrektur gebracht: Ein Core kann technisch unverzichtbar bleiben und wirtschaftlich trotzdem an Macht verlieren.
+AI verschiebt die relative Knappheit.
 
-Deshalb müssen drei Dinge getrennt werden.
+Und genau aus dieser Verschiebung entstehen die fünf Thesen.
 
-Erstens: Core Capture. Wie viel des ursprünglichen Workflows bleibt wirklich knapp?
+---
 
-Zweitens: Monetization Capture. Wie viel dieses Werts kann das Unternehmen weiter monetarisieren? AI kann professionelle Mitarbeiter produktiver machen und damit Seat Counts reduzieren. Ein Produkt kann für den Kunden wertvoller werden, während das traditionelle Pricing-Modell gleichzeitig schlechter funktioniert. Dann muss die Monetarisierung in Richtung Usage, Workload, Transaction, Entity oder Value-based Pricing wandern.
+## II. Der Bottleneck Cycle: Warum der heutige Gewinner nicht automatisch der langfristige Gewinner ist
 
-Drittens: Interface Capture. Wer besitzt die Kundenschnittstelle? Wenn künftig ein Microsoft-, OpenAI- oder Anthropic-Agent das Interface kontrolliert und SAP, WKL oder RELX nur noch als Backend nutzt, kann der Core weiterhin notwendig sein, während ein Teil der Marge zum Agent-Anbieter wandert.
+Ein Engpass existiert nicht statisch.
 
-Technologische Notwendigkeit ist also nicht dasselbe wie ökonomische Macht.
+Er entsteht, wird sichtbar, bekommt eine Scarcity Rent und löst anschließend Reaktionen aus.
 
-Die Scarce-Core-These wird schwächer, wenn generische AI-Substitute ausreichend gut werden, Kunden den Core direkt umgehen können, Switching Costs sinken, das Interface an Third-party Agents verloren geht, Seat-Erosion schneller ist als neue Monetarisierungsmodelle oder AI-Adoption keinen zusätzlichen ARR, ARPU oder Cross-Sell erzeugt.
+Der Zyklus sieht ungefähr so aus:
 
-# These 2: Catch-up Giants
+**Abundance → Complement wird knapp → Pricing Power → Capacity Response → Verticalisierung/Substitution → Entspannung → Systemexpansion → nächster Bottleneck.**
 
-Der Markt liebt First Mover. Aber ein technologischer Rückstand kann bei einem starken etablierten Unternehmen auch eine Chance sein.
+Nehmen wir AI-Accelerators.
 
-Ein Catch-up Giant besitzt bereits Kunden, Kapital, Distribution, Daten, Produkte und einen starken Core, liegt bei einem neuen technologischen Layer aber zurück. Wenn dieser Rückstand schließbar ist, kann die unbesetzte ökonomische Fläche sehr groß sein.
+Die Nachfrage nach Compute explodiert. Nvidia wird zum zentralen Engpass. Nvidia erhält außergewöhnliche Margen.
 
-Wichtig ist die Trennung zwischen Catch-up Surface und Catch-up Friction.
+Aber genau diese Margen erzeugen bei Kunden einen gigantischen Anreiz, die Abhängigkeit zu reduzieren.
 
-Catch-up Surface fragt: Wie viel zusätzliche Marktposition kann theoretisch gewonnen werden?
+Google baut TPU.
 
-Catch-up Friction fragt: Wie teuer und schwierig ist der Weg dorthin?
+Amazon baut Trainium.
 
-Oracle besitzt enorme Surface, aber auch hohe Friction durch Datacenter, GPUs, Power, CapEx, Debt und Finanzierung. SAP besitzt möglicherweise weniger zusätzliche Marktfläche, kann aber viel kapitalleichter aufholen.
+Microsoft entwickelt eigene Beschleuniger.
 
-Die relevante Kennzahl ist deshalb nicht „Wer investiert am meisten?“, sondern: Wie viel zusätzliche Marktposition wird pro eingesetztem Dollar gewonnen?
+Meta investiert in Custom Silicon.
 
-### Oracle
+Gleichzeitig investiert Nvidia selbst massiv in mehr Supply, mehr Leistung pro Watt und neue Architekturen.
 
-Oracle besitzt Database, Enterprise Data, Kundenbeziehungen und Distribution, liegt im Cloud-Infrastrukturmarkt aber deutlich hinter AWS, Azure und Google. Es muss nicht AWS schlagen. Schon der Weg von einem kleinen zu einem relevanteren Marktanteil kann enorme relative Veränderung erzeugen.
+Der bestehende Bottleneck finanziert damit teilweise seine eigene Abschwächung.
 
-Aber Oracle zeigt zugleich das größte Risiko der Catch-up-These: Nachfrage kann real sein, RPO kann real sein und Capacity kann knapp sein, während die Equity-Rendite trotzdem schlecht ausfällt.
+Das bedeutet nicht, dass Nvidia plötzlich verschwindet. Es bedeutet nur, dass man als Investor eine Ebene weiterdenken muss.
 
-Die Kette muss vollständig funktionieren: Demand -> CapEx -> Capacity -> Utilization -> Revenue -> Margin -> Cashflow.
+Wenn Accelerators weniger bindend werden, was wird danach knapp?
 
-Backlog allein reicht nicht.
+Vielleicht Networking.
 
-### No Dead End
+Wenn Networking massiv ausgebaut wird?
 
-Catch-up ist nur interessant, wenn er in einer dauerhaften Position endet. Wenn Oracle nur zu einem austauschbaren GPU-Host wird, ist der strategische Wert viel geringer. Wenn dagegen Database, Data, Cloud, Agents und Applications zusammenwachsen, entsteht ein langlebigerer Core.
+Optics.
 
-Die These bricht, wenn CapEx dauerhaft schneller wächst als monetarisierbarer Output, zusätzliche Capacity nicht ausgelastet wird, Debt und Dilution strukturell zunehmen, der technologische Abstand nicht kleiner wird oder der Catch-up am Ende nur in einem Commodity-Geschäft landet.
+Wenn Compute, Networking und Optics gleichzeitig skalieren?
 
-# These 3: Bottleneck Asymmetry
+Power Distribution und Cooling.
 
-Nicht jeder knappe Zulieferer ist ein gutes Investment. Interessanter ist ein Unternehmen, bei dem der Wert des Problems, das es für den Kunden löst, viel größer ist als der eigene Produktionsengpass des Anbieters.
+Wenn all das gebaut wurde?
 
-Cadence und Synopsys sind dafür gute Beispiele. Sie brauchen hochqualifizierte Engineers, R&D und Compute. Das ist nicht trivial. Aber sie helfen Kunden dabei, Chipdesigns und Systeme zu bauen, deren Entwicklung hunderte Millionen oder Milliarden kosten kann. Wenn ein EDA-Tool Verification beschleunigt, Fehler verhindert oder Tape-out verkürzt, kann der ökonomische Wert weit über dem Lizenzpreis liegen.
+Grid Connection und Transmission.
 
-Arista zeigt dieselbe Struktur im Networking. Ein AI-Cluster kann Milliarden kosten. Wenn das Netzwerk die GPUs schlecht auslastet, entscheidet ein relativ kleiner Kostenblock über die Produktivität eines riesigen Kapitalstocks.
+Die wichtigste Konsequenz lautet deshalb:
 
-Eaton ist die physische Variante. Ein milliardenschweres Datacenter kann ohne Stromverteilung, Switchgear oder Power Management nicht online gehen. Der Wert dieser Komponenten wird nicht durch ihre Materialkosten bestimmt, sondern durch die Kosten der Verzögerung des Gesamtprojekts.
+> Der beste Bottleneck-Trade ist nicht zwingend der Bottleneck, dessen Knappheit heute maximal offensichtlich ist. Der größere Expectation Gap kann dort liegen, wo das System als Nächstes gegen eine Grenze läuft.
 
-KLA löst Yield. Ein Prozentpunkt mehr Yield in einer Leading-edge-Fab oder einer Advanced-Packaging-Line kann enormen Wert erzeugen. Coherent sitzt ähnlich bei Optical Connectivity.
+Genau daraus entsteht später These 5.
 
-Das Hauptrisiko ist immer dasselbe: Gute Economics ziehen Konkurrenz und Gegeninvestitionen an. Standards können Differenzierung zerstören, Substitute können gut genug werden, Kunden können internalisieren und zu hohe Scarcity Rents können gerade die stärkste Gegenwehr auslösen.
+---
 
-# These 4: Deep / Railway Bottlenecks
+## III. Vertical Integration Frontier
 
-Diese These geht eine Ebene tiefer. Die Frage lautet nicht „Was ist heute knapp?“, sondern: Was können selbst extrem kapitalstarke Kunden nicht sinnvoll selbst bauen?
+Nicht jeder Bottleneck besitzt dieselbe Lebensdauer.
 
-Die Railway-Analogie hilft. Eisenbahnen waren mächtig, weil sie nicht nur ein Produkt verkauften, sondern eine physische Verbindung kontrollierten. Sie benötigten Land, Rights-of-Way, Genehmigungen, enormes Kapital und ein Netz, das nicht einfach parallel repliziert werden konnte.
+Ein wichtiger Grund ist Vertical Integration.
 
-Einige AI-Layer besitzen ähnliche Eigenschaften.
+Je mehr Geld ein Kunde an einen Lieferanten verliert und je strategischer die Abhängigkeit wird, desto stärker wird sein Anreiz, die Funktion selbst zu übernehmen.
 
-### Transmission und Grid Interconnection
+Man kann diesen Druck grob so denken:
 
-Ein Hyperscaler kann eigene Chips bauen, Datacenter bauen und Kraftwerke finanzieren. Ein paralleles Hochspannungsnetz lässt sich nicht kurzfristig neu schaffen. Es braucht Rechte, Land, Umspannwerke, Genehmigungen, Netzstabilität und Jahre Bauzeit.
+**Breakthrough Pressure ≈ Economic Rent × Dependency × Customer Scale × verfügbare Alternativpfade**
 
-Das macht Transmission und Interconnection zu besonders tiefen Bottlenecks.
+geteilt durch:
 
-### Equinix
+**Physical Complexity × Learning Depth × Time to Iterate.**
 
-Equinix ist weniger die Schiene als der Bahnhof. Das Gebäude ist kopierbar. Ein über Jahre gewachsenes Netzwerk aus Clouds, Carriern, Kunden und Interconnections an einem Ort ist deutlich schwerer zu replizieren.
+Bei Software ist die Integrationshürde oft relativ niedrig.
 
-### TSMC und ASML
+Bei Modellen ebenfalls.
 
-Custom Silicon kann Nvidia-Abhängigkeit reduzieren. Das kann den Wert aber tiefer in der Kette verschieben. Microsoft-Chips, Google-TPUs oder Amazon-Trainium müssen immer noch gefertigt werden. Verticalisierung downstream kann dadurch TSMC sogar stärken.
+Bei Chipdesign höher, aber für Hyperscaler trotzdem realistisch.
 
-ASML ist die extremste Form dieses Gedankens. Die Kunden hätten sehr hohe Motivation, Alternativen zu besitzen, aber die Wahrscheinlichkeit eines schnellen technischen Bypasses bleibt extrem gering.
+Bei Optics oder Cooling wird es schwieriger.
 
-### Scarcity ist nicht dasselbe wie Shareholder Capture
+Bei Leading-edge Foundry noch schwieriger.
 
-Gerade bei Railways muss man vorsichtig sein. Ein Grid-Asset kann extrem knapp sein und trotzdem keine außergewöhnlichen Margen erzeugen, wenn Regulierung die Rendite deckelt. Ein Utility kann durch AI stark wachsen, aber der Mechanismus kann eher über eine größere Rate Base und höheren absoluten Gewinn laufen als über explodierende Margen.
+Bei einem bestehenden Hochspannungsnetz wird es extrem schwierig.
 
-Darum muss bei Deep Bottlenecks immer zwischen Asset Scarcity und Economic Rent Capture unterschieden werden.
+Bei EUV-Lithography praktisch absurd schwierig.
 
-# These 5: Bottleneck Migration / Next-Bottleneck Investing
+Daraus entsteht eine Vertical Integration Frontier.
 
-Diese These ist die dynamischste der fünf. Die meisten Investoren fragen, was heute knapp ist. Interessanter ist, was morgen knapp wird, wenn der heutige Engpass erfolgreich gelöst wurde.
+Der interessante Investmentbereich liegt häufig nahe oder unterhalb dieser Frontier: Der Kunde möchte den Bottleneck gerne eliminieren, kann ihn aber nicht wirtschaftlich sinnvoll replizieren.
 
-Man kann drei Informationsstufen unterscheiden.
+Das ist fundamental anders als ein Lieferant, dessen ganze Investmentthese darauf beruht, dass seine Kunden für immer unfähig bleiben, eine relativ einfache Funktion selbst zu übernehmen.
 
-Stufe eins ist offensichtlich: AI braucht mehr HBM. Das bietet wenig Edge.
+---
 
-Stufe zwei ist interessanter: Die HBM-Anbieter investieren so aggressiv, dass HBM in einigen Jahren vielleicht nicht mehr der wichtigste Constraint ist.
+# THESE 1 – SCARCE-CORE EXPANSION MACHINES
 
-Stufe drei ist die eigentliche Systemwette: Wenn HBM Supply steigt und Accelerator Efficiency besser wird, expandiert das Gesamtsystem so stark, dass Networking, Power Distribution, Cooling oder Grid Interconnection zum bindenden Constraint werden – und genau dieser Zustand ist im jeweiligen Aktienkurs noch nicht ausreichend enthalten.
+## Was die These wirklich sagt
 
-Eine mögliche Kette lautet: GPU -> HBM -> Networking -> Optics -> Power Distribution -> Cooling -> Grid Connection -> Generation -> Transmission.
+Scarce-Core Expansion ist nicht einfach „gute Software“.
 
-Sie ist nicht linear und mehrere Bottlenecks können gleichzeitig wirken. Entscheidend ist nur das Prinzip: Das Lösen eines Constraints erzeugt Nachfrage nach dem nächsten.
+Die These beginnt mit einem bestehenden Asset, das nicht durch das Training eines besseren Foundation Models plötzlich repliziert wird.
 
-Arista ist ein gutes Beispiel. Wenn mehr Accelerators verfügbar werden, wachsen Cluster. Größere Cluster erhöhen die Bedeutung von Bandwidth, Latency, Congestion Control und Reliability. Networking kann dadurch später im Zyklus relativ wichtiger werden.
+Dieser Scarce Core kann sein:
 
-Bei Eaton verläuft es ähnlich: mehr Compute -> höhere Rack Density -> höhere Power Density -> komplexere elektrische Infrastruktur.
+Enterprise State,
 
-Und bei Grid kann der Engpass sogar komplett außerhalb des Datacenters liegen. Gebäude, GPUs und Cooling können fertig sein; ohne Netzanschluss entsteht trotzdem kein Revenue.
+proprietäre professionelle Daten,
 
-Der Next-Bottleneck-Trade funktioniert aber nur, wenn die neue Knappheit lange genug anhält. Ein Engpass, der nach sechs Monaten durch Capacity-Ausbau verschwindet, ist viel weniger wertvoll als einer mit mehrjähriger Bau- oder Lernzeit.
+regulatorisch geprüfte Informationen,
 
-# Capital Conversion: der Filter über allen fünf Thesen
+historisch aufgebaute Workflows,
 
-Keine dieser Thesen endet bei Umsatzwachstum. Die entscheidende Kette lautet:
+Transaktionsnetzwerke,
 
-Kapital -> produktiver Output -> Umsatz -> Cashflow -> Return on Capital -> intrinsischer Wert -> Aktienkurs -> Alpha.
+Clearing,
 
-Dafür müssen drei Kapitalzustände getrennt werden.
+System-of-Record-Positionen,
 
-Die Realized Base ist die heute bereits existente ökonomische Basis: Kunden, Umsatz, Cashflow, Margen und produktive Infrastruktur.
+Vertikalsoftware,
 
-Capital at Risk ist bereits eingesetztes Kapital, dessen Rendite noch nicht bewiesen ist: neue Datacenter, Fabs, GPUs, Capacity, Akquisitionen oder aggressive R&D.
+professionelle Distribution,
 
-Die Future Capital Frontier ist das Kapital, das noch investiert werden muss, bevor der erwartete Zielzustand überhaupt erreicht werden kann.
+Permissions,
 
-Zwei Unternehmen können denselben zukünftigen Umsatz erreichen, aber dafür völlig unterschiedliche Kapitalmengen benötigen. Darum ist der nächste Dollar wichtiger als die absolute Größe des CapEx.
+Identity,
 
-Die relevante Frage lautet: Wie viel zusätzlicher nachhaltiger Cashflow entsteht pro zusätzlichem Dollar Kapital?
+Auditability,
 
-CoreWeave und Microsoft zeigen, warum diese Trennung wichtig ist. Beide können auf dieselbe AI-Nachfrage zugreifen, aber das Verhältnis von bereits realisierter ökonomischer Basis zu noch notwendigem Kapital ist völlig verschieden.
+Provenance.
 
-# Demand Quality und Absorption
+Der entscheidende Punkt ist:
 
-„Nachfrage ist da“ ist zu ungenau. Nachfrage besitzt Qualität.
+AI muss den Core nicht erzeugen. AI muss seine wirtschaftliche Oberfläche vergrößern.
 
-Eine sinnvolle Leiter ist: Interesse -> Queue -> LOA -> Contract -> Take-or-pay -> finanziert -> energized / tatsächlich genutzt.
+Ein gutes Beispiel ist SAP.
 
-Je weiter rechts, desto höher die Information darüber, dass neue Capacity wirklich monetarisiert wird.
+Ein Modell kann eine Rechnung analysieren.
 
-Der stärkste Test ist der Absorption Test. Neue Supply ist nur dann bullish, wenn sie wirtschaftlich aufgenommen wird. Ideal ist: Capacity steigt, Umsatz steigt, Auslastung bleibt hoch, Pricing hält und die Nachfrage bleibt größer als das Angebot.
+Aber es weiß nicht automatisch, ob diese Rechnung wirklich bezahlt wurde.
 
-Gefährlich wird es, wenn Capacity steigt, aber Utilization, Pricing oder Margen fallen.
+Es kann einen Beschaffungsvorschlag schreiben.
 
-Power hat außerdem gezeigt, dass große Pipelines Ghost Demand enthalten können. Mehrfach eingereichte Projekte, unverbindliche Anfragen oder spekulative Queue-Positionen sind keine harte Nachfrage. Bei physischer AI-Infrastruktur muss deshalb immer gefragt werden, wie viel der angeblichen Pipeline vertraglich, finanziert und physisch ausführbar ist.
+Aber es weiß nicht automatisch, welche Bestellung tatsächlich genehmigt wurde.
 
-# Bottleneck Capture
+Es kann eine Supply-Chain-Analyse erzeugen.
 
-Ein Bottleneck kann real sein und trotzdem kein gutes Investment darstellen.
+Aber es besitzt nicht automatisch den realen Bestand, Produktionsstatus, Verträge, Benutzerrechte und Genehmigungszustände des Unternehmens.
 
-Power kann knapp sein, aber ein Power-Besitzer muss die Knappheitsrente nicht vollständig behalten. Optics können knapp sein, aber nicht jeder Hersteller besitzt Pricing Power. Grid kann knapp sein, aber Regulierung kann die Rendite begrenzen.
+Wenn Agenten künftig tatsächlich handeln statt nur antworten, brauchen sie diesen State sogar stärker.
 
-Darum ist Bottleneck Value nicht nur Scarcity. Er hängt von Scarcity, Dauer und Economic Capture ab.
+Aus SAPs Perspektive kann deshalb eine Expansion entstehen:
 
-Das ist eine der wichtigsten Korrekturen gegen oberflächliche „AI braucht X“-Thesen.
+**ERP → Enterprise Data → Analytics → AI → Agents → automatisierte Execution.**
 
-# Expectation Gap
+Das Entscheidende ist: SAP beginnt nicht bei null. Der knappe Kern existiert bereits.
 
-Bis hierhin kann eine Unternehmensanalyse komplett richtig sein und die Aktie trotzdem schlecht.
+---
 
-Der Kurs ist eine Erwartung. Deshalb muss jede These in Reverse Valuation übersetzt werden: Welche Wachstumsrate, Marge, ROIC, Reinvestitionsrate und Wettbewerbsdauer muss eintreten, damit der heutige Preis gerechtfertigt ist?
+## Der Markt testet diese These gerade real
 
-Die Investmentchance entsteht aus dem Unterschied zwischen unserer Wahrscheinlichkeitsverteilung und der bereits eingepreisten Zukunft.
+Das Spannende ist, dass Scarce-Core inzwischen keine abstrakte Zukunftswette mehr ist.
 
-Nicht „Ist die Firma stark?“ ist die Endfrage, sondern: „Ist die Firma stärker, langlebiger oder kapitalproduktiver, als der heutige Preis impliziert?“
+Der Markt hat Anfang 2026 direkt begonnen, diese These zu attackieren.
 
-# Expectation Fragility
+SAP verlor Ende Januar rund 15–16 % an einem Tag. Der unmittelbare Auslöser war ein etwas schwächer als erwarteter Cloud-Backlog beziehungsweise Cloud-Ausblick; gleichzeitig verschärfte sich aber die übergeordnete Angst, dass AI das traditionelle Enterprise-Software-Modell strukturell beschädigen könnte.
 
-Expectation Gap und Expectation Fragility sind nicht dasselbe.
+Am 3. Februar passierte bei RELX und Wolters Kluwer noch etwas Interessanteres.
 
-Der Gap fragt, ob der Markt zu pessimistisch ist. Fragility fragt, wie wenig schiefgehen darf, bevor der aktuelle Preis kollabiert.
+Anthropic veröffentlichte ein Claude-Legal-Plugin. RELX verlor an diesem Tag ungefähr 14 %, Wolters Kluwer ungefähr 13 %. Der Markt reagierte also ausdrücklich auf die Möglichkeit, dass ein Foundation-Model direkt in professionelle Legal-Workflows eindringt.
 
-Vertiv, Fabrinet, Coherent und Amkor waren dafür wichtige Lernfälle. Gute Earnings, starke Nachfrage oder bessere Guidance können trotzdem mit zweistelligen Kursverlusten enden, wenn der Markt vorher bereits zu viel Perfektion bezahlt hat.
+Das ist für unsere These extrem nützlich.
 
-Das Ziel ist nicht, Crashes vorherzusagen. Es ist, vor einem Crash zu erkennen, wann eine Aktie in einem Zustand ist, in dem ein kleiner Informationsschock sechs Monate Kursgewinn zerstören kann.
+Denn der Bear Case ist dadurch nicht hypothetisch.
 
-Expectation Fragility steigt besonders bei hohen impliziten Erwartungen, starkem vorherigem Re-Rating, hoher Sensitivität gegenüber Guidance und großem Capital at Risk.
+Der Markt sagt inzwischen ganz konkret:
 
-# Price Down ist nicht dasselbe wie Value Down
+> Vielleicht sind professionelle Informationen, Workflows und Systeme weniger knapp als gedacht, sobald die intelligente Schicht darüber von Anthropic, OpenAI, Microsoft oder anderen kontrolliert wird.
 
-Ein Crash ist weder automatisch ein Kaufsignal noch automatisch eine Widerlegung der These.
+Jetzt können wir gegen diese Erwartung Daten beobachten.
 
-Man muss Preisveränderung und Veränderung des eigenen intrinsischen Werts getrennt betrachten.
+---
 
-Wenn der Kurs 30 Prozent fällt und der erwartete intrinsische Wert nur 5 Prozent sinkt, kann die Aktie attraktiver geworden sein. Wenn der Kurs 30 Prozent fällt, aber der langfristige Wert um 40 Prozent zerstört wurde, ist sie trotz niedrigerem Preis schlechter.
+## SAP – derzeit ein echter Live-Test der These
 
-Der Crash ist deshalb nur ein Filter. Die eigentliche Frage ist immer, ob der Preis stärker gefallen ist als der eigene, shareholder-adjusted erwartete Wert.
+SAP steht am 4. September 2026 bei rund €185,68, rund 24 % unter dem 52-Wochen-Hoch von €244,30. Das Forward-P/E liegt bei ungefähr 24.
 
-# 3/3/3/3/3: Wann hat der Markt die These erkannt?
+Das allein macht SAP nicht billig.
 
-Ein einzelner Drei-Monats-Chart kann extrem täuschen. Eine Aktie kann zuletzt 25 Prozent gefallen sein und trotzdem über das Jahr noch 150 Prozent höher stehen.
+Interessanter ist, was seit dem Januar-Schock operativ passiert ist.
 
-Darum zerlegen wir die Kursentwicklung in mehrere gleich lange Blöcke. Das zeigt, wann der Markt angefangen hat, die Story zu erkennen.
+Im zweiten Quartal wuchs der Current Cloud Backlog währungsbereinigt um 26 %. Cloud-Umsatz stieg um 24 %, Cloud ERP sogar um 27 %. Der Gesamtumsatz stieg währungsbereinigt um 11 %.
 
-Interessant sind vor allem fünf Muster: nie erkannt, frühes Re-Rating, spätes Re-Rating, Hype mit anschließendem Reset und fundamentales Wachstum ohne Multiple Expansion.
+Damit existiert momentan ein konkretes Spannungsfeld:
 
-Besonders spannend ist der letzte Fall: Das Unternehmen wird operativ stärker, während die Bewertung gleich bleibt oder fällt. Dort kann ein echter Expectation Gap entstehen.
+**Marktnarrativ:** AI könnte klassische Enterprise Software schwächen.
 
-# Kein Dead End
+**Operative Realität bisher:** SAPs Cloud- und ERP-Core wächst weiterhin sehr stark.
 
-Über allen fünf Thesen liegt eine weitere Frage: Wenn die These funktioniert, was kommt danach?
+Das beweist noch nicht, dass der Markt falsch liegt. AI-Disruption könnte mit Verzögerung kommen.
 
-Ein temporärer Bottleneck kann ein fantastischer Trade, aber ein schlechter zehnjähriger Compounder sein. Die attraktivsten Unternehmen besitzen nicht nur heutige Knappheit, sondern einen langlebigen Core und neue Anschlussflächen.
+Aber genau hier entsteht ein sinnvoller Research Case.
 
-Man kann grob unterscheiden zwischen Temporary Scarcity, Durable Bottleneck, Scarce Core, Expansion Machine und Self-Reinforcing Core.
+Die entscheidende Frage lautet nicht mehr:
 
-Die letzte Kategorie ist am stärksten. Dort führt Expansion nicht nur zu mehr Umsatz, sondern macht den Core selbst stärker: mehr Kunden erzeugen mehr Daten, bessere Produkte, mehr Workflows und höhere Switching Costs; oder mehr Akquisitionen erzeugen mehr Distribution, mehr wiederverwendbare Fähigkeiten und mehr Cashflow für die nächste Akquisition.
+„Ist SAP ein gutes Unternehmen?“
 
-# Hidden Thesis Correlation
+Sondern:
 
-Ticker-Diversifikation ist nicht dasselbe wie echte Diversifikation.
+> Wird SAP durch Agenten zum austauschbaren Backend – oder wird SAP gerade deshalb wertvoller, weil Agenten einen verlässlichen Enterprise State brauchen?
 
-SAP, RELX und WKL sehen wie drei unterschiedliche Unternehmen aus. Trotzdem teilen sie teilweise dieselbe Metathese: Der Markt überschätzt, wie schnell AI etablierte institutionelle Scarce Cores umgehen kann.
+Wenn SAP selbst die Agenten-, Daten- und Workflow-Schicht kontrolliert, kann die zweite Variante eintreten.
 
-Wenn genau diese Annahme falsch ist, können mehrere Positionen gleichzeitig verlieren.
+Wenn Microsoft, OpenAI oder Anthropic dauerhaft die Benutzeroberfläche besitzen und SAP nur noch eine Datenbank im Hintergrund wird, bleibt der Core technisch wichtig, aber ein Teil der Economic Rent wandert nach oben.
 
-Deshalb sollte ein Portfolio nicht nur nach Sektoren oder Ländern betrachtet werden, sondern nach Thesis Families. AI Scarce-Core Mispricing, Catch-up / Capital Conversion, Bottleneck Asymmetry, Physical AI Deployment und Deep Infrastructure können als eigene Risikobuckets behandelt werden.
+Genau deshalb müssen bei Scarce-Core drei Formen von Capture unterschieden werden:
 
-Eine neue Position muss also nicht nur isoliert attraktiv sein. Sie muss auch besser sein als die nächste Alternative und darf das Portfolio nicht unbemerkt noch stärker auf dieselbe Kill Condition konzentrieren.
+**Core Capture:** Bleibt der Daten-/Workflow-Core notwendig?
 
-# Expected Alpha und Opportunity Cost
+**Interface Capture:** Wer kontrolliert die eigentliche Interaktion mit dem Nutzer?
 
-Eine Aktie ist nicht attraktiv, nur weil ihre erwartete Rendite positiv ist. Kapital besitzt Alternativen.
+**Monetization Capture:** Kann der incumbent den zusätzlichen AI-Wert selbst bepreisen?
 
-Wenn die Alternative der S&P 500 ist, lautet die relevante Frage: Wie groß ist der erwartete Renditevorsprung gegenüber dem Index, und ist dieser Spread groß genug für das zusätzliche Einzelwertrisiko?
+Das ist viel präziser als „SAP hat hohe Switching Costs“.
 
-Die erforderliche Hürde sollte steigen, wenn Thesis Uncertainty, Capital at Risk, Tail Risk, Hidden Thesis Correlation oder Bewertungsfragilität hoch sind.
+---
 
-Darum kann ein extrem stabiles Investment mit etwas niedrigerer erwarteter Rendite rational attraktiver sein als ein unsicherer Einzelwert mit scheinbar höherem CAGR.
+## RELX und Wolters Kluwer – vielleicht noch interessanter
 
-# Position Sizing
+Bei RELX ist die Diskrepanz inzwischen auffällig.
 
-Positionsgröße sollte nicht aus „Conviction“ allein entstehen. Sie muss Expected Alpha, Unsicherheit, Downside, Fragility und Thesis Correlation zusammenbringen.
+Die Londoner Aktie lag am 4. September bei £26,20 und damit rund 27 % unter ihrem 52-Wochen-Hoch. Das ADR wird derzeit mit etwa 17,6x Forward Earnings gehandelt.
 
-Eine kleine Starter-Position ist sinnvoll, wenn die Architektur oder die ökonomische These stark ist, aber Value Capture noch nicht bewiesen wurde. Wenn spätere Evidenz zeigt, dass Monetarisierung, Capital Conversion oder Retention besser laufen als erwartet, kann die Position erhöht werden.
+Währenddessen meldete RELX für H1 2026:
 
-Das ist deutlich rationaler, als einen theoretisch guten Case sofort auf maximale Größe zu bringen.
+7 % underlying Umsatzwachstum,
 
-# Die fünf Thesen in der Praxis
+9 % underlying Wachstum beim Adjusted Operating Profit,
 
-Die interessantesten Unternehmen liegen oft an den Schnittstellen mehrerer Thesen.
+11 % Wachstum des Adjusted EPS bei konstanten Währungen,
 
-Broadcom verbindet Bottleneck Asymmetry, Verticalization und Bottleneck Migration. Hyperscaler wollen weniger Nvidia-Abhängigkeit, und Broadcom kann genau an dieser Gegenbewegung verdienen.
+98 % Cash Conversion,
 
-Cadence und Synopsys verbinden Scarce Core und Asymmetry. Mehr Custom Silicon, Chiplets und Advanced Packaging erhöhen Designkomplexität und damit den Wert von EDA.
+und bestätigte den Jahresausblick.
 
-Eaton verbindet Asymmetry, Migration und teilweise Railway-Eigenschaften. Mehr Compute erhöht Rack Density, Power Density und elektrische Komplexität.
+Das ist ein bemerkenswert sauberer Konflikt:
 
-Oracle verbindet Catch-up mit einem bestehenden Enterprise-/Database-Core. Die zentrale Frage ist nicht Nachfrage, sondern Capital Conversion.
+Der Aktienkurs sagt: langfristiges AI-Risiko ist deutlich gestiegen.
 
-TSMC verbindet Deep Bottleneck, Migration und Expansion. Downstream-Verticalization kann Nvidia teilweise umgehen und gleichzeitig TSMC-Abhängigkeit verstärken.
+Die aktuellen Geschäftszahlen sagen: der Core wird bisher nicht zerstört.
 
-# Was wir bewusst nicht als eigene starke Thesis behandeln
+Bei Wolters Kluwer ist die Diskrepanz sogar extremer.
 
-„AI Overflow Provider gewinnen“ ist zu grob. Nebius oder CoreWeave können stark profitieren, aber ihre Knappheit kann verschwinden, wenn Hyperscaler genug eigene Capacity bauen.
+Die Aktie liegt Anfang September bei ungefähr €68,86 gegenüber einem 52-Wochen-Hoch von €117,35. Das Forward-P/E liegt nach aktuellen Konsensdaten bei nur rund 11,7x.
 
-„Power ist knapp“ ist ebenfalls zu simpel. Regulation, Contract Structure, Interconnection, Timing, Ghost Demand und Value Capture entscheiden darüber, ob daraus Aktionärsrendite entsteht.
+Gleichzeitig waren in H1 2026 rund 85 % des Umsatzes recurring. Diese recurring revenues wuchsen organisch um 7 %. Recurring Cloud Software, inzwischen rund 24 % des Konzerns, wuchs um 14 %. Adjusted Operating Profit stieg bei konstanten Währungen um 10 %, Free Cash Flow um 14 %.
 
-„Jeder AI-Zulieferer gewinnt“ ist falsch. Exposure ist nicht dasselbe wie Pricing Power.
+Noch interessanter: Wolters berichtet bereits reale Nutzung eigener AI-Produkte. Mehr als 90 % der US-Enterprise-Kunden im Health-Bereich hatten UpToDate Expert AI übernommen; gleichzeitig verweist das Unternehmen auf frühe Nutzung AI-basierter Tax- und Legal-Produkte.
 
-Und „starker Bottleneck = gute Aktie“ ist ebenfalls falsch, wenn der Markt bereits jahrelange Perfektion im Kurs bezahlt.
+Damit ist der Case nicht:
 
-# Das operative Analyse-Raster
+„Der Markt hat AI vergessen.“
 
-Bei neuen Kandidaten sollte die Reihenfolge ungefähr so aussehen:
+Der Markt hat AI als Bedrohung explizit eingepreist.
 
-1. Welche Rolle spielt die Firma im Gesamtsystem?
-2. Was ist ihr Scarce Core?
-3. Macht AI diesen Core stärker oder schwächer?
-4. Wie groß ist die Expansion Surface?
-5. Wie leicht kann der Kunde wechseln, substituieren oder internalisieren?
-6. Bleiben Core-, Monetization- und Interface-Capture beim Unternehmen?
-7. Ist der Wert des gelösten Kundenproblems größer als der eigene Bottleneck?
-8. Wo liegt die Firma relativ zur Vertical Integration Frontier?
-9. Wie sehen Realized Base, Capital at Risk und Future Capital Frontier aus?
-10. Welche Qualität besitzt die Nachfrage?
-11. Wird neue Supply wirtschaftlich absorbiert?
-12. Wer behält den ökonomischen Überschuss?
-13. Gibt es einen Dead End nach erfolgreicher These?
-14. Welche Zukunft impliziert der aktuelle Preis?
-15. Wie fragil ist diese Erwartung?
-16. Wann begann der Markt die Story im 3/3/3/3/3-Muster zu erkennen?
-17. Was sagt Reverse Valuation?
-18. Wie sehen Bear, Base, Bull und Optionality aus?
-19. Wie groß ist der erwartete Alpha-Spread gegenüber dem S&P und anderen Alternativen?
-20. Wie stark korreliert die Position mit bestehenden Thesis Families?
-21. Welche Positionsgröße rechtfertigt das verbleibende Risiko?
+Die eigentliche Wette lautet:
 
-# Aktuelle Forschungsgruppe
+> Hat der Markt überschätzt, wie viel der ökonomisch wichtigen professionellen Arbeit durch ein generisches Agenteninterface vom zugrunde liegenden Trusted-Data-/Workflow-Layer getrennt werden kann?
 
-Aus der bisherigen Arbeit ergibt sich keine endgültige Buy-Liste, aber eine sehr klare Research-Priorität.
+Das ist ein deutlich stärkeres Alpha-Setup als ein bloßer unbekannter AI-Profiteur.
 
-Oracle bleibt der interessanteste Catch-up-/Capital-Conversion-Test. Broadcom ist der sauberste Second-Order-Verticalization-Case. Cadence und Synopsys verbinden einen schwer replizierbaren Design-Core mit zunehmender Systemkomplexität. SAP und Wolters Kluwer bleiben besonders interessant, weil starke Scarce Cores auf vergleichsweise niedrige Erwartungen treffen. Eaton und Arista sind wichtige Kandidaten für Bottleneck Migration. AEP ist eine defensive Railway-Wette. CEG bleibt ein guter Test dafür, ob physische Scarcity tatsächlich in Shareholder Capture übersetzt wird.
+---
 
-TSMC, ASML, KLA, Vertiv und Coherent bleiben strukturell ausgezeichnet, aber bei ihnen muss die Erwartungsseite härter geprüft werden, weil der Markt bereits einen großen Teil der Story erkannt hat.
+## Der große Scarce-Core-Bear-Case
 
-# Schluss
+Man darf hier allerdings nicht in die Falle geraten:
 
-Die nächste Phase des AI-Zyklus wird wahrscheinlich weniger dadurch entschieden, wer einfach „mehr AI“ verkauft. Wert wird durch das System wandern.
+„Die Daten sind proprietär, also gewinnt der incumbent.“
 
-Compute wird billiger und macht andere Dinge knapp. Kunden versuchen, zu mächtige Bottlenecks zu internalisieren. Lieferanten investieren ihre Scarcity Rents in neue Capacity. Dadurch entspannen sich alte Engpässe, das System wächst und stößt an neue Grenzen. Gleichzeitig wird generische Intelligenz billiger und erhöht den relativen Wert von Enterprise State, professionellen Daten, institutionellen Workflows und realer Execution.
+Das reicht nicht.
 
-Die Investmentaufgabe ist deshalb nicht, den heutigen Gewinner zu nennen. Sie ist, zu verstehen, welcher Core oder Bottleneck durch die erfolgreiche Lösung der heutigen Probleme morgen wertvoller wird, wie lange dieser Vorteil bestehen kann, ob zusätzlicher Kapitaleinsatz tatsächlich in Shareholder Cashflow konvertiert und welche Version dieser Zukunft der Markt heute bereits bezahlt.
+Ein Core kann unverzichtbar bleiben und trotzdem ökonomische Macht verlieren.
 
-Erst danach kommt die entscheidende Frage: Ist der erwartete Alpha-Spread groß genug, um genau dieses Risiko einzugehen?
+Beispiel:
+
+Ein Legal Agent von Anthropic verwendet weiterhin RELX-Daten.
+
+Technisch bleibt RELX wichtig.
+
+Aber der Nutzer arbeitet künftig hauptsächlich in Claude.
+
+Anthropic besitzt Distribution, Interface und Nutzungsdaten.
+
+RELX wird zu einem Input-Lieferanten.
+
+Dann könnte AI den Core sogar stärker nutzen und RELX gleichzeitig einen Teil des ökonomischen Surplus entziehen.
+
+Deshalb ist die wahre Scarce-Core-Frage:
+
+> Kann der incumbent seinen knappen Core bis in den Decision-/Workflow-/Execution-Layer verlängern, bevor ein anderer Player die Schnittstelle kontrolliert?
+
+Genau deshalb sind Unternehmen wie SAP, RELX und WKL momentan so interessant.
+
+Sie besitzen starke Cores.
+
+Ihre aktuelle operative Entwicklung ist nicht kaputt.
+
+Aber der Markt hat eine sehr konkrete Zukunftsangst eingepreist.
+
+Das ist potenzieller Expectation Gap.
+
+---
+
+# THESE 2 – CATCH-UP GIANTS
+
+Die zweite These funktioniert völlig anders.
+
+Hier suchen wir nicht den Marktführer.
+
+Wir suchen einen großen Player mit bereits vorhandener ökonomischer Basis, der in einem neuen Paradigma zurückliegt, aber realistisch aufholen kann.
+
+Die Formel lautet ungefähr:
+
+**Existing Core × Distribution × Capital Access × Catch-up Surface ÷ Catch-up Friction**
+
+Der entscheidende Begriff ist Catch-up Surface.
+
+Microsoft muss seinen Cloud-Anteil nicht verdoppeln, um relevant zu bleiben. Es ist bereits riesig.
+
+Oracle dagegen besitzt in Cloud Infrastructure deutlich weniger Marktanteil.
+
+Wenn Oracle von „klein“ zu „relevant“ wächst, ist die zusätzliche wirtschaftliche Oberfläche relativ zum heutigen Geschäft viel größer.
+
+Das bedeutet:
+
+Ein Rückstand kann wertvoll sein.
+
+Aber nur, wenn er aufholbar ist.
+
+---
+
+## Oracle – der Extremfall
+
+Oracle ist momentan wahrscheinlich der sauberste Catch-up-Giant-Test.
+
+Am 4. September steht Oracle bei ungefähr $158,78. Das 52-Wochen-Hoch liegt bei $345,72. Die Aktie notiert damit mehr als 50 % darunter und wird mit ungefähr 19,7x Forward Earnings gehandelt.
+
+Nun die fundamentale Seite.
+
+FY2026:
+
+Gesamtumsatz +17 % auf $67,4 Mrd.
+
+Cloud-Umsatz +39 % auf $34 Mrd.
+
+Operating Cash Flow +54 % auf $32 Mrd.
+
+RPO $638 Mrd., +363 %.
+
+Gleichzeitig:
+
+Free Cash Flow −$23,7 Mrd.
+
+Das ist nahezu das perfekte Experiment für unsere Capital-Conversion-Theorie.
+
+Denn beide Seiten haben echte Argumente.
+
+Der Bull kann sagen:
+
+> Oracle besitzt $638 Mrd. RPO. OCI wächst extrem schnell. Die Nachfrage ist offensichtlich real.
+
+Der Bear kann genauso korrekt sagen:
+
+> Oracle verbrennt enorme Mengen Free Cash Flow, muss Datacenter finanzieren und erhöht seine Verschuldung beziehungsweise Equity-Finanzierung.
+
+Oracle nahm FY2026 ungefähr $43 Mrd. Debt und $5 Mrd. Equity auf. Für FY2027 erwartet das Unternehmen nochmals ungefähr $40 Mrd. Finanzierung.
+
+Das ist keine kleine Fußnote.
+
+Es ist der gesamte Case.
+
+---
+
+## Warum Oracle trotzdem außergewöhnlich ist
+
+Ein wichtiger Teil der Gegenargumentation ist allerdings ebenfalls real.
+
+Von den großen AI-Verträgen wurden inzwischen Hardware-Komponenten im Wert von rund $75 Mrd. entweder von den Kunden vorfinanziert oder direkt von ihnen bereitgestellt. Oracle weist ausdrücklich darauf hin, dass dies den eigenen Kapitalbedarf reduziert.
+
+Damit verändert sich die Capital-Conversion-Gleichung.
+
+Oracle muss nicht zwangsläufig jeden Dollar AI-Hardware selbst finanzieren.
+
+Der Kunde übernimmt einen Teil des Capital-at-Risk, Oracle stellt Datacenter, Networking, Software, Database und Cloud-Integration bereit.
+
+Wenn dieses Modell skalierbar ist, könnte der Markt den zukünftigen Kapitalbedarf überschätzen.
+
+Wenn dagegen die verbleibenden Datacenter-, Power-, Land-, Networking- und Infrastrukturkosten weiterhin enorme Finanzierung benötigen und die resultierenden Margen niedrig bleiben, könnte der Markt völlig recht haben.
+
+Darum ist bei Oracle Backlog nicht die zentrale Kennzahl.
+
+Die eigentlichen Kennzahlen sind:
+
+**Incremental Revenue / Incremental CapEx**
+
+und noch wichtiger:
+
+**Incremental Sustainable OCF / Incremental Capital.**
+
+Die Catch-up-These ist erst bewiesen, wenn die physische Expansion in dauerhaften Cashflow übersetzt wird.
+
+---
+
+## Warum Oracle keine reine Cloud-Wette ist
+
+Oracle besitzt zusätzlich einen wichtigen Vorteil gegenüber einem reinen AI-Cloud-Newcomer.
+
+Es besitzt bereits:
+
+Database,
+
+Enterprise Data,
+
+Applications,
+
+jahrzehntelange Kundenbeziehungen,
+
+Mission-critical Workloads,
+
+Multicloud-Distribution.
+
+Dadurch kann Cloud-Infrastruktur Anschlussfläche erzeugen.
+
+Der gute Endzustand ist nicht:
+
+Oracle = weiterer GPU-Landlord.
+
+Der gute Endzustand wäre:
+
+**Database → Cloud Infrastructure → Data → Applications → Agents → Enterprise Execution.**
+
+Dann verbindet Oracle Catch-up mit Scarce-Core Expansion.
+
+Genau deshalb ist das Unternehmen strukturell interessanter als ein Anbieter, dessen gesamte Wette nur darin besteht, kurzfristig knappe GPUs zu vermieten.
+
+---
+
+## SAP als kapitalleichter Catch-up Giant
+
+SAP ist der Gegenpol.
+
+Oracle besitzt riesige Catch-up Surface, braucht dafür aber enorme Mengen Kapital.
+
+SAPs Catch-up liegt stärker in AI, Data und Agents.
+
+Hier muss nicht für jeden zusätzlichen Kunden ein neuer Datacenter-Komplex entstehen.
+
+Deshalb könnte SAP eine geringere Surface besitzen, aber deutlich niedrigere Catch-up Friction.
+
+Das führt zu einer wichtigen allgemeinen Regel:
+
+> Nicht fragen: „Wer kann am meisten investieren?“ Fragen: „Wie viel zusätzliche ökonomische Position entsteht pro notwendigem zusätzlichen Dollar?“
+
+Das ist Catch-up Capital Efficiency.
+
+---
+
+# THESE 3 – BOTTLENECK ASYMMETRY
+
+Die dritte These ist vielleicht die ökonomisch eleganteste.
+
+Ein Bottleneck-Asymmetry-Unternehmen löst für den Kunden ein Problem, dessen Wert enorm viel größer ist als die Kosten des Produkts.
+
+Das Verhältnis lautet:
+
+**Value of Customer Bottleneck Solved >> Cost of Supplier Input**
+
+Das ist wichtig, weil Pricing Power nicht zwangsläufig aus physischer Knappheit entstehen muss.
+
+Sie kann aus ökonomischer Hebelwirkung entstehen.
+
+---
+
+## Cadence
+
+Cadence ist ein ausgezeichnetes Beispiel.
+
+Am 4. September steht die Aktie bei ungefähr $292,70, fast 30 % unter ihrem 52-Wochen-Hoch von $416,69. Forward P/E: ungefähr 34x.
+
+34x ist nicht billig.
+
+Aber die fundamentale Entwicklung ist stark.
+
+Q2-Umsatz:
+
+$1,584 Mrd. gegenüber $1,275 Mrd. im Vorjahr.
+
+Non-GAAP Operating Margin:
+
+45,5 %.
+
+Backlog:
+
+$8,1 Mrd.
+
+Cadence erhöhte gleichzeitig die Jahresprognose auf ungefähr 19 % Umsatzwachstum.
+
+Warum besitzt Cadence Asymmetry?
+
+Ein moderner Chip kann Milliarden Dollar Entwicklungs- und Opportunity Costs besitzen.
+
+Ein Tape-out-Fehler kann Monate kosten.
+
+Ein schlechtes Design kann eine komplette Produktgeneration beschädigen.
+
+Wenn Cadence ein paar Prozent Designzeit spart, Verification verbessert oder Yield-Risiken früher erkennt, kann der Kundennutzen um Größenordnungen höher sein als der Softwarepreis.
+
+Und AI verschärft diesen Effekt.
+
+Denn mehr Custom Silicon bedeutet:
+
+mehr Designs,
+
+mehr Chiplets,
+
+mehr Packaging,
+
+mehr Verification,
+
+mehr Systemkomplexität.
+
+Das bedeutet:
+
+> Die Lösung des GPU-Bottlenecks durch Custom Silicon kann Cadence-Nachfrage erhöhen.
+
+Das ist wichtig.
+
+Cadence hängt nicht davon ab, dass Nvidia für immer monopolartig bleibt.
+
+Cadence kann gerade davon profitieren, dass immer mehr Firmen eigene Chips bauen.
+
+---
+
+## Synopsys
+
+Bei Synopsys sieht die Situation ähnlich aus.
+
+Die Aktie liegt Anfang September bei rund $393,84 gegenüber einem 52-Wochen-Hoch von $615,79. Forward P/E ungefähr 23x.
+
+Im jüngsten Quartal stieg der Umsatz von $1,74 Mrd. auf $2,477 Mrd. Das Unternehmen hob Umsatz-, Margen-, EPS- und Cashflow-Erwartungen an und verwies auf starke AI-getriebene Nachfrage.
+
+Der besonders interessante Teil ist inzwischen Ansys.
+
+Synopsys kann sich dadurch von:
+
+Chip Design
+
+in Richtung:
+
+Chip + Package + Thermal + Mechanical + Electromagnetic + System Engineering
+
+entwickeln.
+
+Das ist keine kleine Produktadjazenz.
+
+AI-Hardware wird zunehmend zu einem Systemproblem.
+
+Nicht:
+
+„Wie baue ich einen schnelleren Transistor?“
+
+Sondern:
+
+„Wie optimiere ich Chip, Package, Interconnect, Power und Thermal gleichzeitig?“
+
+Wenn die Komplexität auf Systemebene wächst, kann Synopsys seine Anschlussfläche deutlich vergrößern.
+
+Das wäre Scarce-Core Expansion und Bottleneck Asymmetry gleichzeitig.
+
+---
+
+## Broadcom – möglicherweise der stärkste Hybrid
+
+Broadcom ist besonders interessant, weil die Firma direkt von der Gegenreaktion auf einen anderen Bottleneck profitieren kann.
+
+Hyperscaler wollen Nvidia-Abhängigkeit reduzieren.
+
+Normalerweise wäre Vertical Integration schlecht für einen Zulieferer.
+
+Bei Broadcom kann das Gegenteil passieren.
+
+Google, Meta, OpenAI oder andere können sagen:
+
+„Wir wollen eigene Accelerators.“
+
+Aber „eigener Chip“ bedeutet nicht:
+
+„Wir entwickeln jede technische Schicht komplett alleine.“
+
+Broadcom kann zum Partner für Custom Silicon werden.
+
+Der Kunde verticalisiert.
+
+Broadcom verdient an der Verticalisierung.
+
+Gleichzeitig benötigt der dadurch wachsende AI-Cluster mehr Networking.
+
+Broadcom verkauft auch dort.
+
+Das ist eine seltene Second-Order-Struktur:
+
+**GPU Bottleneck → Custom Silicon → mehr Broadcom Accelerator Opportunity → größere Cluster → mehr Broadcom Networking Opportunity.**
+
+Und die aktuellen Zahlen sind außergewöhnlich.
+
+Q3 FY2026 AI-Semiconductor-Umsatz:
+
+$16,7 Mrd., +221 % YoY und +54 % QoQ.
+
+Für Q4 erwartet Broadcom ungefähr $21,7 Mrd. AI-Semiconductor-Umsatz.
+
+Das Unternehmen erzeugte in Q3 gleichzeitig $13,7 Mrd. Free Cash Flow, rund 46 % des Umsatzes.
+
+Die Aktie steht trotzdem bei rund $357,90 gegenüber einem 52-Wochen-Hoch von $495 und einem Forward-P/E von rund 20,7x.
+
+Das bedeutet nicht automatisch „billig“.
+
+Aber es erzeugt eine außergewöhnliche Forschungsfrage:
+
+> Wie kann AI-Semiconductor-Umsatz um 221 % wachsen, während der Markt das Unternehmen trotzdem deutlich unter seinem vorherigen Hoch bewertet?
+
+Vielleicht gibt es dafür gute Gründe: Customer Concentration, Nachhaltigkeit der Custom-Silicon-Welle, VMware-Mix, zyklische Halbleiter, hohe absolute Erwartungen.
+
+Aber genau diese Diskrepanz ist das, was wir suchen.
+
+Nicht einfach Wachstum.
+
+Fundamentale Beschleunigung ohne äquivalente Erwartungsexpansion.
+
+---
+
+# THESE 4 – DEEP / RAILWAY BOTTLENECKS
+
+Bei der vierten These gehen wir noch tiefer.
+
+Die Frage lautet:
+
+> Welche Teile des AI-Systems können selbst Microsoft, Amazon, Google, Meta oder Nvidia nicht einfach mit zusätzlichen Milliarden reproduzieren?
+
+Das ist die Railway-Frage.
+
+Eine Eisenbahn war nicht mächtig, weil Stahl knapp war.
+
+Sie war mächtig, weil eine bestimmte Verbindung existierte.
+
+Land.
+
+Rights-of-Way.
+
+Genehmigungen.
+
+Netzwerke.
+
+Stationspunkte.
+
+Kapital.
+
+Zeit.
+
+Replizierst du diese Infrastruktur, musst du nicht nur Geld investieren. Du musst Geschichte wiederholen.
+
+AI besitzt mehrere solcher Layer.
+
+---
+
+## TSMC
+
+TSMC ist vermutlich der sauberste industrielle Deep Bottleneck.
+
+Ein Hyperscaler kann Nvidia teilweise umgehen.
+
+Er baut einen eigenen Chip.
+
+Aber dann braucht dieser Chip eine Foundry.
+
+Wenn Google TPU, Amazon Trainium, Microsoft Maia oder andere Custom-Chips zunehmen, verschiebt sich Wert teilweise von einem Downstream-Bottleneck zu TSMC.
+
+Vertical Integration oben kann Abhängigkeit unten sogar erhöhen.
+
+Die aktuellen Zahlen zeigen, wie stark der Trend bereits ist.
+
+TSMC Q2 2026:
+
+Umsatz +36 % YoY in TWD,
+
+Net Income +77,4 %,
+
+Gross Margin 67,7 %,
+
+Operating Margin 60,3 %.
+
+TSMC erhöhte außerdem das 2026-CapEx-Budget auf $60–64 Mrd.; 70–80 % davon gehen in Advanced Process Technology und weitere 10–20 % unter anderem in Advanced Packaging.
+
+Gleichzeitig erwartet TSMC inzwischen etwas mehr als 40 % Umsatzwachstum für 2026 in US-Dollar.
+
+Das ist operativ außergewöhnlich.
+
+Aber hier sehen wir zugleich den Unterschied zu unseren möglichen Expectation-Gap-Cases.
+
+Die TSMC-ADR liegt Anfang September bei rund $428,91, nur etwa 10 % unter dem 52-Wochen-Hoch von $479.
+
+Die These funktioniert.
+
+Der Markt weiß es.
+
+Das heißt nicht, dass TSMC kein gutes Investment ist.
+
+Aber für Alpha muss unser Forecast jetzt stärker sein als bloß:
+
+„Custom Silicon braucht TSMC.“
+
+Das ist bereits Konsens.
+
+---
+
+## AEP – die physische Railway
+
+American Electric Power ist strukturell völlig anders.
+
+AEP kontrolliert große Teile eines existierenden Transmission-Netzes.
+
+Die relevante AI-Frage lautet hier nicht:
+
+„Wird Strom benötigt?“
+
+Natürlich.
+
+Die wichtigere Frage lautet:
+
+> Wer besitzt die physische Verbindung zwischen neuer Generation und neuen Lastzentren?
+
+AEP meldete inzwischen 69 GW vertraglich vereinbarte zusätzliche Last bis 2030. Das Unternehmen erhöhte nach Q2 außerdem seine 2026-Guidance.
+
+Die Aktie kostet ungefähr $124,50, Forward P/E rund 18,8x und liegt unter ihrem 52-Wochen-Hoch von $140,58.
+
+Auf den ersten Blick wirkt das wie eine offensichtliche Ineffizienz:
+
+69 GW neue Load Commitments – und die Aktie sieht nicht annähernd aus wie ein AI-Infrastruktur-Hype-Trade.
+
+Aber genau hier müssen wir aufpassen.
+
+AEP ist reguliert.
+
+Ein unglaublich knappes Asset führt nicht automatisch zu unglaublich hohen Margen.
+
+Die zusätzliche Nachfrage kann über höhere Rate Base monetarisiert werden.
+
+Das kann sehr wertvoll sein.
+
+Aber die erlaubte Equity Return wird regulatorisch begrenzt.
+
+Deshalb ist AEP möglicherweise eine hervorragende Railway, ohne zwangsläufig die höchste Scarcity Rent zu besitzen.
+
+Hier wird die Investmentfrage:
+
+> Ist die Wachstumsrate der regulierten Asset Base aufgrund von AI dauerhaft höher als der Markt erwartet – und reicht die erlaubte Rendite darauf aus, um überdurchschnittlichen Shareholder Value zu erzeugen?
+
+Das ist wesentlich präziser als „AI braucht Strom“.
+
+---
+
+## Constellation Energy – Scarcity mit höherem Capture, aber höherem Risiko
+
+Constellation Energy ist eine andere Variante.
+
+CEG besitzt große Mengen bestehender nuklearer und anderer Generation.
+
+Bestehende Nuclear Capacity ist schwer und langsam zu ersetzen.
+
+Anders als ein vollständig reguliertes Transmission Utility kann Constellation teilweise stärker von Marktpreisen und langfristigen Verträgen profitieren.
+
+Q2 2026 erhöhte das Unternehmen seine Adjusted Operating EPS Guidance auf $11,50–12,50 und meldete zusätzliche 920 MW langfristige PPAs. Außerdem schreitet die Wiederinbetriebnahme des Crane Clean Energy Center regulatorisch voran.
+
+Die Aktie liegt bei ungefähr $298,96, rund 28 % unter ihrem 52-Wochen-Hoch von $412,70; Forward P/E ungefähr 24x.
+
+Damit sehen wir eine interessante Abwägung:
+
+AEP besitzt möglicherweise den tieferen Railway-Moat.
+
+CEG besitzt möglicherweise den stärkeren Rent-Capture.
+
+Aber CEG besitzt wiederum höhere Preis-, Vertrags-, regulatorische und Projekt-Risiken.
+
+Das zeigt, warum „Deep Bottleneck“ alleine nicht reicht.
+
+Wir brauchen immer:
+
+**Depth × Duration × Capture.**
+
+---
+
+# THESE 5 – BOTTLENECK MIGRATION / NEXT BOTTLENECK
+
+Das ist die dynamischste These.
+
+Anstatt zu fragen:
+
+„Was ist heute knapp?“
+
+fragen wir:
+
+> Welche heutige Investitionswelle löst einen Constraint – und welcher Constraint wird dadurch als Nächstes sichtbar?
+
+Das ist eine komplett andere Denkweise.
+
+---
+
+## Von Compute zu Networking
+
+Wenn GPUs und Custom Accelerators immer stärker ausgebaut werden, steigt die Anzahl der Chips in Clustern.
+
+Aber 100.000 extrem schnelle Chips bringen wenig, wenn sie schlecht miteinander kommunizieren.
+
+Der relative Wert des Netzwerkes steigt.
+
+Genau deshalb ist Arista interessant.
+
+Q2 2026:
+
+Umsatz $3,036 Mrd., +37,7 %.
+
+Non-GAAP Operating Margin 49,9 %.
+
+Arista bringt inzwischen 1,6-Tbps-AI-Fabric-Plattformen für Scale-up, Scale-out und Scale-across auf den Markt.
+
+Hier sieht man inzwischen allerdings auch den Marktzyklus.
+
+Die Aktie steht bei rund $193,78, nur knapp 10 % unter ihrem 52-Wochen-Hoch, und wird mit ungefähr 41x Forward Earnings bewertet.
+
+Das ist sehr wichtig.
+
+Arista ist möglicherweise eine der besten fundamentalen Bottleneck-Migration-Thesen.
+
+Aber sie ist inzwischen keine besonders versteckte These mehr.
+
+Der Markt beginnt offensichtlich, Networking als nächsten Constraint zu erkennen.
+
+Das macht Arista nicht schlecht.
+
+Es senkt nur den Expectation Gap.
+
+---
+
+## Eaton – der nächste physische Constraint
+
+Eaton sitzt eine Ebene später.
+
+Mehr Compute bedeutet:
+
+mehr Rack Density.
+
+Mehr Rack Density bedeutet:
+
+mehr Power Density.
+
+Mehr Power Density bedeutet:
+
+komplexere elektrische Verteilung, Switchgear, UPS, Protection und zunehmend Thermal Integration.
+
+Das ist nicht optional.
+
+Ein Datacenter kann GPUs besitzen und trotzdem keinen Dollar Umsatz erzeugen, solange das elektrische System nicht fertig ist.
+
+Eaton Q2 2026:
+
+Sales +21 %,
+
+Organic Growth +14 %,
+
+Electrical-Americas-Orders im rollierenden Zwölfmonatsvergleich +41 %,
+
+Electrical-Sector-Backlog +43 %,
+
+Electrical Global Backlog sogar +103 %,
+
+Free Cash Flow +22 %.
+
+Das sieht genau so aus, wie man eine beginnende Bottleneck-Migration operativ erwarten würde.
+
+Die Aktie notiert bei ungefähr $410,85, rund 14 % unter ihrem Hoch und ungefähr 27x Forward Earnings.
+
+Das ist nicht billig.
+
+Aber das Kursbild ist wesentlich weniger extrem als beispielsweise bei vielen früheren AI-Infrastruktur-Gewinnern.
+
+Die wichtige Frage ist deshalb:
+
+> Sind Eatons stark steigende Orders eine zyklische CapEx-Welle – oder der Beginn einer mehrjährigen strukturellen Verschiebung der Power Architecture von Datacentern?
+
+Wenn letzteres stimmt, liegt die Anschlussfläche nicht nur im Verkauf zusätzlicher Switchgear-Einheiten.
+
+Sie liegt in:
+
+Power Distribution,
+
+Power Quality,
+
+Thermal,
+
+Datacenter Architecture,
+
+Grid-to-Chip-Systemen.
+
+Das reduziert Dead-End Risk.
+
+---
+
+## Danach: Grid und Transmission
+
+Wenn Electrical Distribution innerhalb des Datacenters ausgebaut ist, verschiebt sich der Engpass möglicherweise nach außen.
+
+Dann lautet die Frage nicht mehr:
+
+„Kann das Rack Strom verteilen?“
+
+sondern:
+
+„Kommt überhaupt genug Strom zum Grundstück?“
+
+Damit kommen AEP, Quanta, GE Vernova, Constellation und andere ins Spiel.
+
+Der Bottleneck wandert vom Chip zum Cluster.
+
+Vom Cluster zum Gebäude.
+
+Vom Gebäude zum Netz.
+
+Vom Netz zur Generation und Transmission.
+
+Genau dieser Ablauf macht Bottleneck Migration so mächtig.
+
+Man versucht nicht, eine einzelne Produktkategorie vorherzusagen.
+
+Man versucht das gesamte System zu modellieren.
+
+---
+
+## IV. Wo stehen wir im September 2026 tatsächlich?
+
+Wenn wir die fünf Thesen mit dem heutigen Markt kombinieren, ergibt sich inzwischen eine ziemlich klare Landkarte.
+
+Die offensichtlichen AI-Engpässe wurden teilweise bereits massiv entdeckt.
+
+TSMC funktioniert fundamental – aber der Markt weiß inzwischen, dass Leading-edge Foundry knapp ist.
+
+Arista funktioniert fundamental – aber die Aktie handelt nahe ihrem Hoch und zu einem hohen Multiple.
+
+Vertiv, KLA, ASML, Coherent und andere haben ebenfalls bereits erhebliche Re-Ratings erlebt.
+
+Das bedeutet nicht, dass ihre fundamentalen Thesen schwächer sind.
+
+Es bedeutet nur:
+
+Unser Edge muss inzwischen tiefer sein.
+
+Auf der anderen Seite befinden sich Unternehmen, bei denen die Diskrepanz ungewöhnlicher aussieht.
+
+### Scarce Core
+
+Wolters Kluwer: ungefähr 41 % unter 52-Wochen-Hoch, ungefähr 12x Forward Earnings, während Recurring Revenue und Cloud Software weiter wachsen.
+
+RELX: ungefähr 27 % unter Hoch, rund 18x Forward, während Profit, EPS und Cash Conversion weiter steigen.
+
+SAP: ungefähr 24 % unter Hoch; Cloud ERP und Backlog wachsen weiter stark.
+
+Hier hat der Markt einen klaren AI-Disruption-Discount eingebaut.
+
+---
+
+### Catch-up
+
+Oracle: mehr als 50 % unter Hoch, ungefähr 20x Forward Earnings, während Cloud und RPO explodieren.
+
+Aber hier ist die Gegenposition real: negativer FCF und enorme Finanzierung.
+
+Oracle ist kein offensichtlicher Fehlpreis.
+
+Oracle ist ein Capital-Conversion-Experiment.
+
+---
+
+### Bottleneck Asymmetry
+
+Broadcom: AI-Semiconductor Revenue +221 %, Aktie trotzdem deutlich unter Hoch.
+
+Cadence: starker Backlog, Guidance erhöht, Aktie rund 30 % unter Hoch.
+
+Synopsys: AI-getriebene Ergebnisse stark, Guidance erhöht, Aktie rund ein Drittel unter Hoch.
+
+Hier ist die auffällige Gemeinsamkeit:
+
+Die operativen AI-Daten sehen wesentlich stärker aus als die jüngste Kursentwicklung.
+
+Das macht diese Gruppe momentan besonders interessant.
+
+---
+
+### Deep Infrastructure
+
+AEP: enorme vertragliche Lastpipeline, aber moderate Bewertung.
+
+CEG: starke Power-Story und langfristige Verträge, aber hoher Discount zum Hoch.
+
+Hier muss allerdings zuerst geklärt werden, wie viel Scarcity tatsächlich beim Aktionär ankommt.
+
+---
+
+### Migration
+
+ETN: Orders und Backlog laufen wesentlich schneller als ein gewöhnlicher Industriekonzern.
+
+ANET: These bereits deutlich stärker erkannt.
+
+Das könnte bedeuten:
+
+Networking befindet sich bereits in der Markt-Erkennungsphase.
+
+Electrical Infrastructure möglicherweise noch früher.
+
+Grid/Transmission nochmals später.
+
+---
+
+## V. Die bisher interessanteste Sequenz
+
+Damit entsteht momentan eine mögliche zeitliche Reihenfolge:
+
+Accelerators → bereits offensichtlich
+
+HBM → bereits stark erkannt
+
+Advanced Packaging / Foundry → stark erkannt
+
+Networking → wird gerade aggressiver erkannt
+
+Electrical Distribution / Power Density → operative Daten beschleunigen, Markt erkennt es teilweise
+
+Generation / Grid / Transmission → Nachfrage wird sichtbar, Rent Capture aber noch unklar
+
+Auf der Softwareseite läuft parallel eine zweite Sequenz:
+
+Foundation Models → abundant Intelligence
+
+führt zu:
+
+höherem Wert realer Daten
+
+führt zu:
+
+höherem Wert von State, Permissions und Provenance
+
+führt zu:
+
+Agenten benötigen Workflow-Zugriff
+
+führt zu:
+
+möglicher Expansion von System of Record → System of Action.
+
+Der Markt ist sich bei dieser zweiten Sequenz momentan deutlich unsicherer.
+
+Genau deshalb sind SAP, RELX und WKL interessanter als eine simple „AI Software Winner“-Story.
+
+---
+
+## VI. Capital Conversion – der Filter, der alle fünf Thesen retten oder zerstören kann
+
+Die größte Gefahr bei AI-Investing ist, Nachfrage mit Shareholder Value zu verwechseln.
+
+Eine Firma kann riesige Nachfrage haben und trotzdem Kapital zerstören.
+
+Die relevante Kette lautet:
+
+**Demand → Capital → Capacity → Utilization → Revenue → Margin → Cashflow → Return on Capital.**
+
+Wenn ein Glied ausfällt, kann die technologische These stimmen und die Aktie trotzdem schlecht sein.
+
+Oracle ist das extremste aktuelle Beispiel.
+
+$638 Mrd. RPO klingt fantastisch.
+
+Aber wenn hunderte Milliarden Kapital notwendig sind, um dieses RPO zu erfüllen, müssen wir wissen, welche Rendite dieses Kapital verdient.
+
+AEP besitzt 69 GW zusätzliche Load Agreements.
+
+Aber wenn jeder zusätzliche Dollar Transmission CapEx nur eine regulierte Rendite erzeugt, darf man diese 69 GW nicht wie Software-Backlog behandeln.
+
+TSMC investiert $60–64 Mrd. CapEx.
+
+Aber dort sehen wir bereits enorm hohe Margen, starke Utilization und außergewöhnliches Wachstum.
+
+Das ist eine andere Qualität von Capital Conversion.
+
+Deshalb sollte jede kapitalintensive These in drei Kapitalzonen getrennt werden:
+
+**Realized Base:** heute produktives Kapital.
+
+**Capital at Risk:** bereits investiert, Rendite noch nicht bewiesen.
+
+**Future Capital Frontier:** Kapital, das erst noch benötigt wird, damit unsere Bull-Case-Zukunft überhaupt eintreten kann.
+
+Der Fehler vieler AI-Analysen ist, nur die zukünftige Revenue-Zahl zu modellieren und die Future Capital Frontier zu ignorieren.
+
+---
+
+## VII. Demand Quality
+
+Auch „Backlog“ ist nicht gleich Backlog.
+
+Man sollte Nachfrage als Leiter betrachten:
+
+**Interesse → Anfrage → Queue → LOA → Vertrag → Take-or-pay → finanziert → gebaut → energized → tatsächlich genutzt.**
+
+Ein Datacenter-Projekt in einer Grid-Queue ist nicht dasselbe wie ein langfristiger Vertrag.
+
+Ein Vertrag ist nicht dasselbe wie ein vorfinanzierter Vertrag.
+
+Ein vorfinanzierter Vertrag ist nicht dasselbe wie produktive und ausgelastete Capacity.
+
+Bei Oracle sind die $75 Mrd. prepaid/customer-supplied Hardware deshalb wichtig.
+
+Sie erhöhen die Qualität eines Teils der Nachfrage.
+
+Bei AEP sind unterzeichnete Load Agreements wesentlich informativer als bloße Interconnection Requests.
+
+Bei Power- und Datacenter-Infrastruktur ist dieser Unterschied entscheidend, weil Ghost Demand enorm sein kann.
+
+---
+
+## VIII. Bottleneck Capture
+
+Eine weitere Korrektur ist notwendig.
+
+Ein Bottleneck ist nicht automatisch eine Investmentchance.
+
+Wir brauchen:
+
+**Scarcity × Duration × Economic Capture.**
+
+Ein Stromnetz kann knapp sein.
+
+Aber Regulierung beschränkt Capture.
+
+Optics können knapp sein.
+
+Aber Wettbewerb kann Capture begrenzen.
+
+Ein EDA-Tool kann nur einen kleinen Anteil der Gesamtkosten ausmachen und trotzdem extrem hohe Capture besitzen, weil der Kundennutzen gigantisch ist.
+
+Das ist der Grund, warum Cadence unter Umständen ökonomisch interessanter sein kann als ein physisch viel knapperer Rohstoff.
+
+---
+
+## IX. Kein Dead End
+
+Die beste aktuelle Knappheit ist wenig wert, wenn sie in fünf Jahren verschwindet und die Firma keine Anschlussfläche besitzt.
+
+Deshalb muss nach jedem erfolgreichen Bull Case sofort die nächste Frage kommen:
+
+> Und dann?
+
+Wenn Broadcom Custom Accelerators verkauft – was danach?
+
+Networking.
+
+Infrastructure Software.
+
+Enterprise AI.
+
+Wenn Cadence von mehr Chipdesigns profitiert – was danach?
+
+Advanced Packaging.
+
+System Analysis.
+
+AI-assisted Engineering.
+
+Wenn Eaton von Datacenter Power profitiert – was danach?
+
+Thermal.
+
+Grid-to-chip.
+
+Power Architecture.
+
+Wenn SAP durch AI mehr Nutzung seines Enterprise State bekommt – was danach?
+
+Agents.
+
+Automation.
+
+Transactions.
+
+Das ist der Unterschied zwischen:
+
+Temporary Bottleneck
+
+und
+
+Expansion Machine.
+
+---
+
+## X. Die stärksten Hybrid-Unternehmen
+
+Die attraktivsten Unternehmen passen deshalb oft in mehrere Thesen gleichzeitig.
+
+Broadcom verbindet Bottleneck Asymmetry, Bottleneck Migration und Verticalization.
+
+Cadence verbindet Scarce Core, Asymmetry und zunehmende Deep-Engineering-Abhängigkeit.
+
+Synopsys besitzt dieselbe Struktur und erweitert sie durch Ansys.
+
+Oracle kombiniert Catch-up mit einem vorhandenen Database-/Enterprise-Core.
+
+SAP kombiniert Scarce Core mit kapitalleichtem Catch-up.
+
+Eaton verbindet Migration, Asymmetry und physische Infrastruktur.
+
+TSMC verbindet Deep Bottleneck, Migration und Expansion.
+
+Genau diese Hybridität reduziert Dead-End Risk.
+
+Wenn ein einzelner Mechanismus schwächer wird, besitzt das Unternehmen weitere Anschlussflächen.
+
+---
+
+## XI. Warum 3/3/3/3/3 wichtig ist
+
+Die Fundamentalanalyse reicht trotzdem nicht.
+
+Wir müssen wissen, wann der Markt die These erkannt hat.
+
+Ein aktueller Drawdown sagt wenig.
+
+Eine Aktie kann heute 25 % unter ihrem Hoch stehen und trotzdem vorher um 200 % gestiegen sein.
+
+Deshalb betrachten wir fünf aufeinanderfolgende Drei-Monats-Blöcke.
+
+Nicht als Momentum-Indikator.
+
+Sondern als Erwartungsarchäologie.
+
+Wir suchen unterschiedliche Muster:
+
+nie erkannt
+
+früh erkannt
+
+spät erkannt
+
+kontinuierliches Re-Rating
+
+Hype → Reset
+
+fundamentale Beschleunigung ohne Re-Rating
+
+Der letzte Zustand ist besonders interessant.
+
+Wenn Earnings, Backlog, Cashflow und Guidance besser werden, während der Kurs sinkt oder stagniert, muss erklärt werden, warum.
+
+Vielleicht weiß der Markt etwas, was wir übersehen.
+
+Oder genau dort befindet sich Alpha.
+
+Der Chart ist deshalb kein Beweis.
+
+Er ist ein Alarm, der sagt:
+
+> Hier stimmt etwas zwischen fundamentaler und erwarteter Zukunft nicht überein. Finde heraus, warum.
+
+---
+
+## XII. Price Down ≠ Value Down
+
+Dasselbe gilt für Crashes.
+
+Ein Kursrückgang ist weder Kaufargument noch Widerlegung.
+
+Wir müssen zwei Größen separat aktualisieren:
+
+Marktpreis
+
+und
+
+unseren erwarteten intrinsischen Wert.
+
+SAP ist dafür ein gutes Beispiel.
+
+Der Januar-Rückgang hatte einen echten Grund: Cloud-Erwartungen wurden verfehlt und AI-Disruption wurde ernster genommen.
+
+Seitdem haben Q1 und Q2 zusätzliche Informationen geliefert.
+
+Wenn diese Informationen den erwarteten langfristigen Wert wieder erhöhen, der Kurs aber nicht vollständig folgt, entsteht möglicherweise Alpha.
+
+Bei Oracle ist es anders.
+
+Der Kursrückgang kann durch tatsächlich höhere Finanzierungs- und CapEx-Risiken gerechtfertigt sein.
+
+Deshalb darf „−50 % vom Hoch“ niemals direkt als Upside interpretiert werden.
+
+Die relevante Gleichung lautet:
+
+> Hat der Preis stärker nachgegeben als der shareholder-adjusted erwartete Wert?
+
+Nur dann ist die Aktie tatsächlich attraktiver geworden.
+
+---
+
+## XIII. Expectation Gap und Expectation Fragility
+
+Ein Unternehmen kann gleichzeitig ein positiver Expectation-Gap-Case und fragil sein.
+
+Expectation Gap fragt:
+
+> Ist die Zukunft besser als eingepreist?
+
+Expectation Fragility fragt:
+
+> Wie viel Perfektion benötigt der aktuelle Kurs?
+
+Arista kann beispielsweise fundamental hervorragend sein und trotzdem fragiler werden, wenn ein Forward Multiple von über 40x kaum Fehler toleriert.
+
+Wolters Kluwer kann dagegen langsamer wachsen, aber bei rund 12x Forward Earnings wesentlich weniger Perfektion benötigen.
+
+Das bedeutet nicht automatisch, dass WKL besser ist.
+
+Es bedeutet lediglich, dass die Beweislast unterschiedlich ist.
+
+Je höher die Bewertung, desto mehr zukünftige Realität muss bereits heute stimmen.
+
+---
+
+## XIV. Die aktuelle Forschungspriorität
+
+Wenn wir die Theorie, die aktuellen Fundamentaldaten und das Erwartungsniveau zusammenbringen, sehe ich Stand Anfang September 2026 drei Research-Zonen.
+
+### Zone 1: Der Markt könnte die Richtung des AI-Effekts falsch einschätzen
+
+Wolters Kluwer
+
+RELX
+
+SAP
+
+Hier lautet die Kernfrage:
+
+Wird AI den Scarce Core commoditisieren – oder macht abundant Intelligence gerade Trusted Data, State und Workflow Integration knapper?
+
+Das ist wahrscheinlich unser sauberster „contrarian conceptual bet“.
+
+---
+
+### Zone 2: Fundamentals laufen wesentlich stärker als der Kurs
+
+Broadcom
+
+Cadence
+
+Synopsys
+
+Hier besteht die Frage weniger darin, ob AI-Nachfrage existiert.
+
+Die Zahlen beantworten das bereits.
+
+Wir müssen vielmehr herausfinden:
+
+Warum zahlt der Markt nicht stärker dafür?
+
+Ist es Valuation?
+
+Customer Concentration?
+
+China?
+
+Ansys Integration?
+
+Custom-Silicon-Nachhaltigkeit?
+
+Oder existiert tatsächlich ein Expectation Gap?
+
+Diese drei gehören deshalb momentan zu den wichtigsten Deep-Dive-Cases.
+
+---
+
+### Zone 3: Physischer Bottleneck real, Capture noch nicht vollständig geklärt
+
+Eaton
+
+AEP
+
+Constellation Energy
+
+Hier ist die Nachfragegeschichte stark.
+
+Aber wir müssen Asset Scarcity von Shareholder Capture trennen.
+
+Eaton zeigt bereits stark steigende Orders und Backlogs.
+
+AEP besitzt enorme Load Commitments.
+
+CEG besitzt knappe Generation und neue langfristige Verträge.
+
+Die entscheidende Arbeit liegt jetzt nicht mehr darin zu beweisen, dass AI Strom braucht.
+
+Das wissen wir.
+
+Wir müssen beweisen, dass der zusätzliche Strombedarf überproportionalen Equity Value erzeugt.
+
+---
+
+## XV. Fälle, bei denen die These bereits stärker erkannt wurde
+
+Auf der anderen Seite stehen Unternehmen wie:
+
+TSMC,
+
+ASML,
+
+KLA,
+
+Arista,
+
+Vertiv,
+
+Coherent.
+
+Ihre strukturellen Thesen können sogar besser sein als bei einigen unserer favorisierten Expectation-Gap-Cases.
+
+Aber der Markt hat große Teile davon bereits verstanden.
+
+Das heißt:
+
+Wir brauchen dort eine neue Second-Order-These.
+
+Bei TSMC könnte das beispielsweise sein, dass die zunehmende Hyperscaler-Verticalisierung nicht nur neutral, sondern positiv für TSMCs Anteil am gesamten AI-Economics-Pool ist.
+
+Bei Arista könnte die neue These sein, dass Networking nicht nur ein temporärer Folgeengpass wird, sondern mit jeder Cluster-Generation strukturell einen größeren Anteil am Systemwert erhält.
+
+Ohne einen solchen zusätzlichen Schritt reicht „gute Firma + AI Exposure“ nicht mehr.
+
+---
+
+## XVI. Das Analyse-Raster für jede Aktie
+
+Unsere praktische Analyse sollte deshalb immer vom System zur Aktie und erst danach zum Kurs gehen.
+
+Zuerst:
+
+Welche Funktion erfüllt dieses Unternehmen im AI-System?
+
+Dann:
+
+Welches Problem wird durch AI größer?
+
+Dann:
+
+Warum kann gerade dieses Unternehmen es besser lösen?
+
+Dann:
+
+Wie schwierig ist ein Bypass?
+
+Dann:
+
+Kann der Kunde verticalisieren?
+
+Dann:
+
+Wie viel des wirtschaftlichen Surplus behält die Firma?
+
+Dann:
+
+Wie viel zusätzliches Kapital wird benötigt?
+
+Dann:
+
+Welche Qualität besitzt die Nachfrage?
+
+Dann:
+
+Wird neue Capacity absorbiert?
+
+Dann:
+
+Was kommt nach dem heutigen Bottleneck?
+
+Dann:
+
+Welche Zukunft bezahlt der Aktienkurs bereits?
+
+Und erst ganz am Ende:
+
+Kaufen oder nicht kaufen?
+
+Dadurch vermeiden wir das typische Problem, zuerst eine Aktie zu mögen und anschließend eine Geschichte zu bauen, die den Kauf rechtfertigt.
+
+---
+
+## XVII. Die eigentliche gemeinsame Metathese
+
+Alle fünf Thesen lassen sich letztlich auf eine gemeinsame Idee reduzieren:
+
+> AI verschiebt wirtschaftliche Knappheit schneller, als Märkte alle Second- und Third-Order-Effekte gleichzeitig korrekt bepreisen können.
+
+Foundation Models machen Intelligence abundant.
+
+Dadurch werden State, Trust und Execution relativ knapper.
+
+Mehr Accelerators machen Networking knapper.
+
+Mehr Networking und Compute machen Power Distribution knapper.
+
+Mehr Datacenter machen Grid und Transmission knapper.
+
+Extrem hohe Bottleneck-Rents erzeugen Vertical Integration.
+
+Vertical Integration löst einen Bottleneck und stärkt manchmal einen tieferen Bottleneck.
+
+Neue Capacity beseitigt Scarcity.
+
+Dadurch wächst das System stärker.
+
+Und dieses Wachstum erzeugt die nächste Scarcity.
+
+Value bewegt sich deshalb durch das System.
+
+Unsere Aufgabe besteht nicht darin, den offensichtlichsten aktuellen Gewinner zu besitzen.
+
+Unsere Aufgabe besteht darin, diese Bewegung früher als der Markt zu modellieren.
+
+---
+
+## Schluss: Wo das mögliche Alpha heute tatsächlich liegt
+
+Stand September 2026 ist die interessanteste Erkenntnis nicht mehr, dass AI viel Infrastruktur benötigt.
+
+Das ist Konsens.
+
+Interessanter sind inzwischen drei konkrete Marktfehler, die möglicherweise existieren.
+
+Erstens: Der Markt könnte professionelle Software- und Informationsanbieter zu stark behandeln, als würde AI ihren knappen Core zerstören. SAP, RELX und besonders Wolters Kluwer sind inzwischen reale Tests dieser Hypothese.
+
+Zweitens: Der Markt könnte einige extrem wertvolle Second-Order-Bottlenecks unterschätzen. Broadcom, Cadence und Synopsys profitieren nicht nur von „mehr AI“, sondern teilweise gerade davon, dass heutige Bottlenecks durch Custom Silicon und höhere Systemkomplexität gelöst werden.
+
+Drittens: Der Markt könnte die zeitliche Migration des physischen Engpasses unterschätzen. Die operative Beschleunigung bei Eaton deutet darauf hin, dass Power Architecture bereits bindender wird; AEP und CEG zeigen, dass der Engpass anschließend weiter Richtung Netz und Generation wandert. Dort ist allerdings Value Capture wesentlich schwieriger zu beweisen.
+
+Damit wird aus einem abstrakten Framework eine konkrete Research-Agenda.
+
+Wir suchen nicht:
+
+„Wer profitiert von AI?“
+
+Wir suchen:
+
+> Welche wirtschaftliche Knappheit wird gerade größer, welches Unternehmen kontrolliert sie, wie schwer kann sie umgangen werden, wohin kann dieses Unternehmen danach expandieren, wie effizient wird zusätzlicher Kapitaleinsatz in Cashflow übersetzt – und wie viel dieser Zukunft weigert sich der heutige Aktienkurs noch zu bezahlen?
+
+Genau an der letzten Differenz entsteht Alpha.
