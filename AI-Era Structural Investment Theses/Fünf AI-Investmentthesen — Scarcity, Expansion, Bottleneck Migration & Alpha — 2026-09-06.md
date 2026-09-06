@@ -160,13 +160,20 @@ Ein wichtiger Grund ist Vertical Integration.
 
 Je mehr Geld ein Kunde an einen Lieferanten verliert und je strategischer die Abhängigkeit wird, desto stärker wird sein Anreiz, die Funktion selbst zu übernehmen.
 
-Man kann diesen Druck grob so denken:
+Man kann diesen Druck als **qualitatives Scoring-Modell** denken, nicht als berechenbare Gleichung.
 
-**Breakthrough Pressure ≈ Economic Rent × Dependency × Customer Scale × verfügbare Alternativpfade**
+Breakthrough Pressure steigt mit:
+- Economic Rent
+- Strategic Dependency
+- Customer Scale
+- verfügbaren Alternativpfaden
 
-geteilt durch:
+und fällt mit:
+- Physical Complexity
+- Learning Depth
+- Time to Iterate
 
-**Physical Complexity × Learning Depth × Time to Iterate.**
+Die Schreibweise dient damit als Sprache für Kausalrichtung und Größenordnung. Solange die Variablen nicht operationalisiert, gewichtet und historisch kalibriert sind, ist sie kein numerisches Modell. Dasselbe gilt für ähnliche Kurzformeln im Framework: Sie strukturieren Denken, erzeugen aber keine Scheingenauigkeit.
 
 Bei Software ist die Integrationshürde oft relativ niedrig.
 
@@ -280,7 +287,9 @@ Jetzt können wir gegen diese Erwartung Daten beobachten.
 
 ## SAP – derzeit ein echter Live-Test der These
 
-SAP steht am 4. September 2026 bei rund €185,68, rund 24 % unter dem 52-Wochen-Hoch von €244,30. Das Forward-P/E liegt bei ungefähr 24.
+SAP steht am 4. September 2026 bei rund €185,68, rund 24 % unter dem für diesen Stichtag verwendeten 52-Wochen-Hoch von €244,30. Das Forward-P/E liegt bei ungefähr 24.
+
+Der Zusatz „für diesen Stichtag“ ist wichtig. Bei stark volatilen Aktien kann derselbe Titel wenige Monate zuvor einen wesentlich tieferen Drawdown gezeigt haben; verschiedene Handelsplätze oder ADRs können die Vergleichbarkeit zusätzlich verzerren. Ein einzelner Abstand zum 52-Wochen-Hoch ist deshalb nur ein Snapshot, kein vollständiger Price State.
 
 Das allein macht SAP nicht billig.
 
@@ -1376,6 +1385,17 @@ Er ist ein Alarm, der sagt:
 
 > Hier stimmt etwas zwischen fundamentaler und erwarteter Zukunft nicht überein. Finde heraus, warum.
 
+### Price-State-Standard
+
+Damit Einzelstichtage nicht zu falscher Sicherheit führen, sollte jede künftige Kurszustandsanalyse mindestens vier Dinge gemeinsam ausweisen:
+
+- **Stichtag:** exaktes Datum und verwendeter Handelsplatz / Instrument.
+- **Referenzhoch:** welches 52-Wochen- oder Zyklushoch für den Vergleich verwendet wird.
+- **Max Drawdown / Intrayear Low:** wie tief die Aktie innerhalb des relevanten Zeitfensters tatsächlich gefallen war.
+- **3/3/3/3/3-Pfad:** wie sich die Erwartung über fünf aufeinanderfolgende Drei-Monats-Blöcke aufgebaut oder zurückgebildet hat.
+
+Dadurch unterscheiden wir aktuellen Abstand, historischen Max Drawdown und Marktpfad sauber voneinander. Gerade bei volatilen Titeln wie SAP ist diese Trennung notwendig.
+
 ---
 
 ## XII. Price Down ≠ Value Down
@@ -1438,7 +1458,34 @@ Je höher die Bewertung, desto mehr zukünftige Realität muss bereits heute sti
 
 ---
 
-## XIV. Die aktuelle Forschungspriorität
+## XIV. Hidden Thesis Correlation – Ticker-Diversifikation ist nicht Thesis-Diversifikation
+
+Ein Portfolio kann aus mehreren Aktien bestehen und ökonomisch trotzdem nur eine einzige Wette enthalten.
+
+SAP, RELX und Wolters Kluwer sind dafür das sauberste aktuelle Beispiel. Auf Ticker-Ebene wirken sie wie drei Unternehmen aus unterschiedlichen Teilmärkten. Auf Thesis-Ebene hängen sie jedoch stark an derselben Meta-Wette:
+
+> Der Markt überschätzt, wie stark Foundation Models den ökonomischen Wert bestehender Trusted-Data-, State- und Workflow-Cores zerstören.
+
+Wenn diese Meta-These falsch ist, können alle drei gleichzeitig verlieren. Deshalb darf die Positionsgröße nicht nur tickerweise bestimmt werden.
+
+Die Portfolioebene sollte explizit so gedacht werden:
+
+**Ticker Exposure → Thesis-Family Exposure → Portfolio-Level Thesis Concentration.**
+
+Drei Positionen mit jeweils moderater Größe können zusammen eine große konzentrierte Wette darstellen. Besonders gefährlich ist, dass historische Kurskorrelation diese Verbindung unterschätzen kann. Entscheidend ist nicht nur beobachtete Price Correlation, sondern **Fundamental Thesis Correlation**: Welche gemeinsame Annahme würde mehrere Positionen gleichzeitig brechen?
+
+Für Position Sizing folgt daraus:
+
+- zuerst maximale Exposure pro Thesis Family bestimmen,
+- danach innerhalb dieser Thesis Family einzelne Unternehmen gewichten,
+- gemeinsame Kill Conditions auf Portfolioebene definieren,
+- Stresskorrelation höher ansetzen als normale historische Korrelation, wenn derselbe strukturelle Schock mehrere Titel trifft.
+
+Zone 1 ist deshalb keine dreifache Diversifikation. SAP, RELX und WKL sind drei unterschiedliche Implementierungen einer gemeinsamen Scarce-Core-/Interface-Disruption-Wette.
+
+---
+
+## XV. Die aktuelle Forschungspriorität
 
 Wenn wir die Theorie, die aktuellen Fundamentaldaten und das Erwartungsniveau zusammenbringen, sehe ich Stand Anfang September 2026 drei Research-Zonen.
 
@@ -1455,6 +1502,8 @@ Hier lautet die Kernfrage:
 Wird AI den Scarce Core commoditisieren – oder macht abundant Intelligence gerade Trusted Data, State und Workflow Integration knapper?
 
 Das ist wahrscheinlich unser sauberster „contrarian conceptual bet“.
+
+Portfolioseitig muss diese Zone jedoch als **eine gemeinsame Thesis Family** behandelt werden. Mehrere Positionen innerhalb von SAP, RELX und WKL erhöhen die Unternehmensdiversifikation, aber nicht automatisch die Diversifikation der zugrunde liegenden AI-Disruption-Wette.
 
 ---
 
@@ -1516,7 +1565,7 @@ Wir müssen beweisen, dass der zusätzliche Strombedarf überproportionalen Equi
 
 ---
 
-## XV. Fälle, bei denen die These bereits stärker erkannt wurde
+## XVI. Fälle, bei denen die These bereits stärker erkannt wurde
 
 Auf der anderen Seite stehen Unternehmen wie:
 
@@ -1548,7 +1597,7 @@ Ohne einen solchen zusätzlichen Schritt reicht „gute Firma + AI Exposure“ n
 
 ---
 
-## XVI. Das Analyse-Raster für jede Aktie
+## XVII. Das Analyse-Raster für jede Aktie
 
 Unsere praktische Analyse sollte deshalb immer vom System zur Aktie und erst danach zum Kurs gehen.
 
@@ -1596,6 +1645,12 @@ Dann:
 
 Welche Zukunft bezahlt der Aktienkurs bereits?
 
+Dann auf Portfolioebene:
+
+Welche anderen Positionen hängen an derselben strukturellen Annahme?
+
+Welche gemeinsame Kill Condition könnte mehrere Titel gleichzeitig treffen?
+
 Und erst ganz am Ende:
 
 Kaufen oder nicht kaufen?
@@ -1604,7 +1659,7 @@ Dadurch vermeiden wir das typische Problem, zuerst eine Aktie zu mögen und ansc
 
 ---
 
-## XVII. Die eigentliche gemeinsame Metathese
+## XVIII. Die eigentliche gemeinsame Metathese
 
 Alle fünf Thesen lassen sich letztlich auf eine gemeinsame Idee reduzieren:
 
