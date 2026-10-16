@@ -4,7 +4,7 @@ Independent public-equity research, economic frameworks, forward-looking technol
 
 > **Language / Sprache:** This GitHub overview is in English, but **many original Notion research notes are written in German (Deutsch)**. Some GitHub essays are in English, others in German. The Notion links below lead to the original research in its original language; they are not English translations.
 >
-> **Portfolio status:** Investment allocations and transaction records in this archive refer to a **virtual / paper research portfolio**, not verified live-money trading. Previously reported alpha figures are undergoing reconciliation and should **not** be treated as audited or independently verified performance. See the portfolio history and methodology below.
+> **Portfolio status:** Investment allocations and transaction records in this archive refer to a **virtual / paper research portfolio**, not verified live-money trading. Earlier alpha figures (including the historical 11.9% calculation and the October 14 recorded-reference 10.18% reconstruction) are **not current verified performance**. The owner's latest reported estimate is **approximately 9%**, but its exact value, valuation date, execution assumptions, and reproducible calculation have not yet been supplied or independently verified. Do not cite 12% as current alpha; preserve older figures only as dated historical estimates and methodological corrections. See the portfolio history and methodology below.
 
 ## Start here — five documents
 
