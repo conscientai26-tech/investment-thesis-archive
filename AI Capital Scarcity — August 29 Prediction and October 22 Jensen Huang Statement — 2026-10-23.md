@@ -16,19 +16,39 @@ I'm not claiming I invented the idea that infrastructure requires financing. I a
 
 In Section 24 of that note, I wrote:
 
-> **Kapital kann selbst zum Engpass werden.**
+> **Kapital kann selbst zum Engpass werden**
 >
-> Wenn gleichzeitig jeder Rechenzentren, Chipfabriken, Stromnetze, AI-Unternehmen und Cloud-Infrastruktur bauen möchte, braucht das gigantisches Kapital.
+> Wenn gleichzeitig jeder:
 >
-> Irgendwann können Finanzierer sagen: Wir geben euch nicht mehr zu denselben Bedingungen Geld.
+> - Rechenzentren,
+> - Chipfabriken,
+> - Stromnetze,
+> - AI-Unternehmen,
+> - Cloud-Infrastruktur
 >
-> Kapital wird teurer. Investitionen werden langsamer.
+> bauen möchte, braucht das gigantisches Kapital.
+>
+> Irgendwann können Finanzierer sagen:
+>
+> Wir geben euch nicht mehr zu denselben Bedingungen Geld.
+>
+> Kapital wird teurer.
+>
+> Investitionen werden langsamer.
 
 In English: **capital itself can become a bottleneck**. When companies simultaneously try to build data centers, chip factories, electricity grids, AI businesses and cloud infrastructure, their financing needs grow together. Lenders and other investors may eventually stop offering capital on the same terms. Financing gets more expensive, and expansion may slow.
 
 The next part of the original passage was a hypothetical sequence:
 
-> Compute war knapp. Kapital strömte hinein. Der Ausbau explodierte. Kapital wurde knapp. Der Ausbau verlangsamt sich.
+> Compute war knapp.
+>
+> Kapital strömte hinein.
+>
+> Der Ausbau explodierte.
+>
+> Kapital wurde knapp.
+>
+> Der Ausbau verlangsamte sich.
 
 That is: **scarce compute → capital rushes in → an investment boom → capital becomes scarce → expansion slows.**
 
