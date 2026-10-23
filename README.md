@@ -6,7 +6,7 @@ Independent public-equity research, economic frameworks, forward-looking technol
 >
 > **Portfolio status:** Investment allocations and transaction records in this archive refer to a **virtual / paper research portfolio**, not verified live-money trading. Earlier alpha figures (including the historical 11.9% calculation and the October 14 recorded-reference 10.18% reconstruction) are **not current verified performance**. The owner's latest reported estimate is **approximately 9%**, but its exact value, valuation date, execution assumptions, and reproducible calculation have not yet been supplied or independently verified. Do not cite 12% as current alpha; preserve older figures only as dated historical estimates and methodological corrections. See the portfolio history and methodology below.
 
-> **Latest executed portfolio addition (22 October 2026):** [Tokyo Ohka Kogyo (TOK, 4186): executed €7,500 virtual purchase, 22 Oct 2026](Tokyo%20Ohka%20Kogyo%20(TOK%204186)%20%E2%80%94%20Executed%20EUR%207%2C500%20Virtual%20Investment%20%E2%80%94%202026-10-22.md). This is a **completed virtual/paper-portfolio buy**, not an unfilled order or planned investment. On the existing recorded chronology it increases the active named holdings from thirteen to fourteen. Exact JPY fill price, FX and simulated share quantity remain unreconciled; the execution decision itself is confirmed by the portfolio owner.
+> **Latest executed portfolio additions (23 October 2026):** [Ambiq, Alphabet and Netflix — $4,000 of executed virtual additions](Ambiq%20%28AMBQ%29%2C%20Alphabet%20%28GOOGL%29%20and%20Netflix%20%28NFLX%29%20%E2%80%94%20Executed%20Additions%20%E2%80%94%202026-10-23.md). Ambiq +$1,500, Alphabet +$1,000 and Netflix +$1,500; new nominal reference allocations are $6,500, $12,000 and $7,500 respectively. These are completed virtual/paper-portfolio transactions, not planned orders. Exact simulated fills and quantities are not yet reconciled. This supersedes the earlier proposed allocations to these three holdings; no Qualcomm execution is implied.
 
 ## Start here — five documents
 
@@ -57,6 +57,7 @@ These are documented **hypotheses**, not claims that the future has already vali
 
 ## 3. Investment decisions and case studies
 
+- [Ambiq, Alphabet and Netflix — executed $4,000 virtual additions (23 Oct 2026)](Ambiq%20%28AMBQ%29%2C%20Alphabet%20%28GOOGL%29%20and%20Netflix%20%28NFLX%29%20%E2%80%94%20Executed%20Additions%20%E2%80%94%202026-10-23.md). Dated first-person record of the completed $1,500 AMBQ, $1,000 GOOGL and $1,500 NFLX purchases, the decline in share prices, and the original Notion investment axiom that a decline alone is not a buy signal.
 Both successful and unsuccessful decisions belong in the record; buying, holding, selling, and passing are separate judgments.
 
 - [Tokyo Ohka Kogyo (TOK, 4186): executed €7,500 virtual purchase, 22 Oct 2026](Tokyo%20Ohka%20Kogyo%20(TOK%204186)%20%E2%80%94%20Executed%20EUR%207%2C500%20Virtual%20Investment%20%E2%80%94%202026-10-22.md). Complete first-person rationale, €7,500 position-sizing comparison to the existing holdings, balance-sheet/valuation reservations, capital conversion, competing resist technologies, source evidence and dated falsification rules. **Executed, not proposed; price/FX/quantity pending reconciliation.**
