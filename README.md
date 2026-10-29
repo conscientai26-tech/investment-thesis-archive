@@ -18,6 +18,10 @@ Independent public-equity research, economic frameworks, forward-looking technol
 4. **How decisions become evidence:** [Investment Learning System — Universal Signals, Not One-Off Stories (Notion, primarily German)](https://app.notion.com/p/3f267b6787f8812a9eb5eb304a8e2b28). A framework for testing which variables and decision rules have predictive value, including falsification and error analysis.
 5. **Dated case study:** [Oracle: capital-intensity risk identified before the 14 Oct 2026 selloff (GitHub)](Oracle%20(ORCL)%20%E2%80%94%20October%208%20Analysis%20and%20October%2014%20Selloff%20%E2%80%94%20Documented%20Case%20Study.md). Links to the relevant original Notion notes and distinguishes identification of a vulnerability from prediction of the exact day or size of the move.
 
+### Featured case study — August AI CapEx thesis and Ackman's later Microsoft explanation
+
+[**Microsoft: my August 20, 2026 capital-spending argument and Bill Ackman's public remarks of October 28, 2026 — a documented comparison**](Microsoft%20(MSFT)%20%E2%80%94%20August%2020%20AI%20CapEx%20Thesis%20and%20Bill%20Ackman's%20October%2028%202026%20Remarks%20%E2%80%94%20Documented%20Comparison.md). This retrospective links the [original August 20 Notion essay](https://app.notion.com/p/3cc67b6787f8819c9f4ddad2d2c98cb4), the [August 20 GitHub commit showing the exact earlier text](https://github.com/conscientai26-tech/investment-thesis-archive/commit/0ae0cdee18f76e9d77a7b5f333d0589472dc8191), supporting August/September research, and the Norges Bank Investment Management interview published October 28. It evaluates what the chronological agreement suggests about analytical judgment, while distinguishing the public date of Ackman's explanation from when he privately developed his view and avoiding any unverified claim of realised alpha.
+
 ## 1. Investment philosophy and methodology — original Notion evidence
 
 The following are the **ten priority original Notion links** I would want a research reviewer or prospective employer to see. They are not all in English.
