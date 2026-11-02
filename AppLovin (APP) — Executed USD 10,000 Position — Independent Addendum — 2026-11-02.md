@@ -106,6 +106,16 @@ Until then, the evidence supports the following unambiguous record:
 
 This document exists independently to preserve the earlier GitHub commit history and make the completed status unmistakable.
 
+## Timestamp evidence supplement — 2026-11-02
+
+Four screenshots shared in the ChatGPT conversation show an AppLovin documentation instruction and its message-menu timestamp, **Today, 3:28 PM**. Another screenshot shows the Android date **Mon, Nov 2** in the same view. The text requests documentation of a completed purchase; the earlier recommendation discusses a **USD 10,000** position. The conversation therefore documents a communicated investment decision at approximately **15:28 CET on November 2, 2026**, ahead of the 15:30 CET regular US market open.
+
+The original GitHub thesis was committed at 15:32:21 CET. This is its publication time, not necessarily the decision time. Screenshots are supportive evidence, not an authenticated brokerage execution report, and the exact per-share virtual fill price is not established here.
+
+**Images:** Four original screenshots are in the linked ChatGPT conversation; these have **not** been uploaded to GitHub as binary attachments.
+
+---
+
 ## Sources and original contemporaneous record
 
 - [Original November 2 APP investment thesis and complete source notes](./AppLovin%20(APP)%20%E2%80%94%20Confirmed%20USD%2010%2C000%20Virtual%20Purchase%20and%20Investment%20Thesis%20%E2%80%94%202026-11-02.md)
