@@ -10,6 +10,8 @@ Independent public-equity research, economic frameworks, forward-looking technol
 >
 > **Latest executed portfolio additions (23 October 2026):** [Ambiq, Alphabet and Netflix — $4,000 of executed virtual additions](Ambiq%20%28AMBQ%29%2C%20Alphabet%20%28GOOGL%29%20and%20Netflix%20%28NFLX%29%20%E2%80%94%20Executed%20Additions%20%E2%80%94%202026-10-23.md). Ambiq +$1,500, Alphabet +$1,000 and Netflix +$1,500; new nominal reference allocations are $6,500, $12,000 and $7,500 respectively. These are completed virtual/paper-portfolio transactions, not planned orders. Exact simulated fills and quantities are not yet reconciled. This supersedes the earlier proposed allocations to these three holdings; no Qualcomm execution is implied.
 
+> **Latest confirmed virtual purchase (2 November 2026):** [AppLovin (APP) — completed USD 10,000 allocation and full investment thesis](AppLovin%20%28APP%29%20%E2%80%94%20Confirmed%20USD%2010%2C000%20Virtual%20Purchase%20and%20Investment%20Thesis%20%E2%80%94%202026-11-02.md). The $10,000 position is recorded as purchased in the paper portfolio, not proposed. The $228.50 October 30 closing quote is a valuation reference, not a verified November 2 per-share execution price. The report includes valuation cases, an approximately +3.9 pp central conditional alpha scenario, institutional ownership, risk relative to other positions, and falsification criteria. No real-money trade is claimed.
+>
 ## Start here — five documents
 
 1. **Core philosophy:** [Investmentphilosophie — vollständiges kohärentes Framework (Notion, German, 8 Oct 2026)](https://app.notion.com/p/3f367b6787f88172a37bfc0db91362bc). The integrated approach to structural change, economic power, capital conversion, relative valuation, and risk.
@@ -63,6 +65,7 @@ These are documented **hypotheses**, not claims that the future has already vali
 
 ## 3. Investment decisions and case studies
 
+- [AppLovin (APP): completed $10,000 virtual purchase and investment thesis, November 2, 2026](AppLovin%20%28APP%29%20%E2%80%94%20Confirmed%20USD%2010%2C000%20Virtual%20Purchase%20and%20Investment%20Thesis%20%E2%80%94%202026-11-02.md). Dated execution decision, $228.50 October 30 valuation reference, 2030 return sensitivities, institutional selling and position sizing versus existing portfolio holdings.
 - [Ambiq, Alphabet and Netflix — executed $4,000 virtual additions (23 Oct 2026)](Ambiq%20%28AMBQ%29%2C%20Alphabet%20%28GOOGL%29%20and%20Netflix%20%28NFLX%29%20%E2%80%94%20Executed%20Additions%20%E2%80%94%202026-10-23.md). Dated first-person record of the completed $1,500 AMBQ, $1,000 GOOGL and $1,500 NFLX purchases, the decline in share prices, and the original Notion investment axiom that a decline alone is not a buy signal.
 Both successful and unsuccessful decisions belong in the record; buying, holding, selling, and passing are separate judgments.
 
