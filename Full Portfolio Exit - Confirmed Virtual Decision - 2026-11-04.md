@@ -1,21 +1,21 @@
-# Portfolio Risk Reduction - Sale of 15 Holdings, Tokyo Ohka Retained - November 4, 2026
+# Portfolio Risk Reduction - Sale of 14 Holdings, AppLovin and Tokyo Ohka Retained - November 4, 2026
 
 Decision date: November 4, 2026
 Decision time: Approximately 17:35 CET (Europe/Berlin). This is the time the decision was documented, not a verified trade execution time.
-Action: Sell 100% of 15 current equity holdings. Retain Tokyo Ohka Kogyo (4186.T) in full.
+Action: Sell 100% of 14 current equity holdings. Retain AppLovin (APP) and Tokyo Ohka Kogyo (4186.T) in full.
 Status: CONFIRMED
 Portfolio: Virtual investment portfolio
-Scope: Full exit from 15 of 16 documented active equity positions. Tokyo Ohka Kogyo is explicitly excluded and remains held.
+Scope: Full exit from 14 of 16 documented active equity positions. AppLovin and Tokyo Ohka Kogyo are explicitly excluded and remain held.
 
 ## Decision
 
-I am closing 15 of my 16 equity positions in my virtual portfolio today. I am keeping Tokyo Ohka Kogyo in full. This is a confirmed allocation decision, not a watchlist note, a conditional order, or a prediction that stocks must fall tomorrow.
+I am closing 14 of my 16 equity positions in my virtual portfolio today. I am keeping AppLovin and Tokyo Ohka Kogyo in full. This is a confirmed allocation decision, not a watchlist note, a conditional order, or a prediction that stocks must fall tomorrow.
 
 I am choosing to remove near-term equity exposure because I believe the downside risk has become less attractive relative to the additional return I might earn by remaining fully invested. The decision is based on portfolio-level risk, not on an attempt to identify the exact intraday high.
 
 ## Positions covered
 
-The 15 sale positions below are subject to a 100% virtual exit. Tokyo Ohka Kogyo is the only exception and is retained in full.
+The 14 sale positions below are subject to a 100% virtual exit. AppLovin and Tokyo Ohka Kogyo are exceptions and are retained in full.
 
 | Company | Ticker | Action |
 | --- | --- | --- |
@@ -33,10 +33,10 @@ The 15 sale positions below are subject to a 100% virtual exit. Tokyo Ohka Kogyo
 | Pegasystems | PEGA | Sell entire position |
 | Mastercard | MA | Sell entire position |
 | Micron Technology | MU | Sell entire position |
-| AppLovin | APP | Sell entire position |
+| AppLovin | APP | HOLD entire position. Do not sell. |
 | Tokyo Ohka Kogyo | 4186.T | HOLD entire position. Do not sell. |
 
-As in the November 3 scenario, Tokyo Ohka Kogyo is excluded from this exit and remains a holding. Its documented position is not being reduced.
+As in the November 3 scenario, Tokyo Ohka Kogyo is excluded from this exit and remains a holding. AppLovin is also excluded and stays invested. Neither documented position is being reduced.
 
 ## Rationale
 
@@ -54,13 +54,13 @@ I accept that prices may continue to rise after this decision, including in the 
 
 ## Portfolio record and execution limits
 
-Confirmed decision: Full virtual equity exit from 15 positions on November 4, 2026, with the entire Tokyo Ohka Kogyo position explicitly retained.
+Confirmed decision: Full virtual equity exit from 14 positions on November 4, 2026, with the entire AppLovin and Tokyo Ohka Kogyo positions explicitly retained.
 
-Virtual portfolio status after recording this instruction: One active equity position, Tokyo Ohka Kogyo (4186.T). The other 15 documented equity positions are marked sold in this paper-portfolio decision ledger.
+Virtual portfolio status after recording this instruction: Two active equity positions, AppLovin (APP) and Tokyo Ohka Kogyo (4186.T). The other 14 documented equity positions are marked sold in this paper-portfolio decision ledger.
 
-This amendment confirms that Tokyo Ohka Kogyo is not part of the liquidation. The sale decision covers only the other 15 holdings. This entry records a confirmed paper-portfolio allocation decision. It does not place brokerage orders and does not confirm that any shares were sold in a real account. Exact sale prices, quantities, timestamps for executable fills, transaction costs, tax effects, FX conversion rates, cash proceeds, and realized P&L are not verified here and are not invented. The last documented nominal allocations are not assumed to be executable sale proceeds.
+This amendment confirms that AppLovin and Tokyo Ohka Kogyo are not part of the liquidation. The sale decision covers only the other 14 holdings. This entry records a confirmed paper-portfolio allocation decision. It does not place brokerage orders and does not confirm that any shares were sold in a real account. Exact sale prices, quantities, timestamps for executable fills, transaction costs, tax effects, FX conversion rates, cash proceeds, and realized P&L are not verified here and are not invented. The last documented nominal allocations are not assumed to be executable sale proceeds.
 
-Correction recorded on November 4, 2026, shortly after the original entry: the initial version incorrectly included Tokyo Ohka Kogyo among the positions to sell. That inclusion is revoked; the original decision now records it as a retained holding. The original decision and documentation time are preserved.\n\nThe November 3 simulated liquidation and November 4 simulated re-entry remain separate historical scenarios. This decision supersedes their hypothetical position state for the current virtual portfolio, without rewriting those earlier records.
+Correction recorded on November 4, 2026, shortly after the original entry: the initial version incorrectly included Tokyo Ohka Kogyo among the positions to sell. That inclusion is revoked; the original decision now records it as a retained holding. AppLovin is likewise excluded from the November 4 exit and remains an active holding. The original decision and documentation time are preserved.\n\nThe November 3 simulated liquidation and November 4 simulated re-entry remain separate historical scenarios. This decision supersedes their hypothetical position state for the current virtual portfolio, without rewriting those earlier records.
 
 Reference records:
 - Simulated portfolio liquidation on November 3, 2026.
