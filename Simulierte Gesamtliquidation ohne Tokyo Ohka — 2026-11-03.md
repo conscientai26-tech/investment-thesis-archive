@@ -2,15 +2,15 @@
 
 ## Entscheidungszeitpunkt
 
-- **Historischer Entscheidungszeitpunkt:** 2026-11-03T22:00:00+01:00
+- **Historischer Entscheidungszeitpunkt:** 2026-11-03T22:13:00+01:00
 - **Zeitzone:** Europe/Berlin (MEZ)
-- **Entspricht:** 2026-11-03T21:00:00Z
+- **Entspricht:** 2026-11-03T21:13:00Z
 - **Ursprünglich dokumentiert:** **4. November 2026, 04:00:34 Uhr MEZ** (GitHub-Erstellungscommit: `2026-11-04T03:00:34Z`). Dieser Zeitpunkt liegt nach der historischen Entscheidung; der Commit wurde nicht zurückdatiert.
 - **Änderung dieser sichtbaren Zeitangabe:** Der aktuelle GitHub-Änderungscommit erhält seinen eigenen Zeitstempel, getrennt vom ursprünglichen Dokumentationszeitpunkt.
 
 ## Entscheidung
 
-Der Portfolioinhaber wollte am 3. November 2026 um 22:00 Uhr deutscher Zeit die gesamten zu diesem Zeitpunkt im Archiv dokumentierten Aktienpositionen verkaufen, **mit Ausnahme von Tokyo Ohka Kogyo (4186)**. Die Entscheidung wurde als Risikomanagement vor den US-Midterm-Wahlen beschrieben: Nach starken Kursanstiegen erschien das mögliche Verlustrisiko höher als die weitere Gewinnchance. Der geplante Verkauf wurde nicht ausgeführt, weil der Portfolioinhaber eingeschlafen war.
+Der Portfolioinhaber wollte am 3. November 2026 um 22:13 Uhr deutscher Zeit die gesamten zu diesem Zeitpunkt im Archiv dokumentierten Aktienpositionen verkaufen, **mit Ausnahme von Tokyo Ohka Kogyo (4186)**. Die Entscheidung wurde als Risikomanagement vor den US-Midterm-Wahlen beschrieben: Nach starken Kursanstiegen erschien das mögliche Verlustrisiko höher als die weitere Gewinnchance. Der geplante Verkauf wurde nicht ausgeführt, weil der Portfolioinhaber eingeschlafen war.
 
 Dies ist eine nachträglich erfasste **hypothetische Szenarioentscheidung**. Sie ist weder ein Brokerauftrag noch eine tatsächliche oder bestätigte virtuelle Ausführung.
 
@@ -42,7 +42,7 @@ Der archivierte USD-Betrag dieser 15 Verkaufspositionen summiert sich auf **USD 
 
 ## Bewertungs- und Ausführungsregeln
 
-Der Entscheidungszeitpunkt entspricht 16:00 Uhr US-Ostküstenzeit am 3. November 2026, also dem regulären US-Börsenschluss. Ein Schlusskurs ist damit ein möglicher Bewertungsreferenzpunkt, aber ohne rechtzeitig eingereichte und bestätigte Schlussauktion-Order kein belegter Ausführungskurs. Eine hypothetische Ausführung nach genau diesem Zeitpunkt müsste den nächsten tatsächlich verfügbaren Handelspunkt und für jede Börse passende Ausführungsregeln verwenden.
+Der Entscheidungszeitpunkt entspricht 16:13 Uhr US-Ostküstenzeit am 3. November 2026, also 13 Minuten nach dem regulären US-Börsenschluss. Für US-Aktien lag damit die Nachbörse im Zeitfenster; Nasdaq führt sie regulär von 16:00 bis 20:00 Uhr ET. Der Schlusskurs um 16:00 Uhr ist deshalb kein Ausführungskurs zum Entscheidungszeitpunkt 16:13 Uhr. Ein realistisches Szenario müsste je Position einen tatsächlich verfügbaren Nachbörsenkurs und eine ausführbare Orderannahme verwenden. Bei Titeln an anderen Börsen wäre der nächste dort verfügbare Handelspunkt maßgeblich. Ohne passende Nachbörsendaten und eine festgelegte Orderannahme wird kein Ausführungskurs angesetzt. Quelle: [Nasdaq trading sessions](https://www.nasdaq.com/articles/data/nasdaqs-global-and-us-trading-sessions).
 
 Die Quelldokumente bestätigen mehrere virtuelle Kauf- und Rebalance-Entscheidungen, halten aber für zahlreiche Positionen die simulierten Stückzahlen, exakten Einstiegskurse und/oder Währungsumrechnungen ausdrücklich offen. Daher werden hier **keine Stückzahlen, Verkaufskurse, Verkaufserlöse oder realisierten Gewinne/Verluste erfunden**.
 
