@@ -1,4 +1,4 @@
-# Full Portfolio Exit - November 4, 2026
+# Portfolio Risk Reduction - Sale of 15 Holdings, Tokyo Ohka Retained - November 4, 2026
 
 Decision date: November 4, 2026
 Decision time: Approximately 17:35 CET (Europe/Berlin). This is the time the decision was documented, not a verified trade execution time.
