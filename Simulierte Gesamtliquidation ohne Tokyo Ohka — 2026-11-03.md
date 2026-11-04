@@ -5,7 +5,8 @@
 - **Historischer Entscheidungszeitpunkt:** 2026-11-03T22:00:00+01:00
 - **Zeitzone:** Europe/Berlin (MEZ)
 - **Entspricht:** 2026-11-03T21:00:00Z
-- **Dokumentationszeitpunkt:** der tatsächliche GitHub-Commit-Zeitstempel dieser Datei. Der Commit ist nicht auf den Entscheidungszeitpunkt zurückdatiert.
+- **Ursprünglich dokumentiert:** **4. November 2026, 04:00:34 Uhr MEZ** (GitHub-Erstellungscommit: `2026-11-04T03:00:34Z`). Dieser Zeitpunkt liegt nach der historischen Entscheidung; der Commit wurde nicht zurückdatiert.
+- **Änderung dieser sichtbaren Zeitangabe:** Der aktuelle GitHub-Änderungscommit erhält seinen eigenen Zeitstempel, getrennt vom ursprünglichen Dokumentationszeitpunkt.
 
 ## Entscheidung
 
