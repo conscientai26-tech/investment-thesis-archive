@@ -63,6 +63,19 @@ Der simulierte Verkaufsentscheid war auf **2026-11-03 22:13 MEZ** datiert. Er wu
 
 Unter den 14 US-notierten Positionen lagen 10 zuletzt beobachtete Kurse unter dem jeweiligen regulären Schlusskurs, 3 darüber und 1 unverändert. Das einfache, gleichgewichtete Mittel dieser 14 prozentualen Kursänderungen beträgt **−0,72 %**. Es ist keine Portfolio-Rendite: Stückzahlen, tatsächlich ausgeführte Verkaufspreise und eine Bewertung des WKL-Anteils zum Wiederkaufzeitpunkt fehlen. Die Daten begründen daher weder einen tatsächlichen Verkauf noch einen bestimmten realisierten oder vermiedenen Geldbetrag.
 
+## Nächtlicher Vergleich zum S&P 500
+
+Für eine grobe gewichtete Näherung habe ich die zuletzt dokumentierten nominalen USD-Allokationen der 13 USD-Positionen mit einem verfügbaren Kursvergleich aus der Liquidationsdatei verwendet (GOOGL, MSFT, META, CRM, AMZN, SAP, AMBQ, SNPS, NFLX, PATH, PEGA, MU, APP). Mit diesen nicht verifizierten Portfolio-Gewichten ergibt sich für den Aktienkorb eine Veränderung von rund **−0,89 %**. WKL fehlt wegen des fehlenden späteren Börsenkurses; Mastercard ist separat in EUR allokiert und nicht in diese USD-Gewichtung eingerechnet. Der Wert ist daher eine Näherung, keine tatsächliche Depot-TWR oder Brokerabrechnung.
+
+Als Benchmark-Referenz: Ein Marktbericht vom **4. November, 04:44 MEZ (22:44 EST)** meldete S&P-500-Futures mit rund **−0,65 %**; das liegt 14 Minuten nach dem Szenario-Wiederkaufzeitpunkt. Der genaue Futuresstand um 04:30 MEZ ließ sich nicht verifizieren. Quelle: [Investors.com, Wahlabend-Marktbericht](https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/).
+
+Daraus folgen zwei getrennte Vergleiche:
+
+- **Cash statt Aktienkorb:** Gegenüber dem Halten der 13 USD-Positionen hätte das Szenario ungefähr **+0,89 Prozentpunkte** relative Verbesserung erzielt, sofern die genannten Allokationen als Gewichte gelten.
+- **Cash gegenüber S&P-Futures:** Bei 0 % Cashrendite und dem gemeldeten Futuresrückgang von 0,65 % wäre die relative Benchmarkbewegung ungefähr **+0,65 Prozentpunkte**.
+
+Diese Werte werden nicht addiert. Der Aktienkorb hätte gegenüber dem S&P-Futuresstand etwa **0,24 Prozentpunkte** schlechter abgeschnitten (−0,89 % minus −0,65 %); Cash läge gegenüber dem Benchmark bei etwa +0,65 Prozentpunkten. Der Unterschied zwischen Cash und dem gehaltenen Aktienkorb beträgt damit ungefähr +0,89 Prozentpunkte.
+
 ## Ergebnis und Abgrenzung
 
 Im simulierten Szenario sind nach dieser Entscheidung die 15 zuvor verkauften Positionen wieder eröffnet; Tokyo Ohka bleibt bestehen. Zusammen sind damit wieder 16 dokumentierte Positionen im Szenario enthalten.
