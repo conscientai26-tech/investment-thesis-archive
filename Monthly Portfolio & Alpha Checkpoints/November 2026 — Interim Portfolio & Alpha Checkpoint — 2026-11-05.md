@@ -164,4 +164,4 @@ Die ursprünglich hier verwendete Beschreibung von APP als "durchgehend gehalten
 
 Die Midterm-Simulation **03.11., 22:13 → 04.11., 04:30** gehört nicht zum tatsächlich bestätigten virtuellen Portfoliobestand. Die echte virtuelle Portfolio-Verkaufsentscheidung wurde erst **nach der Wahlnacht am 04.11. gegen 17:35 MEZ** bestätigt. Für eine belastbare Performance-Auswertung müssen APP-Verkauf und -Wiederkauf mit separaten Lots und den bislang fehlenden Kurs-/Zeitbelegen modelliert werden. Die bisherigen APP- und Alpha-Beiträge in dieser Datei bleiben historische Modellschätzungen und sind kein auditierter P&L-Nachweis.
 
-[Archiv mit korrigierter November-4-Chronologie](../../Full%20Portfolio%20Exit%20-%20Confirmed%20Virtual%20Decision%20-%202026-11-04.md).
+[Archiv mit korrigierter November-4-Chronologie](../Full%20Portfolio%20Exit%20-%20Confirmed%20Virtual%20Decision%20-%202026-11-04.md).
