@@ -34,7 +34,7 @@ The U.S. federal election date was **Tuesday, November 3, 2026** ([Federal Elect
 | --- | --- | --- |
 | **Nov 4, approximately 17:34:40** | Earlier ChatGPT user instruction in conversation history (original transcript needed for external verification) | User instructed a confirmed virtual portfolio sale **after** the election night. |
 | **Nov 4, 17:35:46** | [Original 16-position virtual sale commit](https://github.com/conscientai26-tech/investment-thesis-archive/commit/b2f2d3f0c55154a906bd43bc3f0eec001701115a) | All 16 holdings, including APP and Tokyo Ohka, were initially marked sold in the virtual decision record. This was a recorded decision; no broker fill is claimed. |
-| **Nov 4, 17:37:04** | Earlier ChatGPT user message (Nov 4 16:37:04 UTC; original transcript needed) | The user **requested APP repurchase before the earnings** and said Tokyo Ohka must **not** be sold. This is contemporaneous **pre-earnings intent**, but by itself does not establish a 22:00–22:05 executed purchase or its price. |
+| **Nov 4, 17:37:04** | Earlier ChatGPT user message (Nov 4 16:37:04 UTC; original transcript needed) | The user **asked about when to buy APP back before earnings** and stated Tokyo Ohka should not be sold. The assistant's subsequent reply treated APP repurchase as **not executed**, preferring to wait for earnings. This supports contemporaneous discussion, **not a confirmed buy instruction or a virtual execution**. |
 | **Nov 4, 17:37:50** | [Tokyo Ohka correction commit](https://github.com/conscientai26-tech/investment-thesis-archive/commit/c9f09bd20ef34c03801ffa352e1a18694af30c68) | Tokyo Ohka was removed from the sale list; 15 virtual sale lines remained, including APP. |
 | **Nov 4, shortly after 22:00** | Later owner report | APP was repurchased before the Q3 earnings release. **Exact minute, quantity and actionable market price still not independently verified.** |
 | **Nov 4, 22:05** | [AppLovin earnings release timestamp in FT/BUSINESS WIRE distribution](https://markets.ft.markitdigital.com/data/announce/detail?dockey=600-202611041605BIZWIRE_USPRX____20261104_BW553587-1) (21:05 GMT = 22:05 CET) | Public release of Q3 2026 earnings. A purchase claimed to precede this release needs an independently dated decision/fill no later than that instant. |
@@ -48,10 +48,12 @@ The U.S. federal election date was **Tuesday, November 3, 2026** ([Federal Elect
 **The defensible sequence is:**
 
 1. APP was part of the initial recorded virtual sale on November 4 at 17:35.
-2. By 17:37, the owner had issued a contemporaneous instruction to buy APP again ahead of earnings.
+2. At 17:37, the owner discussed when to buy APP back ahead of earnings, but **did not establish an executed repurchase** in the available exchange; the assistant subsequently treated the APP buyback as pending.
 3. At 22:16, GitHub recorded APP as held but described it as though it had never been sold. The *end-of-evening holding state* and the *transaction chronology* are separate facts.
-4. The owner later stated that APP was bought again shortly after 22:00 and before the 22:05 release. The exact time of that repurchase remains **unverified** from a contemporaneous execution record; the 17:37 instruction is evidence of earlier intent, not proof of exact fill.
+4. The owner later stated that APP was bought again shortly after 22:00 and before the 22:05 release. The exact time of that repurchase remains **unverified** from a contemporaneous execution record; the 17:37 discussion is evidence that an APP buyback was being considered, not an order confirmation or evidence of a fill.
 5. The current research ledger should represent two APP events (virtual sale; reported virtual repurchase) rather than continuous holding. Reconstruct actual/virtual sale and rebuy prices before calculating trade-level gains or any benchmark-timing advantage.
+
+**No exact 21:00 time may be inserted as historical execution without contemporaneous support.** If 21:00 is chosen as a backtest *scenario assumption*, it must be explicitly labeled hypothetical and excluded from the confirmed trade ledger. A later owner statement that the action was implemented via coding requires an original timestamped code or ledger change to classify it as executed at that time. 
 
 **What this resolves:** The presence of "APP sold" in the original GitHub history and "APP held" in the 22:16 version are not irreconcilable states. They are consistent with a sale followed by a repurchase. The original 'held throughout' shorthand was incomplete and has been corrected in later notes. No original GitHub commit is deleted or backdated.
 
@@ -67,7 +69,7 @@ The U.S. federal election date was **Tuesday, November 3, 2026** ([Federal Elect
 
 ## E. Evidence still needed
 
-- Original exported or otherwise reviewable **November 4 ~17:37** ChatGPT instruction showing the APP pre-earnings buyback request. The timestamp given here describes the previously retrieved conversation record; this markdown file does not authenticate it by itself.
+- Original exported or otherwise reviewable **November 4 ~17:37** ChatGPT discussion about APP buyback timing (not an executed order). The timestamp given here describes the previously retrieved conversation record; this markdown file does not authenticate it by itself.
 - Independently verifiable **November 4 ~22:00–22:05** APP repurchase decision or simulated fill (if one exists), with minute, price and size; otherwise keep it labeled 'owner-reported'.
 - Source for an actual executed **November 3, 22:13** midterm sale, if claimed; current archived materials say it was **not executed**.
 - Recomputed portfolio alpha that excludes hypothetical election-night timing and properly handles APP round trips.
