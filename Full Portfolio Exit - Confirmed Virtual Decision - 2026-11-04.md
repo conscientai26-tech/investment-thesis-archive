@@ -1,21 +1,21 @@
-# Portfolio Risk Reduction - Sale of 14 Holdings, AppLovin and Tokyo Ohka Retained - November 4, 2026
+# Portfolio Risk Reduction — 15 initially sold, APP subsequently repurchased, Tokyo Ohka retained — November 4, 2026
 
 Decision date: November 4, 2026
 Decision time: Approximately 17:35 CET (Europe/Berlin). This is the time the decision was documented, not a verified trade execution time.
-Action: Sell 100% of 14 current equity holdings. Retain AppLovin (APP) and Tokyo Ohka Kogyo (4186.T) in full.
+Action: November 4 approximately 17:35 CET: originally documented 16-position full exit; corrected shortly thereafter to 15 sold, with Tokyo Ohka retained. AppLovin was included in the original sale record. The owner later reports repurchasing APP shortly after 22:00 CET, before the Q3 release; the repurchase was not recorded on GitHub until 22:16:09 CET.
 Status: CONFIRMED
 Portfolio: Virtual investment portfolio
-Scope: Full exit from 14 of 16 documented active equity positions. AppLovin and Tokyo Ohka Kogyo are explicitly excluded and remain held.
+Scope: After the earlier sale and the owner-reported same-evening APP repurchase, 14 holdings remained sold, with APP and Tokyo Ohka held at the end of November 4. This final status must not be misread as proof APP was never sold.
 
 ## Decision
 
-I am closing 14 of my 16 equity positions in my virtual portfolio today. I am keeping AppLovin and Tokyo Ohka Kogyo in full. This is a confirmed allocation decision, not a watchlist note, a conditional order, or a prediction that stocks must fall tomorrow.
+This record initially documented a virtual sale of all 16 positions at approximately 17:35 CET. A correction at 17:37 CET excluded Tokyo Ohka, leaving 15 virtual sales including AppLovin. The owner subsequently reports purchasing APP again shortly after 22:00 CET, before the company's Q3 results release. The GitHub correction at 22:16 CET instead presented APP as continuously held, an inaccurate transaction chronology according to the owner's later account. The final November 4 balance is 14 positions sold, plus APP (reopened) and Tokyo Ohka (retained). The specific APP repurchase minute and executable price have not been independently established.
 
 I am choosing to remove near-term equity exposure because I believe the downside risk has become less attractive relative to the additional return I might earn by remaining fully invested. The decision is based on portfolio-level risk, not on an attempt to identify the exact intraday high.
 
 ## Positions covered
 
-The 14 sale positions below are subject to a 100% virtual exit. AppLovin and Tokyo Ohka Kogyo are exceptions and are retained in full.
+The table lists the November 4 sale sequence around 17:35 CET, after the Tokyo Ohka correction. The separately reported APP repurchase shortly after 22:00 CET is reflected in the chronology below.
 
 | Company | Ticker | Action |
 | --- | --- | --- |
@@ -33,10 +33,10 @@ The 14 sale positions below are subject to a 100% virtual exit. AppLovin and Tok
 | Pegasystems | PEGA | Sell entire position |
 | Mastercard | MA | Sell entire position |
 | Micron Technology | MU | Sell entire position |
-| AppLovin | APP | HOLD entire position. Do not sell. |
+| AppLovin | APP | Sold in the original virtual exit record; owner reports repurchase shortly after 22:00 CET (exact minute not independently verified) |
 | Tokyo Ohka Kogyo | 4186.T | HOLD entire position. Do not sell. |
 
-As in the November 3 scenario, Tokyo Ohka Kogyo is excluded from this exit and remains a holding. AppLovin is also excluded and stays invested. Neither documented position is being reduced.
+Tokyo Ohka Kogyo was excluded from the sale after the 17:37 CET correction and stayed invested. AppLovin was in the sale list and, according to the owner's later clarification, was repurchased later that evening. These were distinct actions.
 
 ## Rationale
 
@@ -52,15 +52,21 @@ The portfolio has accumulated substantial estimated outperformance relative to t
 
 I accept that prices may continue to rise after this decision, including in the positions I am selling. The purpose of the reduction is to limit exposure to an unfavorable range of outcomes, not to make a precise short-term market prediction. Any later re-entry will require a new assessment of valuation, fundamental developments, correlated risk, and the expected return relative to remaining in cash.
 
-## Portfolio record and execution limits
+## Portfolio record, amendments, and execution limits
 
-Confirmed decision: Full virtual equity exit from 14 positions on November 4, 2026, with the entire AppLovin and Tokyo Ohka Kogyo positions explicitly retained.
+**Original GitHub evidence and corrected chronology (Europe/Berlin, CET):**
 
-Virtual portfolio status after recording this instruction: Two active equity positions, AppLovin (APP) and Tokyo Ohka Kogyo (4186.T). The other 14 documented equity positions are marked sold in this paper-portfolio decision ledger.
+1. **November 4, 17:35:46:** original GitHub commit `b2f2d3f0c55154a906bd43bc3f0eec001701115a` entered a confirmed virtual exit from all 16 holdings, including APP and Tokyo Ohka.
+2. **November 4, 17:37:50:** commit `c9f09bd20ef34c03801ffa352e1a18694af30c68` removed Tokyo Ohka from the sale, leaving **15 sales including APP**.
+3. **November 4, shortly after 22:00 (owner-reported):** APP was repurchased ahead of the Q3 earnings release. **The precise minute, price, and contemporaneous proof of this repurchase remain unverified.** This is a historical decision claim, not the time of a GitHub publication.
+4. **November 4, 22:16:09:** commit `257ac8abc2a6d25372bcfc677f00c7b580d588db` removed APP from the sale list and described APP as retained continuously. That recorded **the final holding status** but, according to the owner's later account, **not the true sequence of sale followed by repurchase**. This correction explicitly supersedes that description without changing the earlier commit.
+5. **November 5:** 14 other positions were reopened in the virtual portfolio. APP had already been reopened the prior evening; Tokyo Ohka was held throughout.
 
-This amendment confirms that AppLovin and Tokyo Ohka Kogyo are not part of the liquidation. The sale decision covers only the other 14 holdings. This entry records a confirmed paper-portfolio allocation decision. It does not place brokerage orders and does not confirm that any shares were sold in a real account. Exact sale prices, quantities, timestamps for executable fills, transaction costs, tax effects, FX conversion rates, cash proceeds, and realized P&L are not verified here and are not invented. The last documented nominal allocations are not assumed to be executable sale proceeds.
+**End-of-day November 4 virtual holdings:** APP and Tokyo Ohka only; 14 positions still marked sold. The initial 15-sale step and subsequent APP repurchase must be retained in any transaction-level performance or benchmark calculation. A continuously-held APP assumption would be incorrect if the owner-reported trade sequence is corroborated.
 
-Correction recorded on November 4, 2026, shortly after the original entry: the initial version incorrectly included Tokyo Ohka Kogyo among the positions to sell. That inclusion is revoked; the original decision now records it as a retained holding. AppLovin is likewise excluded from the November 4 exit and remains an active holding. The original decision and documentation time are preserved.\n\nThe November 3 simulated liquidation and November 4 simulated re-entry remain separate historical scenarios. This decision supersedes their hypothetical position state for the current virtual portfolio, without rewriting those earlier records.
+**Evidence limits:** This archive records virtual decisions, not actual broker orders. No verified fill time, APP repurchase price, share count, cash proceeds, real account execution, or independently established timestamp proving that the APP repurchase preceded the earnings release has been provided. Historical GitHub committer timestamps remain unchanged; a later text amendment does not backdate publication.
+
+The November 3 simulated liquidation and November 4 04:30 simulated re-entry are separate hypothetical scenarios, **not** actual executions of this confirmed November 4 portfolio sale.
 
 Reference records:
 - Simulated portfolio liquidation on November 3, 2026.
