@@ -1,5 +1,13 @@
 # Simulierte Gesamtliquidation ohne Tokyo Ohka — 2026-11-03
 
+## Abgrenzung zum späteren bestätigten virtuellen Portfolioverkauf (Klarstellung 07.11.2026)
+
+**Der hier beschriebene Verkauf am 03.11.2026 um 22:13 MEZ war ein nicht ausgeführtes Szenario.** Die Uhrzeit wurde erst am 04.11.2026 um 04:13:20 MEZ in der GitHub-Historie ergänzt; der ursprüngliche Datei-Commit ist vom 04.11.2026 um 04:00:34 MEZ. Der Commit-Zeitstempel ist nicht rückdatiert. Für eine unabhängige zeitliche Bestätigung der ursprünglichen Absicht wäre eine ältere, extern datierte Quelle nötig.
+
+Der **bestätigte virtuelle Verkauf** des laufenden Portfolios war dagegen eine **separate Entscheidung am 04.11.2026 gegen 17:35 MEZ**, also nach der US-Midterm-Wahlnacht; der entsprechende ursprüngliche GitHub-Commit ist vom **04.11.2026, 17:35:46 MEZ** (`b2f2d3f0c55154a906bd43bc3f0eec001701115a`). Der ursprünglich erfasste Verkauf umfasste auch APP. Nach der Korrektur für Tokyo Ohka standen 15 Positionen als verkauft; APP wurde nach späterer Aussage des Portfolioinhabers am selben Abend kurz nach 22:00 MEZ wieder erworben. Der Wiederkauf ist erst durch einen GitHub-Korrektur-Commit um 22:16:09 MEZ dokumentiert, ohne verifizierte genaue Kaufminute. Das ist weder ein rückwirkend belegter Kaufzeitpunkt noch eine nachträgliche Veröffentlichung vor den Earnings.
+
+[Bestätigter Verkauf und korrigierte APP-Abfolge vom 04.11.](./Full%20Portfolio%20Exit%20-%20Confirmed%20Virtual%20Decision%20-%202026-11-04.md)
+
 ## Entscheidungszeitpunkt
 
 - **Historischer Entscheidungszeitpunkt:** 2026-11-03T22:13:00+01:00
