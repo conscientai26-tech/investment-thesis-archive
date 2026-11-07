@@ -565,7 +565,7 @@ The sources below document where the ideas originated or were developed. They sh
 - [AI-Era Expansion Machines](https://www.notion.so/3d167b6787f88178a56bcc94050cbc0d)
 - [AI Abundance and Generalized Deployment Machines](https://www.notion.so/3e767b6787f88172a2e6d4e496c6eb45)
 - [The Allied Scaling Network](https://www.notion.so/3cb67b6787f881c08f4de3a01ddca542)
-- [Capital Conversion](https://www.notion.so/3cf67b6787f88169-8477-f16f598f7cd1)
+- [Capital Conversion](https://www.notion.so/3cf67b6787f881698477f16f598f7cd1)
 - [Enterprise Elasticity and Pegasystems](https://www.notion.so/3d167b6787f881bf96ade2d9b5dcecbc)
 - [AGI as a Working System](https://www.notion.so/3f867b6787f881e4ac2ece2ac12cfb4a)
 - [Personal AI Orchestration](https://www.notion.so/40867b6787f8819aa380c250326c6c39)
