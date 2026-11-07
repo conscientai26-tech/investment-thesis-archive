@@ -577,6 +577,8 @@ A new candidate does not merely need to be attractive. It must justify its inclu
 
 Doing nothing can therefore represent a carefully reasoned investment decision.
 
+My earlier investment threshold may have been too low. I often invested in companies that met my minimum standards, even when I had already identified substantial uncertainty before purchasing them. As my research experience grows, I intend to raise that threshold considerably. A company should no longer qualify for investment simply because its expected return appears attractive. It should represent an unusually compelling opportunity relative to the alternatives available to me. If my historical assessments of conviction and uncertainty prove predictive of subsequent alpha, stricter selection may become one of the most important improvements to my investment process.
+
 ### VIII. Risk Management as an Anticipatory Process
 
 Risk management begins before an investment is made.
