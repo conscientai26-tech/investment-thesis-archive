@@ -158,6 +158,8 @@ Dieser Checkpoint konserviert die Daten- und Modellannahmen zum Stand des 05.11.
 
 **Offene Nacharbeit:** `share_count`, `fill_time`, `fill_price`, `cashflows`, `realized_pnl`, `position_market_value_2026-11-04`, `USD_FX_history`, `benchmark_total_return_series`, vollständige `TWR`/periodenbezogene Benchmark-Gewichtung.
 
+**Prüfhinweis (07.11.2026):** [Zentrales APP-/Midterm-Ereignisprotokoll](../November%203-5%202026%20%E2%80%94%20AppLovin%20and%20Midterm%20Event%20Audit%20Ledger.md). Die früheren Modellwerte, die einen Zeitvorteil aus dem **nicht ausgeführten** Midterm-Szenario vom 03.11. 22:13 bis 04.11. 04:30 enthalten, sind **nicht als tatsächlich erzielte Portfolio-Outperformance oder realisiertes Alpha belastbar**. Die APP-Rendite kann ohne getrennte Verkauf- und Wiederkaufpreise sowie Ausführungszeiten nicht als verifizierter Lot-Ertrag abgeleitet werden. Die ursprünglichen historischen Rechenwerte bleiben als gekennzeichnete Modellstände dokumentiert, nicht als auditierter Track Record.
+
 ## Chronologie-Korrektur vom 07.11.2026 — APP und Midterms
 
 Die ursprünglich hier verwendete Beschreibung von APP als "durchgehend gehalten" war laut späterer Angabe des Portfolioinhabers unzutreffend. Die GitHub-Ausgangsnotiz des bestätigten virtuellen Portfolioteilverkaufs am **04.11. um 17:35:46 MEZ** enthielt APP; Tokyo Ohka wurde kurz danach ausgenommen. Der Portfolioinhaber gibt an, **APP kurz nach 22 Uhr am 04.11. vor der Ergebnisveröffentlichung erneut gekauft** zu haben. GitHub erfasste den geänderten APP-Bestand **erst um 22:16:09 MEZ**, zunächst als vermeintlich ununterbrochen gehalten. Die genaue Wiederkaufminute, der ausführbare Preis und ein unabhängiger zeitgleicher Beleg sind nicht geprüft.
