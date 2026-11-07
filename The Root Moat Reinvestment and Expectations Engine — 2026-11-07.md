@@ -102,6 +102,18 @@ Audit at least five distortions:
 
 A reported high ROIC on a tiny denominator is a prompt for investigation, not automatic proof of a moat.
 
+### Operating terminology and economic interpretation
+
+**Switching costs** are the monetary, technical, organizational, contractual, time, and execution-risk burdens a customer would incur by replacing a supplier. They are not limited to cancellation fees. In enterprise software, the meaningful costs may be migrating historical data, rebuilding integrations and security controls, retraining employees, interrupting established workflows, and accepting the possibility of operational failure. A lower subscription price is not necessarily enough to overcome these costs. The relevant analytical question is whether a capable alternative can now reduce *total switching cost*, for example using AI-driven migration, interoperability, or a different workflow architecture.
+
+**Operating activity** refers to the ordinary production and sale of a company's goods and services, rather than financing decisions or unrelated gains. **Operating income**, often expressed as EBIT (earnings before interest and taxes), is revenue minus operating costs such as cost of goods sold, sales, R&D, administration, depreciation, and amortization, under the relevant reporting standard. For a stylized business with $10 billion of revenue, $5 billion of production and personnel costs, and $2 billion of other operating expenses, EBIT is $3 billion. This is an accounting illustration, not a cash-flow figure.
+
+**NOPAT (net operating profit after taxes)** is a normalized measure of after-tax operating profit, usually approximated by adjusted EBIT multiplied by (1 − a suitable operating tax rate). It is designed to isolate operating earning power from capital structure. The choice of adjustments, tax rate, operating leases, intangible investments, and invested-capital definitions can materially affect measured ROIC; they must be disclosed and held consistent across the numerator and denominator.
+
+**Invested capital** is capital committed to the operations that generate NOPAT—not simply the company's market capitalization or the money a stock buyer pays for its shares. **Free cash flow** additionally depends on reinvestment, working capital, and cash expenses. Higher NOPAT therefore does not necessarily mean an equal increase in immediately distributable cash.
+
+**Why switching costs matter to returns:** A migration-cost moat can allow renewal retention, lower acquisition costs, or pricing resilience, which in turn may protect NOPAT and incremental returns. But customer retention, recurring revenue, and high margins can all be consequences of the *same* switching-cost mechanism; treating them as independent moats would overstate confidence.
+
 ## III. The critical upgrade: returns on *new* capital
 
 Historical ROIC measures the performance of the invested base. Shareholder value from expansion depends on marginal returns.
@@ -129,6 +141,57 @@ Track the *direction* of marginal economics: ROIIC stable, expanding, or declini
 For software and platforms, calculate whether growth requires increasing distribution spending, discounts, sales effort, model-serving expenses, partner revenue shares, or customer-support costs. For hardware and infrastructure, include working capital, capex, replacement cycles, energy, permitting, and funding costs.
 
 When profitable reinvestment opportunities are exhausted, value depends increasingly on capital distribution discipline and the price paid for the business—not on extrapolating previous growth.
+
+### Practical ROIIC measurement: from accounting data to a credible forward forecast
+
+The question is **how much additional normalized after-tax operating profit will be created by an identifiable increment of capital, and when?** Historical capital productivity is a clue, not a guarantee that future projects will reproduce it.
+
+**A simple illustrative calculation.** Suppose a company has $10 billion invested capital and $2 billion annual NOPAT: historical ROIC is 20%. It invests another $5 billion. Once the projects have matured, normalized NOPAT rises to $2.75 billion. If the $750 million improvement is attributable to that investment, the estimated incremental ROIC is **$0.75bn / $5bn = 15%**. If it instead generates only $300 million, ROIIC is **6%**. At an illustrative 8% cost of capital, the 15% project creates an economic surplus while the 6% project fails that hurdle; neither percentage alone determines stock attractiveness.
+
+#### Five complementary evidence tests
+
+**1. Trace investment to results over a suitable interval.** Reconstruct changes in normalized operating invested capital and NOPAT using several years, preferably rolling three- to five-year windows when the business cycle and disclosure support them. Align incremental capital deployed in earlier years with operating profits earned *after* the relevant deployment lag; compare alternative lag specifications and explain why they are economically appropriate. A one-year ratio can become meaningless if the capital denominator barely moves, becomes negative, includes a large acquisition, or precedes the eventual output. Report raw and adjusted results.
+
+**2. Decompose the investment itself.** Separate maintenance spending needed to preserve the existing business, organic expansion, intangible investment through R&D or customer acquisition, acquisitions, and capital returned to shareholders. Capex reported in the cash-flow statement does not capture all economic investment in software businesses. Conversely, not every R&D dollar necessarily creates a valuable, durable asset. A defensible capitalization adjustment requires realistic benefit lives, amortization assumptions, and sensitivity tests. Distinguish acquisition price from organic capital deployed.
+
+**3. Verify project, product, and customer-cohort economics.** Where disclosed, evaluate additional capital, unit volume, realized price, utilization, contribution margin, renewal behavior, and incremental operating costs at the project or cohort level. For data centers, relate capex to contracted usable capacity, power, utilization, energy and maintenance costs. For enterprise software, relate acquisition/development spending to cohort gross profit, retention, support, migration costs, and expansion revenue. For advertising platforms, examine advertiser acquisition, campaign profitability, publisher distribution cost, serving costs, and independent evidence of conversion lift. **Revenue growth is not by itself incremental return on capital.**
+
+**4. Test the amount of profitable demand and competitors' response simultaneously.** Estimate customer demand at profitable prices *and* competitor supply additions, substitution, pricing pressure, regulatory and platform constraints, and industry-wide financing. A supply-constrained semiconductor producer can display excellent ROIIC today but face declining incremental pricing power when rival factories enter service. A software vendor can appear to have nearly zero marginal production cost while acquiring later customer cohorts becomes progressively more expensive.
+
+**5. Forecast a range of *incremental* outcomes, and update it.** Model the next tranche of reinvestment using coherent revenue, operating-margin, working-capital, capex, and deployment-timing assumptions. For a hypothetical $5 billion tranche, scenarios of **6%, 15%, and 25%** incremental ROIC correspond to $300 million, $750 million, and $1.25 billion of steady-state incremental annual NOPAT respectively. These are illustrative return scenarios, **not probabilities or forecasts for a real issuer**. Specify what demand, pricing, cost, and timing would produce each one. Then link the resulting per-share owner cash flow to the market-implied valuation and benchmark return.
+
+#### A key attribution problem: old projects can conceal new-project economics
+
+The aggregate change in NOPAT need not equal the profit from new investments:
+
+- **Downward bias:** The incumbent franchise loses $400 million of annual NOPAT while a new $5 billion program produces $750 million. Consolidated NOPAT rises by only $350 million. A naive estimate yields 7% even though the new program generated 15%, before questions of maintenance spending and shared costs.
+- **Upward bias:** Old products gain $500 million through a cyclical pricing spike while a new $5 billion program produces only $250 million. Consolidated NOPAT rises by $750 million, implying a misleading 15% when the new program generated 5%.
+
+Therefore separate, where possible, **legacy-business price/volume/margin effects**, **new investment cohorts**, **acquisitions and disposals**, **currency effects**, **one-offs**, and **changes in capital intensity**. Segment data, project filings, management disclosures, customer cohorts, and competitor economics are imperfect but useful triangulation sources. If that attribution is impossible, report ROIIC as a *consolidated proxy*, not a verified project-level return.
+
+#### Are diminishing returns inevitable?
+
+No fixed rule requires every company's marginal return to fall immediately or monotonically. The most profitable customers or locations can be exhausted, competitive supply can increase, and customer acquisition can become more expensive. But learning curves, reusable software, operational scale, improved technology, network effects, and complementary-product demand can temporarily sustain or increase marginal returns. The question is **which force dominates for the *next* increment of capital and for how long**. Even when ROIIC declines from 25% to 15%, reinvestment may continue to create economic value if risk-adjusted capital costs remain materially lower.
+
+#### Required output in every substantive company analysis
+
+Produce a dated **incremental-capital evidence sheet**:
+
+| Item | Required entry |
+| --- | --- |
+| Incremental investment | Dollar amount, period, business segment, maintenance vs growth vs acquisitions |
+| Profit attribution | Estimated NOPAT from new projects versus legacy margin/volume movements |
+| Timing | Deployment date, commercial start, ramp and normalized maturity, alternative lags |
+| Historical observations | At least several periods of normalized aggregate ROIIC, with explicit denominator limitations |
+| New-cohort evidence | Unit economics, utilization, retention, customer acquisition, gross profit or contribution margin |
+| Scale ceiling | Profitable market demand, physical/organizational capacity, competitive investment pipeline |
+| Forward ROIIC range | Bear/base/bull incremental NOPAT, capital needs, timing, margins and uncertainty |
+| Economic hurdle | Appropriate WACC or project risk-adjusted hurdle; verify sustainable spread |
+| Price expectations | Market-implied incremental returns, duration and reinvestment runway |
+| Break conditions | Leading signs of deteriorating demand, price, costs, supply, switching costs or funding |
+| Evidence grade | Dated primary disclosure, third-party estimate, owner assumption, or model calculation |
+
+**Research standard:** No single ratio reliably establishes future ROIIC. The strongest case combines historical investment-to-profit evidence, segment or cohort unit economics, an explicit addressable profitable opportunity set, a credible competitor-response model, and ongoing falsification. Label missing inputs rather than filling gaps with precision.
 
 ## IV. Model how the moat changes through time
 
