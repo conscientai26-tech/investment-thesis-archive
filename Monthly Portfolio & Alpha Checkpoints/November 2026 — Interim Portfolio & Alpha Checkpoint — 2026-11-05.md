@@ -4,7 +4,7 @@
 **Stichtag / Daten-Cut-off:** 05.11.2026, reguläre US-Schlussauktion (16:00 EST / 22:00 MEZ); für Amsterdam und Tokio der jeweilige lokale Handelsschluss vom 05.11.  
 **Erstellt:** 06.11.2026; kein rückdatiertes Transaktionsprotokoll  
 **Typ:** Monatlicher **Zwischencheckpoint**, nicht der vollständige November-Monatsabschluss.  
-**Portfolio:** 16 dokumentierte virtuelle Aktienpositionen, 14 am 05.11. bestätigte virtuelle Wiederkäufe und 2 durchgehend gehaltene Positionen; vgl. separates Re-entry-Protokoll.  
+**Portfolio:** 16 dokumentierte virtuelle Aktienpositionen, 14 am 05.11. bestätigte virtuelle Wiederkäufe, Tokyo Ohka durchgehend gehalten und APP laut späterer Besitzerangabe nach Verkauf am 04.11. abends wieder erworben; vgl. separates Re-entry-Protokoll.  
 **Status:** **Reproduzierbare, nominalgewichtete Tages-Modellrechnung. Kumuliertes Alpha nur vorläufige Fortschreibung eines früheren, nicht unabhängig auditierten Chat-Checkpoints. Kein bestätigter Broker-Track-Record.**
 
 ## 1. Executive Summary
@@ -140,7 +140,7 @@ Der Wert **+14.82 pp** darf daher nur als **provisorischer modellbasierter Forts
 ## 6. Chronologie, Re-entries und Grenzen des virtuellen Portfolios
 
 - Historisches Anlageprojekt mit virtualisiertem Referenzportfolio von 1,000,000 USD, dessen **ungenutzter Cashanteil hier nicht in die aktive Aktienkorb-Rendite** eingeht. Die oben bezifferte −1.03% ist **nicht** die Rendite des gesamten 1-Mio.-USD-Kontos.
-- 14 am 05.11. im virtuellen Portfolio ausdrücklich zurückgekaufte Positionen: GOOGL, MSFT, META, CRM, AMZN, SAP, WKL, AMBQ, SNPS, NFLX, PATH, PEGA, MA, MU. **APP und 4186.T blieben gehalten.**
+- 14 am 05.11. im virtuellen Portfolio ausdrücklich zurückgekaufte Positionen: GOOGL, MSFT, META, CRM, AMZN, SAP, WKL, AMBQ, SNPS, NFLX, PATH, PEGA, MA, MU. **4186.T blieb durchgehend gehalten; APP war in der ursprünglichen Verkaufsnotiz vom 04.11. enthalten und wurde laut späterer Besitzerangabe kurz nach 22:00 MEZ am 04.11. wieder erworben. Die genaue APP-Wiederkaufminute und der Fill sind nicht unabhängig verifiziert.**
 - Die virtuelle bestätigte Wiederkaufentscheidung ist nicht dasselbe wie vollständig dokumentierte Fill-Preise. Diese Tabelle verwendet die zuletzt bekannten **nominalen Zielgrößen**, nicht rückwirkend erfundene Fills.
 - Die separate, hypothetische Wiedereinstiegsrechnung vom 04.11. um 04:30 MEZ war **simuliert und nicht ausgeführt** und gehört nicht als zusätzliche Transaktion in diese Bilanz.
 - Ein am 05.11. erfolgter Wiederkauf mitten in der Sitzung erzeugt ohne exakte Fills einen anderen realen Tages-P&L als ein naives Close-to-Close-Halten. Daher **keine Aussage, dass diese -1.03% tatsächlich seit 04.11. auf exakt diesem Konto verdient/verloren wurden**.
@@ -157,3 +157,11 @@ Der Wert **+14.82 pp** darf daher nur als **provisorischer modellbasierter Forts
 Dieser Checkpoint konserviert die Daten- und Modellannahmen zum Stand des 05.11. Er editiert **keine** früheren Investmententscheidungen oder alten Checkpoints rückwirkend. Spätere Kursrevisionen, tatsächliche Broker-Fills oder neue Alpha-Methoden müssen als neue Korrektur mit Datum, Datengrundlage und expliziter Vergleichsrechnung dokumentiert werden.
 
 **Offene Nacharbeit:** `share_count`, `fill_time`, `fill_price`, `cashflows`, `realized_pnl`, `position_market_value_2026-11-04`, `USD_FX_history`, `benchmark_total_return_series`, vollständige `TWR`/periodenbezogene Benchmark-Gewichtung.
+
+## Chronologie-Korrektur vom 07.11.2026 — APP und Midterms
+
+Die ursprünglich hier verwendete Beschreibung von APP als "durchgehend gehalten" war laut späterer Angabe des Portfolioinhabers unzutreffend. Die GitHub-Ausgangsnotiz des bestätigten virtuellen Portfolioteilverkaufs am **04.11. um 17:35:46 MEZ** enthielt APP; Tokyo Ohka wurde kurz danach ausgenommen. Der Portfolioinhaber gibt an, **APP kurz nach 22 Uhr am 04.11. vor der Ergebnisveröffentlichung erneut gekauft** zu haben. GitHub erfasste den geänderten APP-Bestand **erst um 22:16:09 MEZ**, zunächst als vermeintlich ununterbrochen gehalten. Die genaue Wiederkaufminute, der ausführbare Preis und ein unabhängiger zeitgleicher Beleg sind nicht geprüft.
+
+Die Midterm-Simulation **03.11., 22:13 → 04.11., 04:30** gehört nicht zum tatsächlich bestätigten virtuellen Portfoliobestand. Die echte virtuelle Portfolio-Verkaufsentscheidung wurde erst **nach der Wahlnacht am 04.11. gegen 17:35 MEZ** bestätigt. Für eine belastbare Performance-Auswertung müssen APP-Verkauf und -Wiederkauf mit separaten Lots und den bislang fehlenden Kurs-/Zeitbelegen modelliert werden. Die bisherigen APP- und Alpha-Beiträge in dieser Datei bleiben historische Modellschätzungen und sind kein auditierter P&L-Nachweis.
+
+[Archiv mit korrigierter November-4-Chronologie](../../Full%20Portfolio%20Exit%20-%20Confirmed%20Virtual%20Decision%20-%202026-11-04.md).
