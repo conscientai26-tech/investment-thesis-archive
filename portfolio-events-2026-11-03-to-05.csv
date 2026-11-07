@@ -1,0 +1,9 @@
+event_id,event_date_cet,event_time_cet,recorded_time_cet,event_type,ticker,position_count,status,evidence,notes
+midterm_scenario_sale,2026-11-03,22:13,2026-11-04 04:00:34,scenario_sale,PORTFOLIO,15,NOT_EXECUTED,retrospective_scenario,Excludes Tokyo Ohka; event time entered retrospectively
+midterm_scenario_reentry,2026-11-04,04:30,2026-11-04 04:37:45,scenario_reentry,PORTFOLIO,15,NOT_EXECUTED,retrospective_scenario,No real or confirmed virtual portfolio transaction
+portfolio_sale_initial,2026-11-04,17:35,2026-11-04 17:35:46,virtual_sale,PORTFOLIO,16,CONFIRMED_VIRTUAL,contemporaneous_github_commit,Initially included APP and Tokyo Ohka
+tokyo_ohka_exclusion,2026-11-04,17:37,2026-11-04 17:37:50,sale_correction,4186.T,1,CONFIRMED_VIRTUAL,contemporaneous_github_commit,Tokyo Ohka retained; APP remained in sale list
+app_repurchase_discussion,2026-11-04,17:37:04,,discussion,APP,1,NOT_EXECUTED,chat_discussion,Discussion about timing before earnings is not confirmed execution
+app_repurchase_owner_report,2026-11-04,,,virtual_repurchase,APP,1,OWNER_REPORTED_UNVERIFIED_TIME,retrospective_owner_report,Owner reports same-day repurchase before earnings; exact execution time unverified; do not infer 21:00 or 22:00
+app_position_correction,2026-11-04,22:16:09,2026-11-04 22:16:09,documentation_correction,APP,1,RECORDED_HELD,contemporaneous_github_commit,Documented held status; not necessarily purchase execution time
+portfolio_reentry,2026-11-05,,,virtual_repurchase,PORTFOLIO,14,CONFIRMED_VIRTUAL,github_decision_record,Fourteen positions restored; APP and Tokyo Ohka excluded
