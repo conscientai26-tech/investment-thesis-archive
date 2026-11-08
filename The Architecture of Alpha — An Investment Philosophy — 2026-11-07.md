@@ -29,6 +29,30 @@ Technological breakthroughs, regulatory changes, geopolitical developments, new 
 
 That is the starting point of my investment philosophy.
 
+## Analysis Complexity and the Retrospective Inevitability Test
+
+The complexity of the research process should not determine the complexity of the investment conclusion. I am willing to undertake exceptionally difficult analysis, trace distant technological consequences, examine interacting industries, and challenge prevailing assumptions. But the result must ultimately rest on a clear and robust causal mechanism rather than on the continuing sophistication of its explanation.
+
+My preferred investments are linked to technological or economic transitions that future observers may regard as obvious in retrospect. That does not mean the transitions must already be obvious today, nor that their timing or winners are predetermined. The point is to discover, through difficult reasoning, a change whose underlying direction can subsequently be expressed in a small number of strong propositions. The spread of the internet, the replacement of many standalone devices by smartphones, and the movement of software delivery toward the cloud illustrate the kind of structural transformation I mean. The relevant question is not whether such outcomes were certain at the time, but whether their causal basis can be explained without an elaborate chain of fragile assumptions.
+
+This is a discipline against intellectual overfitting. Analytical ability makes it possible to construct increasingly intricate, internally coherent narratives. A narrative may become more elaborate without becoming more predictive. If a thesis survives only because each objection generates another speculative assumption, additional sophistication has ceased to improve the decision.
+
+I therefore distinguish between the difficulty of discovery and the clarity of the discovered mechanism. Complexity is justified when it reveals a stronger and more compressible understanding of reality. It is not justified merely because it makes a thesis harder to challenge or easier to rationalize.
+
+Before allocating capital to a purported structural transition, I ask:
+
+1. Can I state the core technological or economic change in a few sentences, identifying the causal mechanism rather than merely naming a fashionable trend?
+2. Which parts of that mechanism are already observable, and how many independent uncertain developments must occur for the thesis to succeed?
+3. What specific observations, recorded before the outcome, would distinguish the thesis from attractive but false alternatives?
+4. Who will capture the resulting economic value, through what defensible advantage, and how will it translate into incremental cash flow per share?
+5. What does the current price already assume, and why should the remaining expected return exceed available alternatives after accounting for uncertainty and failure?
+
+The retrospective test is a prospective filter, not retrospective proof. Hindsight can make survivorship look inevitable and erase the plausible alternatives that existed at the original decision date. I must therefore record my reasoning, expected indicators, disconfirming evidence, and valuation assumptions in advance. A clear mechanism that produces no distinctive, testable predictions is not enough.
+
+The same applies to identifying winners. A technological revolution may be highly probable while the relevant company's profits, competitive position, or shareholder return remain uncertain. Being right about a transition does not by itself establish alpha.
+
+**I do not seek simple thoughts. I seek conclusions that may require exceptionally complex reasoning to discover, but whose truth, once understood, can be explained with exceptional clarity.** My capital should be concentrated on the rare occasions when that clarity extends from the structural change to economic capture, market expectations, and the price paid.
+
 ### II. Economic Change and the Migration of Scarcity
 
 One of my central principles is that technological progress does not simply eliminate scarcity. It redistributes it.
