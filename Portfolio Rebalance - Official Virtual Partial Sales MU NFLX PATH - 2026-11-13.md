@@ -16,6 +16,16 @@ I am cutting three positions today. I am not changing Synopsys or Mastercard.
 
 ## Why I am making these sales
 
+### From building a track record to being more selective
+
+Until now, I deliberately favored quantity. I wanted to build a broad enough portfolio and make enough independent investment decisions to put my judgment to the test. One good stock can be luck. I wanted a track record that could show whether my results came from a repeatable process rather than a handful of fortunate picks.
+
+I have reached the point where I want to be more selective. I am no longer interested in holding a stock just because the business is good or the thesis sounds reasonable. I want a clearer advantage over the market and stronger reasons for committing capital. If I cannot make that case, I would rather hold cash and wait.
+
+That also means I expect to buy less frequently, perhaps considerably less frequently. I do not need a constant stream of new positions. I would rather make fewer decisions and have more conviction behind each one.
+
+These three sales are part of that shift. I still see reasons to own Micron, Netflix and UiPath, which is why I am keeping smaller positions. I just do not think they deserve as much capital as they had under my previous approach.
+
 ### Micron: keep the memory thesis, reduce the cycle risk
 
 I still believe AI demand can make memory, especially HBM, more strategically important. That is why I am keeping half the position.
