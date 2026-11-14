@@ -6,6 +6,8 @@
 >
 Independent public-equity research, economic frameworks, forward-looking technology theses, and dated virtual portfolio decisions. Research began in July 2026. The goal is to preserve **what I believed, when I believed it, why I believed it, and what happened afterward**—including rejected investments and mistakes.
 
+> **New portfolio selection principle (14 Nov 2026):** [Dynamic Portfolio Quality Hurdle](./Dynamic%20Portfolio%20Quality%20Hurdle%20%E2%80%94%20Relative%20Admission%20and%20Rising%20Standards%20%E2%80%94%202026-11-14.md) — portfolio-relative admission, marginal opportunity cost, conditional rising quality standards, and evidence-based replacement decisions.
+
 > **New strategy module (7 Nov 2026):** [The Root Moat, Reinvestment, and Expectations Engine](./The%20Root%20Moat%20Reinvestment%20and%20Expectations%20Engine%20%E2%80%94%202026-11-07.md) — a practical extension of the investment philosophy connecting defensible competitive advantage, normalized and incremental capital returns, profitable reinvestment runway, implied market expectations, portfolio risk, and falsifiable monitoring. This is a proposed research method, not demonstrated historical alpha.
 >
 > **Language / Sprache:** This GitHub overview is in English, but **many original Notion research notes are written in German (Deutsch)**. Some GitHub essays are in English, others in German. The Notion links below lead to the original research in its original language; they are not English translations.
