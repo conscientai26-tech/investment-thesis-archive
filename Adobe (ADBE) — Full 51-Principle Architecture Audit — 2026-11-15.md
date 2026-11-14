@@ -30,7 +30,7 @@ Diese Prüfung berücksichtigt **nicht nur zehn isolierte Anlagefilter**, sonder
 - [Temporal Alpha Optimization](https://app.notion.com/p/41867b6787f881a6a5b5c0f298cbb089)
 - [Portfolio-relative Aktienqualität](https://app.notion.com/p/41867b6787f881c0b895c2452bf6bb13)
 - [AGI als universelles Arbeitssystem](https://app.notion.com/p/3f867b6787f881e4ac2ece2ac12cfb4a)
-- [Investment Learning System](https://app.notion.com/p/3f267b6787f88188bbaccfc4a49abea3)
+- [Investment Learning System](https://app.notion.com/p/3f267b6787f8812a9eb5eb304a8e2b28)
 - [Komplexe Analyse, klare Erkenntnis](https://app.notion.com/p/41267b6787f881dd95cccf245e1c70f8)
 - [Seltener investieren](https://app.notion.com/p/3ed67b6787f88130b673e1228e7b01c1)
 
