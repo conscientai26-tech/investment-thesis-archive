@@ -599,6 +599,14 @@ As the number of analyzed businesses increases, the threshold for adding a new h
 
 A new candidate does not merely need to be attractive. It must justify its inclusion relative to the existing portfolio and the next-best alternative.
 
+#### Dynamic Portfolio Quality Hurdle
+
+The minimum quality required of a **new** portfolio holding is relative to the **best feasible marginal allocation of my current capital**, not a permanently fixed expected-return number. A candidate must (1) independently clear an absolute gate of causal business quality, realistic expectations and sufficient evidence; (2) improve the portfolio relative to adding to an existing holding, keeping an index or cash position, or using the capital for another candidate; and (3) provide a sufficiently large and robust incremental advantage to outweigh modeling error, shared portfolio risks, and costs.
+
+As stronger holdings displace weaker marginal opportunities, the portfolio's **evidence-supported admission threshold rises**. This is a conditional ratchet, not a rule to increase numerical forecast targets each month. If current valuations outrun fundamentals or an incumbent thesis weakens, the true threshold can also fall. Nor must every candidate have higher standalone alpha than every existing holding: independent risk exposures can improve portfolio quality.
+
+Full operational definition, scenarios, admission gates, and validation design: [Dynamic Portfolio Quality Hurdle — Relative Admission and Rising Standards (14 Nov 2026)](./Dynamic%20Portfolio%20Quality%20Hurdle%20%E2%80%94%20Relative%20Admission%20and%20Rising%20Standards%20%E2%80%94%202026-11-14.md).
+
 Doing nothing can therefore represent a carefully reasoned investment decision.
 
 My earlier investment threshold may have been too low. I often invested in companies that met my minimum standards, even when I had already identified substantial uncertainty before purchasing them. As my research experience grows, I intend to raise that threshold considerably. A company should no longer qualify for investment simply because its expected return appears attractive. It should represent an unusually compelling opportunity relative to the alternatives available to me. If my historical assessments of conviction and uncertainty prove predictive of subsequent alpha, stricter selection may become one of the most important improvements to my investment process.
