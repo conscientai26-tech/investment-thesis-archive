@@ -1,20 +1,13 @@
-# Portfolio trim — Amazon and Tokyo Ohka
-**November 18, 2026**
+# Withdrawn — incorrect Amazon and Tokyo Ohka sale record
 
-I'm cutting 30% of my Amazon and Tokyo Ohka positions today.
+**November 18, 2026 — corrected the same day**
 
-Both are trading higher while much of the portfolio is under pressure. At the time of my screenshots, Amazon was up 1.43% and Tokyo Ohka was up 2.07%. I'd rather use that relative strength to reduce some exposure than leave the whole portfolio riding through another stretch of volatility.
+This entry was created after I misread the instruction and the screenshots. **It is invalid. Neither Amazon nor Tokyo Ohka was authorized for a 30% sale.** Tokyo Ohka was **up 2.07%**, and Amazon was **up 1.43%** in the screenshots. No sale of either is recorded by this instruction.
 
-This is risk management, not a reversal of either investment thesis. I still like both businesses. But after the returns I've built up, protecting capital has to matter as much as finding the next opportunity. I don't need to be fully invested every day, especially when the market is this unsettled.
+The intended decision was to reduce **each holding down more than 1.5% on the day by 30%**, excluding Adobe. Those seven holdings are **UiPath, Salesforce, SAP, Wolters Kluwer, Micron, Ambiq and Pegasystems**.
 
-| Holding | Decision | Amount remaining |
-| --- | --- | --- |
-| Amazon (AMZN) | Sell 30% of the current position | Keep 70% |
-| Tokyo Ohka Kogyo (4186.T) | Sell 30% of the current position | Keep 70% |
-| Adobe (ADBE) | No sale | Keep 100% |
+The corrected, authoritative record is here:
 
-I am **not** including Alphabet (+0.75%) or AppLovin (about +0.3%) in this particular trim. They were only modestly positive in the screenshots, not among the clear gainers. The other stocks shown were negative.
+[Portfolio risk reduction — seven declining holdings — November 18, 2026](https://github.com/conscientai26-tech/investment-thesis-archive/blob/main/Portfolio%20Risk%20Reduction%20-%20Seven%20Declining%20Holdings%20-%202026-11-18.md)
 
-**Recordkeeping:** This is a confirmed portfolio decision in my virtual investment record. It does not establish a real brokerage execution or an exact fill. The quoted daily moves are observations from the screenshots, not execution prices. I haven't specified share counts or the current dollar value of my Amazon holding, so the record is intentionally in percentages. The last documented Tokyo Ohka nominal allocation was $4,500 after the November 13 trim; if unchanged, 30% of that nominal amount would be $1,350, leaving $3,150. Actual current market-value proceeds may differ.
-
-I am not treating the money taken off the table as new alpha. It's simply less capital exposed if the selloff spreads.
+This withdrawn file remains only to preserve the revision history. **Do not count any AMZN or 4186.T trade based on it.**
